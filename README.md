@@ -7,6 +7,6 @@ the site was generate with mkdocs run on github pages
 
 thanks to ctf-wiki authors ,repo config copy from that project
 
-### chinese version deployed on [my.nimra.cloud](https://my.nimra.cloud)
+###  version deployed on [my.nimra.cloud](https://my.nimra.cloud)
 
 ![show case](showcase.jpg)
