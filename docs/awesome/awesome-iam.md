@@ -28,14 +28,10 @@ This knowledge base expose all the technologies, protocols and jargon of the dom
 <!--lint enable double-link-->
 
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
 
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- mdformat-toc end -->
 
 ## Overview
 
@@ -47,7 +43,7 @@ Here we set out the big picture: definition and strategic importance of the doma
 
 - [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - The majority of the features making B2B users happy will be implemented by the IAM perimeter.
 
-- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098) - “Overly permissive AWS IAM policies that allowed `s3:GetObject` to `*` (all) resources”, led to $80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.
+- [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098) - “Overly permissive AWS IAM policies that allowed `s3:GetObject` to `*` (all) resources”, led to \$80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.
 
 - [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/) - A little *click-baity*, but author admit that “It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”
 
@@ -79,13 +75,15 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 - [Conjur](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
+- [SuperTokens](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
+
+- [UserFrosting](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework.
+
 ## Cryptography
 
 The whole authentication stack is based on cryptography primitives. This can't be overlooked.
 
 - [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html) - An up to date set of recommendations for developers who are not cryptography engineers. There's even a [shorter summary](https://news.ycombinator.com/item?id=16749140) available.
-
-- [Security Recommendations for Any Device that Depends on Randomly-Generated Numbers](https://www.av8n.com/computer/htm/secure-random.htm) - “The phrase ‘random number generator’ should be parsed as follows: It is a random generator of numbers. It is not a generator of random numbers.”
 
 - [Real World Crypto Symposium](https://rwc.iacr.org) - Aims to bring together cryptography researchers with developers, focusing on uses in real-world environments such as the Internet, the cloud, and embedded devices.
 
@@ -94,6 +92,18 @@ The whole authentication stack is based on cryptography primitives. This can't b
 - [Papers we love: Cryptography](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
 
 - [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “If you are using compare-by-hash to generate addresses for data that can be supplied by malicious users, you should have a plan to migrate to a new hash every few years”.
+
+### Identifiers
+
+Tokens, primary keys, UUIDs, ... Whatever the end use, you'll have to generate these numbers with some randomness and uniqueness properties.
+
+- [Security Recommendations for Any Device that Depends on Randomly-Generated Numbers](https://www.av8n.com/computer/htm/secure-random.htm) - “The phrase ‘random number generator’ should be parsed as follows: It is a random generator of numbers. It is not a generator of random numbers.”
+
+- [RFC #4122: UUID - Security Considerations](https://www.rfc-editor.org/rfc/rfc4122#section-6) - “Do not assume that UUIDs are hard to guess; they should not be used as security capabilities (identifiers whose mere possession grants access)”. UUIDs are designed to be unique, not to be random or unpredictable: do not use UUIDs as a secret.
+
+- [Awesome Identifiers](https://adileo.github.io/awesome-identifiers/) - A benchmark of all identifier formats.
+
+- [Awesome GUID](https://github.com/secretGeek/AwesomeGUID) - Funny take on the global aspect of unique identifiers.
 
 ## Zero-trust Network
 
@@ -112,6 +122,10 @@ Zero trust network security operates under the principle “never trust, always 
 ## Authentication
 
 Protocols and technologies to verify that you are who you pretend to be.
+
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview and comparison of all token-based authentication schemes for end-user APIs.
+
+- [A Child's Garden of Inter-Service Authentication Schemes](https://web.archive.org/web/20200507173734/https://latacora.micro.blog/a-childs-garden/) - In the same spirit as above, but this time at the service level.
 
 - [Scaling backend authentication at Facebook](https://www.youtube.com/watch?v=kY-Bkv3qxMc) - How-to in a nutshell: 1. Small root of trust; 2. TLS isn't enough; 3. Certificate-based tokens; 4. Crypto Auth Tokens (CATs). See the [slides](https://rwc.iacr.org/2018/Slides/Lewi.pdf) for more details.
 
@@ -141,6 +155,8 @@ Protocols and technologies to verify that you are who you pretend to be.
 
 - [An argument for passwordless](https://web.archive.org/web/20190515230752/https://biarity.gitlab.io/2018/02/23/passwordless/) - Passwords are not the be-all and end-all of user authentication. This article tries to tell you why.
 
+- [Magic Links – Are they Actually Outdated?](https://zitadel.com/blog/magic-links) - What are magic links, their origin, pros and cons.
+
 - [WebAuthn guide](https://webauthn.guide) - A very accessible guide to WebAuthn, a standard allowing “servers to register and authenticate users using public key cryptography instead of a password”, supported by all major browsers.
 
 ### Security Key
@@ -169,13 +185,21 @@ Protocols and technologies to verify that you are who you pretend to be.
 
 - [How effective is basic account hygiene at preventing hijacking](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) - Google security team's data shows 2FA blocks 100% of automated bot hacks.
 
-- [Your Pa$$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) - Same conclusion as above from Microsoft: “Based on our studies, your account is more than 99.9% less likely to be compromised if you use MFA.”
+- [Your Pa\$\$word doesn't matter](https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/Your-Pa-word-doesn-t-matter/ba-p/731984) - Same conclusion as above from Microsoft: “Based on our studies, your account is more than 99.9% less likely to be compromised if you use MFA.”
 
 - [Attacking Google Authenticator](https://unix-ninja.com/p/attacking_google_authenticator) - Probably on the verge of paranoia, but might be a reason to rate limit 2FA validation attempts.
 
 - [Compromising online accounts by cracking voicemail systems](https://www.martinvigo.com/voicemailcracker/) - Or why you should not rely on automated phone calls as a method to reach the user and reset passwords, 2FA or for any kind of verification. Not unlike SMS-based 2FA, it is currently insecure and can be compromised by the way of its weakest link: voicemail systems.
 
 - [Getting 2FA Right in 2019](https://blog.trailofbits.com/2019/06/20/getting-2fa-right-in-2019/) - On the UX aspects of 2FA.
+
+- [2FA is missing a key feature](https://syslog.ravelin.com/2fa-is-missing-a-key-feature-c781c3861db) - “When my 2FA code is entered incorrectly I'd like to know about it”.
+
+- [SMS Multifactor Authentication in Antarctica](https://brr.fyi/posts/sms-mfa) - Doesn't work because there are no cell phone towers at stations in Antarctica.
+
+- [Authelia](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+
+- [Kanidm](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
 
 ### SMS-based
 
@@ -189,7 +213,7 @@ TL;DR: don't. For details, see articles below.
 
 - [Hackers Hit Twitter C.E.O. Jack Dorsey in a 'SIM Swap.' You're at Risk, Too.](https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html)
 
-- [AT\&T rep handed control of his cellphone account to a hacker](https://www.theregister.co.uk/2017/07/10/att_falls_for_hacker_tricks/)
+- [AT&T rep handed control of his cellphone account to a hacker](https://www.theregister.co.uk/2017/07/10/att_falls_for_hacker_tricks/)
 
 - [The Most Expensive Lesson Of My Life: Details of SIM port hack](https://medium.com/coinmonks/the-most-expensive-lesson-of-my-life-details-of-sim-port-hack-35de11517124)
 
@@ -201,7 +225,7 @@ TL;DR: don't. For details, see articles below.
 
 Certificate-based authentication.
 
-- [PKI for busy people](https://rehn.me/posts/pki-for-busy-people.html) - Quick overview of the important stuff.
+- [PKI for busy people](https://gist.github.com/hoffa/5a939fd0f3bcd2a6a0e4754cb2cf3f1b) - Quick overview of the important stuff.
 
 - [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html) - PKI lets you define a system cryptographically. It's universal and vendor neutral.
 
@@ -229,13 +253,15 @@ Certificate-based authentication.
 
 - [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) - And [why your "solution" doesn't work](http://cryto.net/%7Ejoepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/), because [stateless JWT tokens cannot be invalidated or updated](https://news.ycombinator.com/item?id=18354141). They will introduce either size issues or security issues depending on where you store them. Stateful JWT tokens are functionally the same as session cookies, but without the battle-tested and well-reviewed implementations or client support.
 
-- [JWT, JWS and JWE for Not So Dummies\!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3) - A signed JWT is known as a JWS (JSON Web Signature). In fact a JWT does not exist itself — either it has to be a JWS or a JWE (JSON Web Encryption). Its like an abstract class — the JWS and JWE are the concrete implementations.
+- [JWT, JWS and JWE for Not So Dummies!](https://medium.facilelogin.com/jwt-jws-and-jwe-for-not-so-dummies-b63310d201a3) - A signed JWT is known as a JWS (JSON Web Signature). In fact a JWT does not exist itself — either it has to be a JWS or a JWE (JSON Web Encryption). Its like an abstract class — the JWS and JWE are the concrete implementations.
 
 - [JOSE is a Bad Standard That Everyone Should Avoid](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid) - The standards are either completely broken or complex minefields hard to navigate.
 
 - [JWT.io](https://jwt.io) - Allows you to decode, verify and generate JWT.
 
 - [`loginsrv`](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends (htpasswd, OSIAM, user/password, HTTP basic authentication, OAuth2: GitHub, Google, Bitbucket, Facebook, Gitlab).
+
+- [jwtXploiter](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
 
 ### OAuth2 & OpenID
 
@@ -279,7 +305,11 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 - [authentik](https://goauthentik.io/?#correctness) - Open-source Identity Provider similar to Keycloak.
 
-- [ZITADEL](https://github.com/caos/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+- [ZITADEL](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+
+- [a12n-server](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+
+- [Logto](https://github.com/logto-io/logto) - Build the sign-in, auth, and user identity with this OIDC-based identity service.
 
 ### SAML
 
@@ -299,11 +329,15 @@ Typical SAML identity provider is an institution or a big corporation's internal
 
 - [The Beer Drinker's Guide to SAML](https://duo.com/blog/the-beer-drinkers-guide-to-saml) - SAML is arcane at times. A another analogy might helps get more sense out of it.
 
+- [SAML is insecure by design](https://joonas.fi/2021/08/saml-is-insecure-by-design/) - Not only weird, SAML is also insecure by design, as it relies on signatures based on XML canonicalization, not XML byte stream. Which means you can exploit XML parser/encoder differences.
+
 - [The Difficulties of SAML Single Logout](https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues) - On the technical and UX issues of single logout implementations.
+
+- [The SSO Wall of Shame](https://sso.tax) - A documented rant on the exessive pricing practiced by SaaS providers to activate SSO on their product. The author's point is, as a core security feature, SSO should be reasonnably priced and not part of an exclusive tier.
 
 ## Authorization
 
-Now that we know you are you, are you allowed to perform what you want to do?
+Now we know you are you. But are you allowed to do what you want to do?
 
 Policy specification is the science, enforcement is the art.
 
@@ -311,13 +345,23 @@ Policy specification is the science, enforcement is the art.
 
 As a concept, access control policies can be designed to follow very different archetypes, from classic [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) to [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control). In this section we explore lots of different patterns and architectures.
 
-- [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/) - An overview of the most popular types of authorization schemes, and their historical origins.
+- [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity.
 
-- [Role Based Access Control](https://csrc.nist.gov/projects/role-based-access-control) - A NIST project to explain RBAC concepts, costs and benefits, the economic impact of RBAC, design and implementation issues, the standard itself, and advanced research topics.
+- [The never-ending product requirements of user authorization](https://alexolivier.me/posts/the-never-ending-product-requirements-of-user-authorization) - How a simple authorization model based on roles is not enough and gets complicated fast due to product packaging, data locality, enterprise organizations and compliance.
+
+- [RBAC like it was meant to be](https://tailscale.com/blog/rbac-like-it-was-meant-to-be/) - How we got from DAC (unix permissions, secret URL), to MAC (DRM, MFA, 2FA, SELinux), to RBAC. Details how the latter allows for better modeling of policies, ACLs, users and groups.
+
+- [The Case for Granular Permissions](https://cerbos.dev/blog/the-case-for-granular-permissions) - Discuss the limitations of RBAC and how ABAC (Attribute-Based Access Control) addresses them.
+
+- [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/) - The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations.
+
+- [AWS IAM Roles, a tale of unnecessary complexity](https://infosec.rodeo/posts/thoughts-on-aws-iam/) - The history of fast-growing AWS explains how the current sheme came to be, and how it compares to GCP's resource hierarchy.
 
 - [Semantic-based Automated Reasoning for AWS Access Policies using SMT](https://d1.awsstatic.com/Security/pdfs/Semantic_Based_Automated_Reasoning_for_AWS_Access_Policies_Using_SMT.pdf) - Zelkova is how AWS does it. This system perform symbolic analysis of IAM policies, and solve the reachability of resources according user's rights and access constraints. Also see the higher-level [introduction given at re:inforce 2019](https://youtu.be/x6wsTFnU3eY?t=2111).
 
-- [Zanzibar: Google's Consistent, Global Authorization System](https://ai.google/research/pubs/pub48190) - Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. [Other bits not in the paper](https://twitter.com/LeaKissner/status/1136626971566149633).
+- [Zanzibar: Google's Consistent, Global Authorization System](https://ai.google/research/pubs/pub48190) - Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. [Other bits not in the paper](https://twitter.com/LeaKissner/status/1136626971566149633). [Zanzibar Academy](https://zanzibar.academy/) is a site dedicated to explaining how Zanzibar works.
+
+- [SpiceDB](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
 
 - Description of an [authz system that is built around labeled security and RBAC concepts](https://news.ycombinator.com/item?id=20136831).
 
@@ -333,11 +377,19 @@ Collection of open-source projects if you're looking to roll your own policy imp
 
 - [Casbin](https://github.com/casbin/casbin) - Open-source access control library for Golang projects.
 
-- [Open Policy Agent](https://github.com/open-policy-agent) - Allows end to end testing of your policies across SQL, Kubernetes, Terraform, Kafka, Envoy, S3 (via Minio), EC2/ECS/Lambda (Linux).
+- [Open Policy Agent](https://github.com/open-policy-agent/opa) - An open-source general-purpose decision engine to create and enforce attribute-based access control (ABAC) policies.
+
+- [Topaz](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
+
+- [Open Policy Administration Layer](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
 
 - [Gubernator](https://github.com/mailgun/gubernator) - High performance rate-limiting micro-service and library.
 
 - [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
+
+- [Oso](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
+
+- [Cerbos](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
 ### AWS policy tools
 
@@ -356,6 +408,8 @@ Tools and resources exclusively targetting the [AWS IAM policies](http://docs.aw
 - [PolicyUniverse](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
 - [IAM Floyd](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
+
+- [ConsoleMe](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
 ### Macaroons
 
@@ -401,7 +455,7 @@ HSMs are physical devices guaranteeing security of secret management at the hard
 
 - [Project Oak](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
 
-- [Everybody be cool, this is a robbery\!](https://www.sstic.org/2019/presentation/hsm/) - A case study of vulnerability and exploitability of a HSM (in French, sorry).
+- [Everybody be cool, this is a robbery!](https://www.sstic.org/2019/presentation/hsm/) - A case study of vulnerability and exploitability of a HSM (in French, sorry).
 
 ## Trust & Safety
 
@@ -431,6 +485,10 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 - [Statistically Likely Usernames](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.
 
+- [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) - Some groups and content are illegal in some juridictions. This is an example of a blocklist.
+
+- [Ballerine](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
+
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Fraud
@@ -451,6 +509,8 @@ Any online communities, not only those related to gaming and social networks, re
 
 - [Still Logged In: What AR and VR Can Learn from MMOs](https://youtu.be/kgw8RLHv1j4?t=534) - “If you host an online community, where people can harm another person: you are on the hook. And if you can't afford to be on the hook, don't host an online community”.
 
+- [You either die an MVP or live long enough to build content moderation](https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation/) - “You can think about the solution space for this problem by considering three dimensions: cost, accuracy and speed. And two approaches: human review and machine review. Humans are great in one of these dimensions: accuracy. The downside is that humans are expensive and slow. Machines, or robots, are great at the other two dimensions: cost and speed - they're much cheaper and faster. But the goal is to find a robot solution that is also sufficiently accurate for your needs.”
+
 - [Keep out the bad apples: How to moderate a marketplace](https://twosided.substack.com/p/keep-out-the-bad-apples-how-to-moderate) - “With great power comes great responsibility. Some of my tips and tricks to make your marketplace a safer place.”
 
 - [The despair and darkness of people will get to you](https://restofworld.org/2020/facebook-international-content-moderators/) - Moderation of huge social networks is performed by an army of outsourced subcontractors. These people are exposed to the worst and generally ends up with PTSD.
@@ -459,7 +519,7 @@ Any online communities, not only those related to gaming and social networks, re
 
 ### Threat Intelligence
 
-How to detect, unmask and classify offensive online activities. Most of the time these are monitored by security, networking and/or infrastructure engineering teams. Still, these are good resources for T\&S and IAM people, who might be called upon for additional expertise for analysis and handling of threats.
+How to detect, unmask and classify offensive online activities. Most of the time these are monitored by security, networking and/or infrastructure engineering teams. Still, these are good resources for T&S and IAM people, who might be called upon for additional expertise for analysis and handling of threats.
 
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
 
@@ -515,7 +575,7 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 
 - [Certificate Transparency Subdomains](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
 
-- Subdomain denylists: [\#1](https://gist.github.com/artgon/5366868), [\#2](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [\#3](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [\#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
+- Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
 - [`common-domain-prefix-suffix-list.tsv`](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700) - Top-5000 most common domain prefix/suffix list.
 
@@ -619,6 +679,8 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 
 - [Trello User Onboarding](https://growth.design/case-studies/trello-user-onboarding/) - A detailed case study, nicely presented, on how to improve user onboarding.
 
+- [11 Tips for Better Signup / Login UX](https://learnui.design/blog/tips-signup-login-ux.html) - Some basic tips on the login form.
+
 - [Don't get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/) - Create login forms that are simple, linkable, predictable, and play nicely with password managers.
 
 - [Why are the username and password on two different pages?](https://www.twilio.com/blog/why-username-and-password-on-two-different-pages) - To support both SSO and password-based login. Now if breaking the login funnel in 2 steps is too infuriating to users, solve this as Dropbox does: [an AJAX request when you enter your username](https://news.ycombinator.com/item?id=19174355).
@@ -628,10 +690,6 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 - [Remove password masking](http://passwordmasking.com) - Summarizes the results from an academic study investigating the impact removing password masking has on consumer trust.
 
 - [For anybody who thinks "I could build that in a weekend," this is how Slack decides to send a notification](https://twitter.com/ProductHunt/status/979912670970249221) - Notifications are hard. Really hard.
-
-## Commercial Solutions
-
-- [Rippling IDM](https://www.rippling.com/idm/) - Identity management, SSO.
 
 ## Competitive Analysis
 
@@ -643,7 +701,7 @@ A bunch of resources to keep track of the current status and progress of all com
 
 - [Unofficial Weekly Google Cloud Platform newsletter](https://www.gcpweekly.com) - Relevant keywords: [`IAM`](https://www.gcpweekly.com/gcp-resources/tag/iam/) and [`Security`](https://www.gcpweekly.com/gcp-resources/tag/security/).
 
-- [DigitalOcean Platform changelog](https://www.digitalocean.com/docs/platform/release-notes/)
+- [DigitalOcean Accounts changelog](http://docs.digitalocean.com/release-notes/accounts/) - All the latest accounts updates on DO.
 
 - [163 AWS services explained in one line each](https://adayinthelifeof.nl/2020/05/20/aws.html#discovering-aws) - Help makes sense of their huge service catalog. In the same spirit: [AWS in simple terms](https://netrixllc.com/blog/aws-services-in-simple-terms/) & [AWS In Plain English](https://expeditedsecurity.com/aws-in-plain-english/).
 
@@ -655,7 +713,7 @@ A bunch of resources to keep track of the current status and progress of all com
 
 ## Contributing
 
-Your contributions are always welcome\! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/kdeldycke/awesome-iam/blob/master/.github/contributing.md) first.
 
 ## Footnotes
 

@@ -51,6 +51,7 @@
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
+* [D on Discord](https://discord.gg/bMZk9Q4) - Another very active community for D conversations and question.
 
 ## People
 
@@ -74,7 +75,6 @@
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 * [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
-* [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 * [libmir](https://github.com/libmir) - D's numeric library development team
@@ -142,8 +142,10 @@
 * [dmd](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [ldc](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
-* [sdc](https://github.com/snazzy-d/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
-* [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
+
+## WIP Compilers
+
+* [sdc](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
 
 
 ## Dev Tools
@@ -175,12 +177,9 @@
 
 *Integrated Development Environment.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [MonoDevelop](https://www.monodevelop.com/). With dub support.
 * [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
-* [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI](https://github.com/buggins/dlangui). This is a pure D implementation.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
 * [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
 * [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
@@ -317,6 +316,7 @@
 * [darg](https://github.com/jasonwhite/darg) - Robust command line argument parsing for D.
 * [commandr](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
 * [luneta](https://github.com/fbeline/luneta) - A command-line fuzzy finder.
+* [argparse](https://code.dlang.org/packages/argparse) - Flexible parser of command line arguments.
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
@@ -336,6 +336,7 @@
 *Operating Systems written in D*
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) -  A kernel written in D 
+* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
 * [Trinix](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
@@ -353,7 +354,7 @@
 	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
 	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WegGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
+	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
 	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
 	* OpenAL - audio engine - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
@@ -389,10 +390,15 @@
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
 
+## Game Engine Bindings
+
+* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+
 ## Game Frameworks
 
 * [DGame](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
-* [gfm](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>.
+* [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
+* [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 * [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
@@ -425,6 +431,8 @@
 
 ## End-user applications
 * [Drill](https://github.com/yatima1460/drill) -  Search files without indexing, but clever crawling
+* [Cryptic-Resolver](https://github.com/cryptic-resolver/cr_D) -  Manage cryptic commands' names, acronyms and your own knowledge base (a command line utility)
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) - Tool to create and edit Inochi2D puppets
 
 ## Machine Learning
 
@@ -473,6 +481,11 @@
 *Hosting blogs yourself*
 
 - [mood](https://github.com/mihails-strasuns/mood) - simple vibe.d based blog engine
+
+## Dependency Injection
+*Apply inversion of control*
+
+- [Poodinis](https://github.com/mbierlee/poodinis) - A dependency injection framework for D with support for autowiring.
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) projects.

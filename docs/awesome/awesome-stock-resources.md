@@ -91,8 +91,8 @@ A collection of links to public domain photography resources.
 * [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](https://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
 * [New Old Stock](https://nos.twnsnd.co/) - [:copyright:](https://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
-* [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:] (https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
-* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
+* [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
+* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 * [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
 
 ### Attribution Required licenses
@@ -135,6 +135,7 @@ A collection of illustration resources which contain a mixture of historical arc
 A collection of resources which contain stock graphical elements which don't fit in the other sections.
 
 * [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) A directory of free non-commercial, attribution licensed SVG maps in two level of details: High and low.
+* [Bioicons](https://bioicons.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) High quality science illustrations.
 * [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
@@ -150,6 +151,7 @@ A collection of resources which contain stock graphical elements which don't fit
 A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
+* [FreeStockVideo](https://free-stock.video/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free Beautiful Video & Footage Clips.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 * [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 * [Mixkit](https://mixkit.co/free-stock-video/) - [:copyright:](https://mixkit.co/license/#videoFree) High-quality stock videos that are completely free.
@@ -186,10 +188,8 @@ A mixture of free and open source font resources.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
-* [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
-* [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - Fantastic type pairing tool.
 
 ## Icons
 
@@ -225,9 +225,13 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
+* [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+* [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
+* [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) A pack of 227 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
@@ -243,15 +247,12 @@ A selection of websites offering color schemes.
 * [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
 * [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
 * [Brand Colors](https://brandcolors.net/) - Official color codes for the world's biggest brands.
-* [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
 * [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
-* [CoolHue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch.
 * [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 * [Coolhue 2.0](https://webkul.github.io/coolhue/) - Coolest handpicked Gradient Palette and Swatch for your next super amazing stuff.
 * [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
 * [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-* [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) - A nice curated color palette inspiration resource.
 * [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
 * [Material Palette](https://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
@@ -283,6 +284,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
 * [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) Collaborative database of audio snippets, samples, recordings and bleeps.
+* [FreeSoundEffects](https://free-sound-effects.net/) - [:copyright:](https://creativecommons.org/) For YouTube, filmmakers, games, podcasts and to use in your next video project, for free!
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels collection hosts complete, freely downloadable/streamable.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) Independent music community with a large collect of creative commons licensed music.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.

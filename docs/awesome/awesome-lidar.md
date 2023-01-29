@@ -6,7 +6,7 @@
 
 > A curated list of awesome LIDAR sensors and its applications.
 
-[LIDAR](https://en.wikipedia.org/wiki/Lidar) is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as point cloud which means set of data points in 3D or 2D. The list contains hardwares, datasets, point cloud-processing algorithms, point cloud frameworks, simulators etc.
+[LIDAR](https://en.wikipedia.org/wiki/Lidar) is a remote sensing sensor that uses laser light to measure the surroundings in ~cm accuracy. The sensory data is usually referred as point cloud which means set of data points in 3D or 2D. The list contains hardwares, datasets, point cloud-processing algorithms, point cloud frameworks, simulators etc.
 
 Contributions are welcome! Please [check out](https://github.com/szenergy/awesome-lidar/blob/master/contributing.md) our guidelines.
 
@@ -58,6 +58,9 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
   - [GitHub organization :octocat:](https://github.com/Blickfeld)
 - [Neuvition](https://www.neuvition.com/) - Neuvition is a solid-state LIDAR manufacturer based in Wujiang, China.
   - [YouTube channel :red_circle:](https://www.youtube.com/channel/UClFjlekWJo4T5bfzxX0ZW3A)
+- [Aeva](https://www.aeva.com/) - Aeva is bringing the next wave of perception technology to all devices for automated driving, consumer electronics, health, industrial robotics and security, Mountain View, California, USA.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/AevaInc)
+  - [GitHub organization :octocat:](https://github.com/aevainc)
 
 ## Datasets
 
@@ -84,6 +87,17 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [PandaSet Open Dataset](https://scale.com/open-datasets/pandaset) - Public large-scale dataset for autonomous driving provided by Hesai & Scale. It enables researchers to study challenging urban driving situations using the full sensor suit of a real self-driving-car.
 - [Cirrus dataset](https://developer.volvocars.com/open-datasets/cirrus/) A public datatset from non-uniform distribution of LIDAR scanning patterns with emphasis on long range. In this dataset Luminar Hydra LIDAR is used. The dataset is available at the Volvo Cars Innovation Portal.
   - [Paper :newspaper:](https://arxiv.org/pdf/2012.02938.pdf)
+- [USyd Dataset- The Univerisity of Sydney Campus- Dataset](http://its.acfr.usyd.edu.au/datasets/usyd-campus-dataset/) - Long-term, large-scale dataset collected over the period of 1.5 years on a weekly basis over the University of Sydney campus and surrounds. It includes multiple sensor modalities and covers various environmental conditions. ROS compatible
+  - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9109704)
+- [Brno Urban Dataset :octocat:](https://github.com/Robotics-BUT/Brno-Urban-Dataset) - Navigation and localisation dataset for self driving cars and autonomous robots in Brno, Czechia.
+  - [Paper :newspaper:](https://ieeexplore.ieee.org/document/9197277)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=wDFePIViwqY)
+- [Argoverse :octocat:](https://www.argoverse.org/) - A dataset designed to support autonomous vehicle perception tasks including 3D tracking and motion forecasting collected in Pittsburgh, Pennsylvania and Miami, Florida, USA.
+  - [Paper :newspaper:](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=DM8jWfi69zM)
+- [Boreas Dataset](https://www.boreas.utias.utoronto.ca/) - The Boreas dataset was collected by driving a repeated route over the course of 1 year resulting in stark seasonal variations. In total, Boreas contains over 350km of driving data including several sequences with adverse weather conditions such as rain and heavy snow. The Boreas data-taking platform features a unique high-quality sensor suite with a 128-channel Velodyne Alpha Prime lidar, a 360-degree Navtech radar, and accurate ground truth poses obtained from an Applanix POSLV GPS/IMU. 
+  - [Paper 📰](https://arxiv.org/abs/2203.10168)
+  - [GitHub repository :octocat:](https://github.com/utiasASRL/pyboreas)
 
 ## Libraries
 
@@ -137,6 +151,31 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [Study of LIDAR Semantic Segmentation](https://larissa.triess.eu/scan-semseg/) - Scan-based Semantic Segmentation of LiDAR Point Clouds: An Experimental Study IV 2020.
   - [Paper :newspaper:](https://arxiv.org/abs/2004.11803)
   - [GitHub repository :octocat:](http://ltriess.github.io/scan-semseg)
+- [LIDAR-MOS :newspaper:](https://www.ipb.uni-bonn.de/pdfs/chen2021ral-iros.pdf) - Moving Object Segmentation in 3D LIDAR Data
+  - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=NHvsYhk4dhw)
+- [SuperPoint Graph :newspaper:](https://arxiv.org/pdf/1711.09869.pdf)- Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
+  - [GitHub repository :octocat:](https://github.com/PRBonn/LiDAR-MOS)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ijr3kGSU_tU)
+- [RandLA-Net :newspaper:](https://arxiv.org/pdf/1911.11236.pdf) - Efficient Semantic Segmentation of Large-Scale Point Clouds
+  - [GitHub repository :octocat:](https://github.com/QingyongHu/RandLA-Net)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=Ar3eY_lwzMk)
+- [Automatic labelling :newspaper:](https://arxiv.org/pdf/2108.13757.pdf) - Automatic labelling of urban point clouds using data fusion
+  - [GitHub repository :octocat:](https://github.com/Amsterdam-AI-Team/Urban_PointCloud_Processing)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=qMj_WM6D0vI)
+
+### Ground segmentation
+- [Plane Seg :octocat:](https://github.com/ori-drs/plane_seg) - ROS comapatible ground plane segmentation; a library for fitting planes to LIDAR.
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=YYs4lJ9t-Xo)
+- [LineFit Graph :newspaper:](https://ieeexplore.ieee.org/abstract/document/5548059)- Line fitting-based fast ground segmentation for horizontal 3D LiDAR data
+  - [GitHub repository :octocat:](https://github.com/lorenwel/linefit_ground_segmentation)
+- [Patchwork :newspaper:](https://arxiv.org/pdf/2108.05560.pdf)- Region-wise plane fitting-based robust and fast ground segmentation for 3D LiDAR data 
+  - [GitHub repository :octocat:](https://github.com/LimHyungTae/patchwork)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=rclqeDi4gow)
+- [Patchwork++ :newspaper:](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
+  - [GitHub repository :octocat:](https://github.com/url-kaist/patchwork-plusplus-ros)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=fogCM159GRk)
+
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh :red_circle:](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
@@ -153,7 +192,9 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [LIO-SAM :newspaper:](https://arxiv.org/pdf/2007.00258.pdf) - Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping.
   - [GitHub repository :octocat:](https://github.com/TixiaoShan/LIO-SAM)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=A0H8CoORZJU)
-
+- [Removert :newspaper:](http://ras.papercept.net/images/temp/IROS/files/0855.pdf) - Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images.
+  - [GitHub repository :octocat:](https://github.com/irapkaist/removert)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=M9PEGi5fAq8)
 
 ### Object detection and object tracking
 - [Learning to Optimally Segment Point Clouds :newspaper:](https://arxiv.org/abs/1912.04976) - By Peiyun Hu, David Held, and Deva Ramanan at Carnegie Mellon University. IEEE Robotics and Automation Letters, 2020.
@@ -164,6 +205,10 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [What You See is What You Get: Exploiting Visibility for 3D Object Detection :newspaper:](https://arxiv.org/pdf/1912.04986.pdf) - By Peiyun Hu, Jason Ziglar, David Held, Deva Ramanan, 2019.
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=497OF-otY2k)
   - [GitHub repository :octocat:](https://github.com/peiyunh/WYSIWYG)
+- [urban_road_filter :newspaper:](https://doi.org/10.3390/s22010194)-
+Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
+  - [GitHub repository :octocat:](https://github.com/jkk-research/urban_road_filter)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
 
 ## Simulators
 - [CoppeliaSim](https://www.coppeliarobotics.com/coppeliaSim) - Cross-platform general-purpose robotic simulator (formerly known as V-REP).
@@ -191,10 +236,12 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [Awesome deep learning :octocat:](https://github.com/ChristosChristofidis/awesome-deep-learning#readme)
 - [Awesome reinforcement learning :octocat:](https://github.com/aikorea/awesome-rl/#readme)
 - [Awesome SLAM datasets :octocat:](https://github.com/youngguncho/awesome-slam-datasets#readme)
-- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme) 
+- [Awesome electronics :octocat:](https://github.com/kitspace/awesome-electronics#readme)
 - [Awesome vehicle security and car hacking :octocat:](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Awesome LIDAR-Camera calibration :octocat:](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
 
 ## Others
+- [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - Using $5 Google Cardboard to replicate Microsoft Hololens. Hosts the source code for research on [scene color reconstruction](https://github.com/philipturner/scene-color-reconstruction).
 - [Pointcloudprinter :octocat:](https://github.com/marian42/pointcloudprinter) - A tool to turn point cloud data from aerial lidar scans into solid meshes for 3D printing.
 - [CloudCompare](https://cloudcompare.org/) - CloudCompare is a free, cross-platform point cloud editor software.
   - [GitHub repository :octocat:](https://github.com/CloudCompare)
@@ -205,3 +252,8 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
   - [Paper :newspaper:](https://arxiv.org/pdf/1905.00525.pdf)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=gSGG4Lw8BSU)
 - [Photogrammetry importer :octocat:](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) - Blender addon to import reconstruction results of several libraries.
+- [Foxglove](https://foxglove.dev/) - Foxglove Studio is an integrated visualization and diagnosis tool for robotics, available in your browser or for download as a desktop app on Linux, Windows, and macOS.
+  - [GitHub repository :octocat:](https://github.com/foxglove/studio)
+  - [YouTube channel :red_circle:](https://www.youtube.com/channel/UCrIbrBxb9HBAnlhbx2QycsA)
+- [MeshLab](https://www.meshlab.net/) - MeshLab is an open source, portable, and extensible system for the processing and editing 3D triangular meshes and pointcloud.
+  - [GitHub repository :octocat:](https://github.com/cnr-isti-vclab/meshlab) 

@@ -24,7 +24,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [Hound](https://houndci.com/) - Source code style review.
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
-- [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [Sider](https://sider.review/) - Automated code review.
@@ -38,11 +37,9 @@ A curated list of awesome companies that offer their tools and services for free
 - [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
-- [continuousphp](https://continuousphp.com/) - CI/CD for PHP applications.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
-- [Shippable](https://www.shippable.com/) - DevOps automation.
 - [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
 
 ## Dependency Management
@@ -52,7 +49,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 - [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
-- [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ## Documentation
 
@@ -71,7 +67,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Project Management
 
-- [HuBoard](https://huboard.com/) - GitHub-backed kanban boards.
 - [Taiga.io](https://taiga.io/) - Project management for agile developers.
 - [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 - [Zube](https://zube.io/) - Project management for GitHub issues.
@@ -79,7 +74,6 @@ A curated list of awesome companies that offer their tools and services for free
 ## Monitoring
 
 - [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
-- [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
 - [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
 
 ## Localization
@@ -106,10 +100,10 @@ A curated list of awesome companies that offer their tools and services for free
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [BackHub](https://backhub.co/) - Automated GitHub repository backups.
-- [Beamdock](https://beamdock.com) - `requires-approval` - Helps you gather user feedback, features requests, schedule interview session with users and notify customers about feature rollouts.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Codota](https://www.codota.com/) - AI pair programming assistant.
+- [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.

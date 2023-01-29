@@ -34,6 +34,7 @@ To save the world from creating user accounts and installing software applicatio
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
 * [AI Vocal Remover](https://vocalremover.org) - Separate voice from music by artificial intelligence.
 * [Ambient Mixer](https://www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
+* [Vileo](https://lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
 
 
 ### Business and Finance
@@ -97,6 +98,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ScribbleMaps](http://www.scribblemaps.com/) - Create custom google maps.
 * [Sketchpad](https://sketch.io/sketchpad/) - Create digital artwork and export to popular image formats JPEG, PNG, SVG, and PDF.
 * [Piskel](https://www.piskelapp.com/) - Free online editor for animated sprites & pixel art
+* [PixelCraft](https://pixelcraft.web.app) - A Pixel Art Editor and animation creation tool
 
 
 ### File Converters
@@ -109,6 +111,7 @@ To save the world from creating user accounts and installing software applicatio
 * [OnlineOCR](https://www.onlineocr.net/) - Convert a scanned PDF into DOC, XLS or TXT.
 * [GifDeck](http://gifdeck.in/) - Convert slides from slideshare to GIF.
 * [favicon-generator](http://www.favicon-generator.org/) - Generate favicons for your web-apps or icons for your Android or iOS apps by uploading your desired image.
+* [freetools.site](https://freetools.site/) - Free online tools. Convert or edit documents, images, audio, video and more.
 
 
 ### File Hosting/Sharing
@@ -137,7 +140,8 @@ To save the world from creating user accounts and installing software applicatio
 * [skribbl.io](https://skribbl.io/) - Several players connect to a lobby and one of them is given a word that they need to draw without saying what it is while the others have to identify it.
 * [surviv.io](https://surviv.io/) - Surviv.io is a 2D battle royale game. You only have one live per game, no respawn.
 * [nitrome](https://www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
-
+* [Orion](https://orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
+* [Gidd.io](https://gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
 
 ### Graphics, Image and Design
 
@@ -157,6 +161,8 @@ To save the world from creating user accounts and installing software applicatio
 * [LeanLogoMaker](https://leanlogomaker.com) - Generate 100s of logos, pick your favourite and download. Includes covers and profile images for your social media sites.
 * [doka.photo](https://doka.photo/) - Easy to use photo editor. You can crop, rotate, flip, add a filter, resize and annotate.
 * [CleanIcons](https://cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
+* [Mancer](https://mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
+* [Branition Colors](https://branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
 
 
 ### Internet Downloaders
@@ -198,13 +204,14 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Privacy, Security and Cryptography
 
+* [Cryptii](https://cryptii.com) - Offers modular conversion, encoding and encryption with a wide variety of ciphers and methods.
 * [Encipher.it](https://encipher.it/) - AES-256 text encryption and decryption.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) - Set password on your public pastes.
 * [jotti](https://virusscan.jotti.org) - Scan any suspicious file or email attachment for viruses.
 * [scr.im](http://scr.im/) - Share e-mail address freely without worrying about spam.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) - A temporary fully functional email address for 10 minutes (extendible).
 * [BugMeNot](http://bugmenot.com/) - A platform for finding and sharing logins of different websites. It helps you find credentials for signing in into different websites.
-
+* [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere.
 
 ### Programming Editors and IDEs
 
@@ -244,6 +251,7 @@ To save the world from creating user accounts and installing software applicatio
 * [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) - View json in human readable form.
+* [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
 
 
 ### Search Engines
@@ -270,6 +278,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Word Safety](http://wordsafety.com/) - Check if words are abusive in any languages.
 * [OEIS®](http://oeis.org/) - The On-Line Encyclopedia of Integer Sequences®, helps in cryptography as well as formulating odd looking sequences.
 * [Directed Grap Editor (CS Academy)](https://csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
+* [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
+* [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 
 
 <a name="text-tools"></a>
@@ -283,7 +293,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Telegraph](http://telegra.ph/) - Minimalist publishing tool that supports richly formatted text.
 * [DiffNow](https://www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * [Write.as](https://write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
-* [Emojify](https://matthewmiller.dev/experiments/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* [Emojify](https://madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
 
 
 <a name="utilities"></a>
@@ -307,6 +317,8 @@ To save the world from creating user accounts and installing software applicatio
 * [Daily Todo](https://dailytodo.org/) -  Simple todo list maker.
 * [Mailinator](https://www.mailinator.com/) - Disposable email service.
 * [Randommer](https://randommer.io/) - Random data generator and validator.
+* [Meditation Timer](https://meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
+* [Bucket Listy](https://bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 
 
 ### Miscellaneous

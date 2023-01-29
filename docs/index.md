@@ -1,7 +1,34 @@
 <div class="github-widget" data-repo="sindresorhus/awesome"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
+	<a href="https://vshymanskyy.github.io/StandWithUkraine">
+		<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo-ua.svg?sanitize=true" alt="Awesome">
+		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+	</a>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<div>
+		<sub>Check out my latest app</sub>
+		<br>
+		<h2>
+			<a href="https://www.producthunt.com/posts/any-text">Any Text</a>
+			<br>
+			<sup>Put any text on your iPhone's Lock Screen</sup>
+		</h2>
+	</div>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<br>
 	<br>
 	<hr>
@@ -23,18 +50,6 @@
 			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
 		</a>
 		<br>
-		<br>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
 		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
@@ -58,15 +73,6 @@
 			</div>
 		</a>
 		<br>
-		<a href="https://oss.capital">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
-			</div>
-			<div>
-				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
-			</div>
-		</a>
-		<br>
 		<br>
 		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
@@ -77,6 +83,60 @@
 				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="220" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-light.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>Paperwork that makes the data work.</b>
+			<div>
+				<sub>
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				<br>
+				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<a href="https://www.useanvil.com/?utm_source=sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/anvil-logo-dark.svg" width="200" alt="Anvil">
+			</div>
+			<br>
+			<b>Paperwork that makes the data work.</b>
+			<div>
+				<sub>
+				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
+				<br>
+				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -102,7 +162,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
 
@@ -124,8 +184,8 @@
 	- [Containers](awesome/awesome-linux-containers.md)
 	- [eBPF](awesome/awesome-ebpf.md) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](awesome/Awesome-Arch.md) - Linux distributions and projects based on Arch Linux.
-- [macOS](awesome/awesome-macOS.md) - Operating system for Apple's Mac computers.
-	- [Command-Line](awesome/awesome-macos-command-line.md)
+	- [AppImage](awesome/awesome-appimage.md) - Package apps in a single file that works on various mainstream Linux distributions.
+- macOS - Operating system for Apple's Mac computers.
 	- [Screensavers](awesome/awesome-macos-screensavers.md)
 	- [Apps](awesome/awesome-mac.md)
 	- [Open Source Apps](awesome/open-source-mac-os-apps.md)
@@ -140,7 +200,6 @@
 - [Raspberry Pi](awesome/awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](awesome/awesome-qt.md) - Cross-platform GUI app framework.
 - [WebExtensions](awesome/Awesome-WebExtensions.md) - Cross-browser extension system.
-- [RubyMotion](awesome/awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](awesome/awesome-smart-tv.md) - Create apps for different TV platforms.
 - [GNOME](awesome/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
 - [KDE](awesome/awesome-kde.md) - A free software community dedicated to creating an open and user-friendly computing experience.
@@ -161,6 +220,11 @@
 - [Deno](awesome/awesome-deno.md) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 - [DOS](awesome/awesome-dos.md) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 - [Nix](awesome/awesome-nix.md) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
+- [Integration](awesome/awesome-integration.md) - Linking together different IT systems (components) to functionally cooperate as a whole.
+- [Node-RED](awesome/awesome-nodered.md) - A programming tool for wiring together hardware devices, APIs, and online services.
+- [Low Code](awesome/awesome-low-code.md) - Allowing business professionals to address their needs on their own with little to no coding skills.
+- [Capacitor](awesome/awesome-capacitor.md) - Cross-platform open source runtime for building Web Native apps.
+- [ArcGIS Developer](awesome/awesome-arcgis-developer.md) - Mapping and location analysis platform for developers.
 
 ## Programming Languages
 
@@ -238,6 +302,8 @@
 - [Vala](awesome/awesome-vala.md) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](awesome/awesome-coq.md) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](awesome/awesome-v.md) - Simple, fast, safe, compiled language for developing maintainable software.
+- [Zig](awesome/awesome-zig.md) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+- [Move](awesome/awesome-move.md) - Domain-specific programming language for writing safe smart contracts.
 
 ## Front-End Development
 
@@ -250,10 +316,10 @@
 	- [Must-Watch Talks](awesome/must-watch-css.md)
 	- [Protips](awesome/css-protips.md)
 	- [Frameworks](awesome/awesome-css-frameworks.md)
-- [React](awesome/awesome-react.md) - App framework.
+- [React](awesome/awesome-react.md) - JavaScript library for building user interfaces.
 	- [Relay](awesome/awesome-relay.md) - Framework for building data-driven React apps.
-	- [React Hooks](awesome/awesome-react-hooks.md) - A new feature that lets you use state and other React features without writing a class.
-- [Web Components](awesome/webcomponents-the-right-way.md)
+	- [React Hooks](awesome/awesome-react-hooks.md) - Lets you use state and other React features without writing a class.
+- [Web Components](awesome/awesome-web-components.md)
 - [Polymer](awesome/awesome-polymer.md) - JavaScript library to develop Web Components.
 - [Angular](awesome/awesome-angular.md) - App framework.
 - [Backbone](awesome/awesome-backbone.md) - App framework.
@@ -294,7 +360,6 @@
 - [Progressive Web Apps](awesome/awesome-progressive-web-apps.md)
 - [choo](awesome/awesome-choo.md) - App framework.
 - [Redux](awesome/awesome-redux.md) - State container for JavaScript apps.
-- [webpack](awesome/awesome-webpack.md) - Module bundler.
 - [Browserify](awesome/awesome-browserify.md) - Module bundler.
 - [Sass](awesome/awesome-sass.md) - CSS preprocessor.
 - [Ant Design](awesome/awesome-ant-design.md) - Enterprise-class UI design language.
@@ -303,7 +368,7 @@
 - [Preact](awesome/awesome-preact.md) - App framework.
 - [Progressive Enhancement](awesome/progressive-enhancement-resources.md)
 - [Next.js](awesome/awesome-nextjs.md) - Framework for server-rendered React apps.
-- [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
+- [lit](awesome/awesome-lit.md) - Library for building web components with a declarative template system.
 - [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [WordPress-Gatsby](awesome/awesome-wordpress-gatsby.md) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - Creating a great mobile web experience.
@@ -320,6 +385,9 @@
 - [Svelte](awesome/awesome-svelte.md) - App framework.
 - [Design systems](awesome/awesome-design-systems.md) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](awesome/awesome-inertiajs.md) - Make single-page apps without building an API.
+- [MDBootstrap](awesome/awesome-mdbootstrap.md) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Master CSS](awesome/awesome-master-css.md) - A virtual CSS language with enhanced syntax.
+- [Hydrogen](awesome/awesome-hydrogen.md) - Edge-first framework for building Shopify storefronts with React.
 
 ## Back-End Development
 
@@ -351,6 +419,8 @@
 - [FastAPI](awesome/awesome-fastapi.md) - Python web app framework.
 - [CDK](awesome/awesome-cdk.md) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](awesome/awesome-iam.md) - User accounts, authentication and authorization.
+- [Slim](awesome/awesome-slim.md) - PHP framework.
+- [Fiber](awesome/awesome-fiber.md) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 
 ## Computer Science
 
@@ -388,6 +458,8 @@
 - [Static Analysis & Code Quality](awesome/static-analysis.md)
 - [Information Retrieval](awesome/awesome-information-retrieval.md) - Learn to develop your own search engine.
 - [Quantum Computing](awesome/awesome-quantum-computing.md) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Theoretical Computer Science](awesome/awesome-theoretical-computer-science.md) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
+- [Conversational AI](awesome/awesome-conversational-ai.md) - Build awesome chatbots and digital assistants.
 
 ## Big Data
 
@@ -412,6 +484,8 @@
 - [Competitive Programming](awesome/awesome-competitive-programming.md)
 - [Math](awesome/awesome-math.md)
 - [Recursion Schemes](awesome/awesome-recursion-schemes.md) - Traversing nested data structures.
+- [Audit Algorithms](awesome/awesome-audit-algorithms.md) - Algorithmic audits of algorithms.
+- [AGI & CoCoSci](awesome/awesome-agi-cocosci.md) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## Books
 
@@ -426,6 +500,7 @@
 
 - [Sublime Text](awesome/sublime-bookmarks.md)
 - [Vim](awesome/vim-galore.md)
+- [Neovim](awesome/awesome-neovim.md) - Vim-fork focused on extensibility and usability.
 - [Emacs](awesome/awesome-emacs.md)
 - [Atom](awesome/awesome-atom.md) - Open-source and hackable text editor.
 - [Visual Studio Code](awesome/awesome-vscode.md) - Cross-platform open-source text editor.
@@ -435,7 +510,7 @@
 - [Game Development](awesome/magictools.md)
 - [Game Talks](awesome/awesome-gametalks.md)
 - [Godot](awesome/awesome-godot.md) - Game engine.
-- [Open Source Games](awesome/games.md)
+- [Open Source Games](awesome/awesome-open-source-games.md)
 - [Unity](awesome/awesome-unity.md) - Game engine.
 - [Chess](awesome/awesome-chess.md)
 - [LÖVE](awesome/awesome-love2d.md) - Game engine.
@@ -453,6 +528,8 @@
 - [Discord Communities](awesome/awesome-discord-communities.md) - Chat with friends and communities.
 - [CHIP-8](awesome/awesome-chip-8.md) - Virtual computer game machine from the 70s.
 - [Games of Coding](awesome/awesome-games-of-coding.md) - Learn a programming language by making games.
+- [Esports](awesome/awesome-esports.md) - Video games played as a sport.
+- [Learn Gamedev](awesome/awesome-learn-gamedev.md) - The craft of video game creation.
 
 ## Development Environment
 
@@ -501,10 +578,11 @@
 - [CouchDB](awesome/awesome-couchdb.md) - Document-oriented NoSQL database.
 - [HBase](awesome/awesome-hbase.md) - Distributed, scalable, big data store.
 - [NoSQL Guides](awesome/awesome-nosql-guides.md) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
-- [Contexture](awesome/awesome-contexture.md) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](awesome/awesome-db-tools.md) - Everything that makes working with databases easier.
-- [Grakn](awesome/awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [TypeDB](awesome/typedb-awesome.md) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](awesome/awesome-cassandra.md) - Open-source, distributed, wide column store, NoSQL database management system.
+- [TDengine](awesome/awesome-tdengine.md) - An open-source time-series database with high-performance, scalability, and SQL support.
+- [Supabase](awesome/awesome-supabase.md) - An open-source alternative to Firebase.
 
 ## Media
 
@@ -521,6 +599,7 @@
 - [FFmpeg](awesome/awesome-ffmpeg.md) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](awesome/awesome-icons.md) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](awesome/awesome-audiovisual.md) - Lighting, audio and video in professional environments.
+- [VLC](awesome/awesome-vlc.md) - Cross-platform media player software and streaming server.
 
 ## Learn
 
@@ -543,9 +622,11 @@
 - [Application Security](awesome/awesome-appsec.md)
 - [Security](awesome/awesome-security.md)
 - [CTF](awesome/awesome-ctf.md) - Capture The Flag.
+- [Cyber Security University](awesome/awesome-cyber-security-university.md) - Free educational resources that focus on learning by doing.
 - [Malware Analysis](awesome/awesome-malware-analysis.md)
 - [Android Security](awesome/android-security-awesome.md)
 - [Hacking](awesome/awesome-hacking.md)
+- [Hacking Spots](awesome/awesome-hacking-locations.md)
 - [Honeypots](awesome/awesome-honeypots.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](awesome/awesome-incident-response.md)
 - [Vehicle Security and Car Hacking](awesome/awesome-vehicle-security.md)
@@ -556,6 +637,10 @@
 - [Embedded and IoT Security](awesome/awesome-embedded-and-iot-security.md)
 - [GDPR](awesome/awesome-gdpr.md) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](awesome/awesome-devsecops.md) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](awesome/awesome-executable-packing.md) - Packing and unpacking executable formats.
+- [Malware Persistence](awesome/awesome-malware-persistence.md) - Techniques that adversaries use to keep access to systems across restarts.
+- [EVM Security](awesome/awesome-evm-security.md) - Understanding the Ethereum Virtual Machine security ecosystem.
+- [Password Cracking](awesome/awesome-password-cracking.md) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 
 
 - [Umbraco](awesome/awesome-umbraco.md)
@@ -566,6 +651,8 @@
 - [Craft CMS](awesome/awesome.md) - Content-first CMS.
 - [Sitecore](awesome/Awesome-Sitecore.md) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
 - [Silverstripe CMS](awesome/awesome-silverstripe-cms.md) - PHP MVC framework that serves as a classic or headless CMS.
+- [Directus](awesome/awesome-directus.md) - A real-time API and app dashboard for managing SQL database content.
+- [Plone](awesome/awesome-plone.md) - Open source Python CMS.
 
 ## Hardware
 
@@ -577,6 +664,7 @@
 - [Plotters](awesome/awesome-plotters.md) - Computer-controlled drawing machines and other visual art robots.
 - [Robotic Tooling](awesome/awesome-robotic-tooling.md) - Free and open tools for professional robotic development.
 - [LIDAR](awesome/awesome-lidar.md) - Sensor for measuring distances by illuminating the target with laser light.
+- [Open Hardware](awesome/awesome-open-hardware.md) - Open-source hardware projects.
 
 ## Business
 
@@ -591,6 +679,8 @@
 - [Social Enterprise](awesome/awesome-social-enterprise.md) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](awesome/awesome-engineering-team-management.md) - How to transition from software development to engineering management.
 - [Developer-First Products](awesome/awesome-developer-first.md) - Products that target developers as the user.
+- [Billing](awesome/awesome-billing.md) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
+- [Engineering Strategy](awesome/awesome-engineering-strategy.md) - How to design and execute engineering strategies for tech leadership.
 
 ## Work
 
@@ -602,6 +692,7 @@
 - [Programming Interviews](awesome/awesome-interview-questions.md)
 - [Code Review](awesome/awesome-code-review.md) - Reviewing code.
 - [Creative Technology](awesome/awesome-creative-technology.md) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Internships](awesome/awesome-internships.md) - CV writing guides and companies that hire interns.
 
 ## Networking
 
@@ -609,6 +700,8 @@
 - [Network Analysis](awesome/awesome-network-analysis.md)
 - [PCAPTools](awesome/awesome-pcaptools.md)
 - [Real-Time Communications](awesome/awesome-rtc.md) - Network protocols for near simultaneous exchange of media and data.
+- [SNMP](awesome/awesome-snmp.md) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Scapy](awesome/awesome-scapy.md) - Python-based interactive packet manipulation.
 
 ## Decentralized Systems
 
@@ -622,12 +715,21 @@
 - [Corda](awesome/awesome-corda.md) - Open source blockchain platform designed for business.
 - [Waves](awesome/awesome-waves.md) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](awesome/awesome-substrate.md) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Golem](awesome/awesome-golem.md) - Open source peer-to-peer marketplace for computing resources.
+- [Stacks](awesome/awesome-stacks-chain.md) - A smart contract platform secured by Bitcoin.
+- [Algorand](awesome/awesome-algorand.md) - An open-source, proof of stake blockchain and smart contract computing platform.
 
-## Higher Education
+## Health and Social Science
 
+- [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
 - [Computational Neuroscience](awesome/awesome-computational-neuroscience.md) - A multidisciplinary science which uses computational approaches to study the nervous system.
+- [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Digital History](awesome/awesome-digital-history.md) - Computer-aided scientific investigation of history.
-- [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
+- [Empathy in Engineering](awesome/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
+- [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+- [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
+- [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
+- [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 
 ## Events
 
@@ -646,9 +748,11 @@
 - [k6](awesome/awesome-k6.md) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Playwright](awesome/awesome-playwright.md) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](awesome/awesome-quality-assurance-roadmap.md) - How to start & build a career in software testing.
+- [Gatling](awesome/awesome-gatling.md) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## Miscellaneous
 
+- [Scientific Writing](awesome/awesome-scientific-writing.md) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](awesome/awesome-json.md) - Text based data interchange format.
 	- [GeoJSON](awesome/awesome-geojson.md)
 	- [Datasets](awesome/awesome-json-datasets.md)
@@ -679,7 +783,6 @@
 - [Transit](awesome/awesome-transit.md)
 - [Research Tools](awesome/awesome-research.md)
 - [Data Visualization](awesome/awesome-dataviz.md)
-- [Social Media Share Links](awesome/shareable-links.md)
 - [Microservices](awesome/awesome-microservices.md)
 - [Unicode](awesome/Awesome-Unicode.md) - Unicode standards, quirks, packages and resources.
 	- [Code Points](awesome/awesome-codepoints.md)
@@ -688,7 +791,6 @@
 - [Tools for Activism](awesome/toolsforactivism.md)
 - [Citizen Science](awesome/citizen-science.md) - For community-based and non-institutional scientists.
 - [MQTT](awesome/awesome-mqtt.md) - "Internet of Things" connectivity protocol.
-- [Hacking Spots](awesome/awesome-hacking-locations.md)
 - [For Girls](awesome/awesome4girls.md)
 - [Vorpal](awesome/awesome-vorpal.md) - Node.js CLI framework.
 - [Vulkan](awesome/awesome-vulkan.md) - Low-overhead, cross-platform 3D graphics and compute API.
@@ -701,7 +803,6 @@
 - [Steam](awesome/awesome-steam.md) - Digital distribution platform.
 - [Bots](awesome/bots.md) - Building bots.
 - [Site Reliability Engineering](awesome/awesome-sre.md)
-- [Empathy in Engineering](awesome/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
 - [DTrace](awesome/awesome-dtrace.md) - Dynamic tracing framework.
 - [Userscripts](awesome/awesome-userscripts.md) - Enhance your browsing experience.
 - [Pokémon](awesome/awesome-pokemon.md) - Pokémon and Pokémon GO.
@@ -717,10 +818,8 @@
 - [Framer](awesome/awesome-framer.md) - Prototyping interactive UI designs.
 - [Markdown](awesome/awesome-markdown.md) - Markup language.
 - [Dev Fun](awesome/awesome-dev-fun.md) - Funny developer projects.
-- [Healthcare](awesome/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](awesome/awesome-magento2.md) - Open Source eCommerce built with PHP.
 - [TikZ](awesome/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience](awesome/awesome-neuroscience.md) - Study of the nervous system and brain.
 - [Ad-Free](awesome/awesome-ad-free.md) - Ad-free alternatives.
 - [Esolangs](awesome/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](awesome/awesome-prometheus.md) - Open-source monitoring system.
@@ -729,7 +828,6 @@
 - [Web Monetization](awesome/awesome-web-monetization.md) - A free open web standard service that allows you to send money directly in your browser.
 - [Uncopyright](awesome/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms](awesome/awesome-coins.md) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity](awesome/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters](awesome/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](awesome/awesome-design-principles.md) - Create better and more consistent designs and experiences.
 - [Theravada](awesome/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
@@ -739,13 +837,11 @@
 - [Captcha](awesome/awesome-captcha.md) - A type of challenge–response test used in computing to determine whether or not the user is human.
 - [Jupyter](awesome/awesome-jupyter.md) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](awesome/awesome-frc.md) - International high school robotics championship.
-- [Humane Technology](awesome/awesome-humane-tech.md) - Open source projects that help improve society.
 - [Speakers](awesome/awesome-speakers.md) - Conference and meetup speakers in the programming and design community.
 - [Board Games](awesome/awesome-board-games.md) - Table-top gaming fun for all.
 - [Software Patreons](awesome/awesome-software-patreons.md) - Fund individual programmers or the development of open source projects.
 - [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
 - [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
-- [Mental Health](awesome/awesome-mental-health.md) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - Start accepting Bitcoin.
 - [Scientific Computing](awesome/awesome-scientific-computing.md) - Solving complex scientific problems using computers.
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
@@ -760,7 +856,6 @@
 - [Advertising](awesome/awesome-ads.md) - Advertising and programmatic media for websites.
 - [Earth](awesome/awesome-earth.md) - Find ways to resolve the climate crisis.
 - [Naming](awesome/awesome-naming.md) - Naming things in computer science done right.
-- [Biomedical Information Extraction](awesome/awesome-bioie.md) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](awesome/awesome-web-archiving.md) - An effort to preserve the Web for future generations.
 - [WP-CLI](awesome/awesome-wp-cli.md) - Command-line interface for WordPress.
 - [Credit Modeling](awesome/awesome-credit-modeling.md) - Methods for classifying credit applicants into risk classes.
@@ -769,6 +864,11 @@
 - [QR Code](awesome/awesome-qr-code.md) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](awesome/awesome-veganism.md) - Making the plant-based lifestyle easy and accessible.
 - [Translations](awesome/awesome-translations.md) - The transfer of the meaning of a text from one language to another.
+- [Scriptable](awesome/awesome-scriptable.md) - An iOS app for automations in JavaScript.
+- [WebXR](awesome/awesome-webxr.md) - Enables immersive virtual reality and augmented reality content on the web.
+- [Computational Geometry](awesome/awesome-computational-geometry.md) - Computational approaches for problems in geometry.
+- [OpenStreetMap](awesome/awesome-openstreetmap.md) - An open data mapping project utilized by many apps and devices.
+- [Computational Biology](awesome/awesome-computational-biology.md) - Computational approaches applied to problems in biology.
 
 ## Related
 
@@ -777,4 +877,5 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](http://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
+- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
+- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.

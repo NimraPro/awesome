@@ -1,3 +1,5 @@
+# automate spider generate content from  awesomelist in github
+
 
 ## awesome list collection [my.nimra.cloud](https://my.nimra.cloud)
 

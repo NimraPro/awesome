@@ -44,6 +44,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 ### More resources
 
 - [Design system checklist](https://designsystemchecklist.com/) - Build better design systems. An open-source checklist to help you plan, build and grow your design system.
+- [Design Systems Survey](https://designsystemssurvey.seesparkbox.com/) - Designers and developers from more than 20 industries tell us about their design systems and their uses.
 - [Design.system](https://design.systems/) - Resources for the design systems community.
 - [Super friendly](https://superfriendlydesign.systems/) - We help in-house teams make better digital products with design systems.
 
@@ -57,6 +58,7 @@ See more design systems [here](https://github.com/alexpate/awesome-design-system
 - [AdobeXD](https://www.adobe.com/products/xd.html) - Share your story with designs that look and feel like the real thing. Wireframe, animate, prototype, collaborate, and more — it’s all right here, all in one UI/UX design tool.
 - [Marvel](https://marvelapp.com/) - Marvel has everything you need to bring ideas to life and transform how you create digital products with your team. Placing the power of design in everyone’s hands.
 - [UXPin](https://www.uxpin.com/) - Design and manage your entire UX/UI project in one tool.
+- [Penpot](https://penpot.app) - Penpot is the first Open Source design and prototyping platform meant for cross-domain teams.
 
 See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)!
 
@@ -109,6 +111,10 @@ See design tools plugins [here](https://github.com/LisaDziuba/Awesome-Design-Too
 
 See more design tokens info [here](https://github.com/sturobson/Awesome-Design-Tokens)!
 
+## Coding tools
+
+- [Backlight](https://backlight.dev/) — With collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. 
+
 ## Pattern library
 
 ### Styleguides and documentation
@@ -118,6 +124,7 @@ See more design tokens info [here](https://github.com/sturobson/Awesome-Design-T
 
 ### Develop isolated components
 
+- [Backlight](https://backlight.dev/) - Collaborative platform to build Design Systems on the code side. Empower your front-end with an all-in-one solution to manage components. Quick start, speed-up collaboration. 
 - [Pattern Lab](https://patternlab.io/) - Pattern Lab helps you and your team build thoughtful, pattern-driven user interfaces using atomic design principles.
 - [React Styleguidist](https://react-styleguidist.js.org/) - Isolated React component development environment with a living style guide.
 - [Storybook](https://storybook.js.org/) - Build bulletproof UI components faster. Storybook is an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient.
@@ -156,6 +163,7 @@ More info to Storybook [here](https://github.com/lauthieb/awesome-storybook)!
 
 ## Books
 
+- [Acing the System Design Interview](https://www.manning.com/books/acing-the-system-design-interview) - Book that gives the insights, skills, and practice needed to ace the toughest system design interview questions by Zhiyong Tan.
 - [Atomic Design](https://atomicdesign.bradfrost.com/) - Atomic design methodology for creating design systems by Brad Frost.
 - [Building Design Systems](https://www.apress.com/gp/book/9781484245132) - Unify user experiences through a shared design language by Sarrah Vesselov and Taurie Davis.
 - [Design systems](https://www.smashingmagazine.com/design-systems-book/) - A practical guide to creating design languages for digital products by Alla Kholmatova (Smashing Magazine).

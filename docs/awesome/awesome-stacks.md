@@ -172,6 +172,19 @@ A Nextjs Boilerplate code for creating a blog. The perfect solution to start a b
 
 ## Full stack
 
+### MERN: Mongo Express React Node [↗](https://awesomestacks.dev/mern-mongo-express-react-node)
+
+MERN stands for MongoDB, Express, React, Node. The four key technologies that make up the stack.
+
+- [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) - React components can be used on the client and server side.
+- [MongoDB](https://www.mongodb.com/) - [🛠️](https://stackshare.io/mongodb) - [🐙](https://github.com/mongodb/mongo) - A document and JSON-oriented database.
+- [Express](https://expressjs.com/) - [🛠️](https://stackshare.io/expressjs) - [🐙](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for Node.js.
+- [Node.js](https://nodejs.org/en/) - [🛠️](https://stackshare.io/nodejs) - [🐙](https://github.com/nodejs/node) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+##### Resources
+
+- [Learn the MERN stack by building an exercise tracker — MERN Tutorial](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1)
+
 ### GraphCMS React + Apollo [↗](https://awesomestacks.dev/graph-cms-react-apollo)
 
 Lightning fast starter for bloggers, content creators, and really anyone who wants to break free from WordPress.
@@ -182,7 +195,7 @@ Lightning fast starter for bloggers, content creators, and really anyone who wan
 
 ##### Resources
 
-- [GraphCMS starter blog with React & Apollo Client](https://github.com/GraphCMS/graphcms-examples/tree/master/current/react-apollo-blog)
+- [GraphCMS starter blog with React & Apollo Client](https://github.com/GraphCMS/graphcms-examples/tree/master/with-reactjs)
 
 ### Strapi CMS with Gatsby [↗](https://awesomestacks.dev/strapi-cms-with-gatsby)
 
@@ -350,6 +363,7 @@ A collection of tools for building decentralized applications on the Ethereum bl
 
 - [Solidity](https://solidity.readthedocs.io) - [🐙](https://github.com/ethereum/solidity) - Solidity is an object-oriented, high-level language for implementing smart contracts.
 - [web3.js](https://web3js.readthedocs.io) - [🐙](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
+- [db3.js](https://docs.db3.network/) - [🐙](https://github.com/dbpunk-labs/db3.js) - db3.js is the db3 network(Ethereum layer2) javascript API to write and query JSON documents
 - [Truffle](https://truffleframework.com/truffle) - [🐙](https://github.com/trufflesuite/truffle) - A world class development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
 - [Ganache](https://truffleframework.com/ganache) - [🐙](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
 - [drizzle](https://truffleframework.com/drizzle) - [🐙](https://github.com/trufflesuite/drizzle) - A collection of front-end libraries that make writing dapp user interfaces easier and more predictable.

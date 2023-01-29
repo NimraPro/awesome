@@ -37,6 +37,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [Dr. Jacob Baker](http://cmosedu.com) - Courses and tutorials, professor at The University of Nevada, Las Vegas.
 - [Dr. Abraham](https://www.cerc.utexas.edu/~jaa/teaching.html), [Dr. McDermot](http://users.ece.utexas.edu/~mcdermot/), and [Dr. Valvano](http://users.ece.utexas.edu/~valvano/) - Courses materials, professors at UT Austin
 
+## Documentation
+- [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) - Circuit Drawing Symbols for Inkscape
+
 ## Simulators
 
 ### Analog and Mixed Signal Circuit Simulators
@@ -53,6 +56,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 - [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 - [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
+- [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS). Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 
 ### Verilog HDL Simulators
 
@@ -70,11 +74,11 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
-- [KiCad GerbView](https://kicad-pcb.org/) - The KiCad gerber viewer.
+- [KiCad GerbView](https://kicad.org/) - The KiCad gerber viewer.
 
 
 ## Free EDA Packages
-- [KiCad](https://kicad-pcb.org/) - Open source EDA package with push and shove router, differential pairs and much more.
+- [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 - [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 - [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
 - [Altium CircuitMaker](https://circuitmaker.com/) - Free package from the maker of the go to pro software.
@@ -82,6 +86,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 - [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
 - [Horizon EDA](https://github.com/horizon-eda/horizon) - A free and open source EDA tool with the focus on shortcut operation.
+- [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ## CAD Specific
 
@@ -101,8 +106,6 @@ This list is for websites, services, software, tools and more: everything that y
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
-## PCB Syntax Highlighting
-- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## PCB Batching Services
 - [PCBShopper](https://pcbshopper.com/) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -110,6 +113,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
 - [JLCPCB](https://jlcpcb.com/) - Low cost PCB batching service with inhouse low cost SMT service.
+- [PCBWay](https://www.pcbway.com/) - Low cost PCB batching service with PCBA, CNC and 3D-Printing services.
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
@@ -123,6 +127,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Hackster.io](https://www.hackster.io/) - Another social site for sharing projects. Is well organised by platform, topic and product.
 - [InventHub](https://inventhub.io/) - Git-based project hosting and collaboration platform for hardware development.
 - [CADLAB](https://cadlab.io/) - Another Git-based project hosting and collaboration platform for hardware development.
+- [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
 
 
 ## Inventory Management and Purchasing
@@ -131,9 +136,9 @@ This list is for websites, services, software, tools and more: everything that y
 - [PartKeepr](https://partkeepr.org) - Open source web service for managing your part inventory with parametric search and automatic datasheet import.
 - [Part-DB](https://github.com/Part-DB/Part-DB) - Another open source web service for managing part inventory with a permission system and a good barcode generator.
 
-## Miscellaneous Web Services
-- [Eyrie](https://eyrie.io) - For viewing Eagle and KiCad designs online.
+## Miscellaneous Software Projects
 - [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
+- [Language PCB](https://github.com/Alhadis/language-pcb) - Syntax highlighting for various PCB formats.
 
 ## Development Board Retailers
 - [Sparkfun](https://www.sparkfun.com/) - Retailer and designer of open source electronics development boards and other equipment and materials with excellent accompanying tutorials.
@@ -202,4 +207,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) - A GitHub list of resources, projects and products for robot electronics.
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - Awesome list of embedded programming resources.
 - [TCAD Central](https://tcad.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
-- [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards
+- [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) - A curated list of awesome open-source FPGA boards.
+- [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) - A curated list of hardware design tools with a focus on chip design.
+- [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) - Helpful items for making and learning about open source hardware projects.
+- [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.

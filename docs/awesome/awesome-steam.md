@@ -147,7 +147,8 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [Steam WebAPI @ ValveSoftware](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 - [Steam WebAPI @ TF2 Wiki](https://wiki.teamfortress.com/wiki/WebAPI)
-- [Steam WebAPI Documentation by xpaw](https://lab.xpaw.me/steam_api_documentation.html)
+- [Steam WebAPI Documentation by xPaw](https://lab.xpaw.me/steam_api_documentation.html)
+- [Steam Internal WebAPI Documentation by Revadike](https://github.com/Revadike/UnofficialSteamWebAPI)
 - [Steam as OpenID Provider](http://steamcommunity.com/dev)
 - [Steam API Key Registration](http://steamcommunity.com/dev/apikey)
 - [Steam Error Codes](https://steamerrors.com/) - List of `EResult` codes with possible explanations.
@@ -172,6 +173,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-auth-web-util](http://scholtzm.github.io/steam-auth-web-util/) - Generate 2FA codes directly in your web browser.
 - [SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) - Desktop implementation of Steam's mobile authenticator app.
 - [protonenv](https://github.com/rizkiarm/protonenv) - Simple Proton version and prefix management.
+- [steam-desktop-authenticator-multiplatform](https://github.com/tre3p/steam-desktop-authenticator-multiplatform) - Steam desktop authenticator.
 
 ### Discussion Boards
 
@@ -187,9 +189,8 @@ Websites listed below may provide free and/or paid services and are listed alpha
 
 - [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
 - [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
-- [steamapi.io](https://steamapi.io/) - Provides prices for several games and Steam market/inventory related services.
+- [hexa.one](https://hexa.one/) - Provides prices for several games and Steam market/inventory related services.
 - [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
-- [steamlytics.xyz](https://steamlytics.xyz/) - Provides CS:GO prices and Steam market/inventory related services.
 
 ## License
 

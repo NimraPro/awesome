@@ -6,10 +6,10 @@
 
 > To stop reinventing the wheel you need to know about the wheel. This list is an attempt to show the variety of open and free tools in software and hardware development, which are useful in professional robotic development.
 
-Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics). All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes). 
+Your contribution is necessary to keep this list alive, increase the quality and to expand it. You can read more about it's origin and how you can participate in the [contribution guide](https://github.com/protontypes/awesome-robotic-tooling/blob/master/CONTRIBUTING.md) and related [blog post](https://rosindustrial.org/news/2020/5/11/guest-article-on-the-story-of-the-autonomous-logistics). All new project entries will have a tweet from [protontypes](https://twitter.com/protontypes).
 
 <!--lint ignore double-link-->
-[<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://raw.githubusercontent.com/leggedrobotics/xpp) 
+[<img src="https://i.imgur.com/qI1Jfyl.gif" align="right" width="60%" />](https://raw.githubusercontent.com/leggedrobotics/xpp)
 <!--lint ignore double-link-->
 [![](https://img.shields.io/twitter/follow/protontypes?style=social)](https://twitter.com/intent/follow?screen_name=protontypes) [![Join the chat at https://gitter.im/protontypes/community](https://badges.gitter.im/protontypes/community.svg)](https://gitter.im/protontypes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -134,7 +134,7 @@ to successfully design systems architecture.
 * [mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 * [Aslan](https://github.com/project-aslan/Aslan) - Open source self-driving software for low speed environments.
 * [open-source-rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars from JPL.
-* [pybotics](https://github.com/nnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration.
+* [pybotics](https://github.com/engnadeau/pybotics) -  An open-source and peer-reviewed Python toolbox for robot kinematics and calibration.
 * [makani](https://github.com/google/makani) - Contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools.
 * [mir_robot](https://github.com/dfki-ric/mir_robot) - This is a community project to use the MiR Robots with ROS.
 * [COMPAS](https://github.com/compas-dev/compas_fab) - Robotic fabrication package for the COMPAS Framework.
@@ -299,6 +299,7 @@ to successfully design systems architecture.
 * [ROSIntegration](https://github.com/code-iai/ROSIntegration) - Unreal Engine Plugin to enable ROS Support.
 * [gym-gazebo](https://github.com/erlerobot/gym-gazebo) - An OpenAI gym extension for using Gazebo known as gym-gazebo.
 * [gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet-based Gym environments for single and multi-agent reinforcement learning of quadcopter control.
+* [safe-control-gym](https://github.com/utiasDSL/safe-control-gym) - PyBullet-based CartPole and Quadrotor environments—with CasADi symbolic dynamics and constraints—for safe and robust learning-based control.
 * [highway-env](https://github.com/eleurent/highway-env) - A collection of environments for autonomous driving and tactical decision-making tasks.
 * [VREP Interface](http://www.coppeliarobotics.com/helpFiles/en/rosInterf.htm) - ROS Bridge for the VREP simulator.
 * [car_demo](https://github.com/osrf/car_demo) - This is a simulation of a Prius in gazebo 9 with sensor data being published using ROS kinetic.
@@ -336,6 +337,8 @@ to successfully design systems architecture.
 * [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - Central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
 * [BlueSky](https://github.com/TUDelft-CNS-ATM/bluesky) - The goal of BlueSky is to provide everybody who wants to visualize, analyze or simulate air traffic with a tool to do so without any restrictions, licenses or limitations.
 * [Cloe](https://github.com/eclipse/cloe) - Empowers developers of automated-driving software components by providing a unified interface to closed-loop simulation.
+* [Dynamic_logistics_Warehouse](https://github.com/belal-ibrahim/dynamic_logistics_warehouse) - Gazebo simulation of dynamics environment in warehouses.
+* [OpenCDA](https://github.com/ucla-mobility/OpenCDA) - A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.
 
 
 ## Electronics and Mechanics
@@ -345,7 +348,7 @@ to successfully design systems architecture.
 * [urdf-viz](https://github.com/OTL/urdf-viz) - Visualize URDF/XACRO file, URDF Viewer works on Windows/macOS/Linux.
 * [solidworks_urdf_exporter](https://github.com/ros/solidworks_urdf_exporter) - SolidWorks to URDF Exporter.
 * [FreeCAD](https://github.com/FreeCAD/FreeCAD) - Your own 3D parametric modeler.
-* [kicad](http://www.kicad-pcb.org/) - A Cross Platform and Open Source Electronics Design Automation Suite.
+* [kicad](http://www.kicad.org/) - A Cross Platform and Open Source Electronics Design Automation Suite.
 * [PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nice looking 2D drawing suitable for pinout diagrams.
 * [kicad-3rd-party-tools](https://github.com/xesscorp/kicad-3rd-party-tools) - Tools made by others to augment the KiCad PCB EDA suite.
 * [PandaPower](http://www.pandapower.org) - An easy to use open source tool for power system modeling, analysis and optimization with a high degree of automation.
@@ -376,6 +379,7 @@ to successfully design systems architecture.
 ## Sensor Processing
 ### Calibration and Transformation
 * [tf2](http://wiki.ros.org/tf2) - Transform library, which lets the user keep track of multiple coordinate frames over time.
+* [TriP](https://github.com/TriPed-Robot/TriP) - A Inverse Kinematics library for serial robots, parallel robots and hybrids of both.
 * [lidar_align](https://github.com/ethz-asl/lidar_align) - A simple method for finding the extrinsic calibration between a 3D lidar and a 6-dof pose sensor.
 * [kalibr](https://github.com/ethz-asl/kalibr) - The Kalibr visual-inertial calibration toolbox.
 * [Calibnet](https://github.com/epiception/CalibNet) - Self-Supervised Extrinsic Calibration using 3D Spatial Transformer Networks.
@@ -403,6 +407,7 @@ to successfully design systems architecture.
 * [jsk_recognition](https://github.com/jsk-ros-pkg/jsk_recognition) - A stack for the perception packages which are used in JSK lab.
 * [GibsonEnv](https://github.com/StanfordVL/GibsonEnv) - Gibson Environments: Real-World Perception for Embodied Agents.
 * [morefusion](https://github.com/wkentaro/morefusion) - Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion.
+* [se(3)-TrackNet](https://github.com/wenbowen123/iros20-6d-pose-tracking) - A package for 6D pose tracking of dynamic objects when object's CAD model is available.
 
 ### Machine Learning
 * [DLIB](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++.
@@ -489,7 +494,7 @@ to successfully design systems architecture.
 * [Cam2BEV](https://github.com/ika-rwth-aachen/Cam2BEV) - TensorFlow Implementation for Computing a Semantically Segmented Bird's Eye View (BEV) Image Given the Images of Multiple Vehicle-Mounted Cameras.
 * [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM.
-* [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. 
+* [AliceVision](https://github.com/alicevision/AliceVision) - A Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms.
 * [satpy](https://github.com/pytroll/satpy) - A python library for reading and manipulating meteorological remote sensing data and writing it to various image and data file formats.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - A collection of open source Python packages that have been developed to seamlessly access and process spatio-temporal image sequences acquired by any satellite fleet in a timely and automatic manner.
 * [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -554,6 +559,8 @@ to successfully design systems architecture.
 * [CamVox](https://github.com/ISEE-Technology/CamVox) - A low-cost SLAM system based on camera and Livox lidar.
 * [SA-SSD](https://github.com/skyhehe123/SA-SSD) - Structure Aware Single-stage 3D Object Detection from Point Cloud.
 * [cuda-pcl](https://github.com/NVIDIA-AI-IOT/cuda-pcl) - Accelerating Lidar for Robotics with NVIDIA CUDA-based PCL.
+* [urban_road_filter](https://github.com/jkk-research/urban_road_filter) - Real-time LIDAR-based Urban Road and Sidewalk detection for Autonomous Vehicles.
+* [Removert](https://github.com/irapkaist/removert) - Remove then revert. Static map construction in the wild and dynamic points removing tool by constructing a static map.
 
 ## Localization and State Estimation
 * [evo](https://github.com/MichaelGrupp/evo) - Python package for the evaluation of odometry and SLAM.
@@ -701,6 +708,7 @@ to successfully design systems architecture.
 * [am_traj](https://github.com/ZJU-FAST-Lab/am_traj) - Alternating Minimization Based Trajectory Generation for Quadrotor Aggressive Flight.
 * [GraphBasedLocalTrajectoryPlanner](https://github.com/TUMFTM/GraphBasedLocalTrajectoryPlanner) - Was used on a real race vehicle during the Roborace Season Alpha and achieved speeds above 200km/h.
 * [se2_navigation](https://github.com/leggedrobotics/se2_navigation) - Pure pursuit controller and Reeds-Shepp sampling based planner for navigation in SE(2) space.
+* [Ruckig](https://ruckig.com) - Instantaneous Motion Generation. Real-time. Jerk-constrained. Time-optimal.
 
 
 ## User Interaction
@@ -774,7 +782,7 @@ to successfully design systems architecture.
 * [K3D-tools](https://github.com/K3D-tools) - Jupyter notebook extension for 3D visualization.
 * [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 * [ipygany](https://github.com/QuantStack/ipygany) - 3-D Scientific Visualization in the Jupyter Notebook.
-* [Foxglove Studio](https://github.com/foxglove/studio) - Robotics visualization and debugging.
+* [Foxglove Studio](https://github.com/foxglove/studio) - Web and desktop app for robotics visualization and debugging; actively maintained fork of webviz.
 * [ROS-Mobile](https://github.com/ROS-Mobile/ROS-Mobile-Android) - Visualization and controlling application for Android.
 
 
@@ -791,9 +799,10 @@ to successfully design systems architecture.
 * [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).
 * [universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 * [BMW-Labeltool-Lite](https://github.com/BMW-InnovationLab/BMW-Labeltool-Lite) - Provides you with a easy to use labeling tool for State-of-the-art Deep Learning training purposes.
+* [3d-annotation-tool](https://github.com/StrayRobots/3d-annotation-tool) - Lightweight tool to annotate point clouds with bounding boxes, rectangles, keypoints and more.
 
 
-### Point Cloud 
+### Point Cloud
 * [CloudCompare](https://github.com/CloudCompare/CloudCompare) - CloudCompare is a 3D point cloud (and triangular mesh) processing software.
 * [Potree](https://github.com/potree/potree) - WebGL point cloud viewer for large datasets.
 * [point_cloud_viewer](https://github.com/googlecartographer/point_cloud_viewer) - Makes viewing massive point clouds easy and convenient.
@@ -805,7 +814,7 @@ to successfully design systems architecture.
 * [ImmersivePoints](https://github.com/rmeertens/ImmersivePoints) - A web-application for virtual reality devices to explore 3D data in the most natural way possible.
 
 
-### RViz 
+### RViz
 * [mapviz](https://github.com/swri-robotics/mapviz) - Modular ROS visualization tool for 2D data.
 * [rviz_cinematographer](https://github.com/AIS-Bonn/rviz_cinematographer) - Easy to use tools to create and edit trajectories for the rviz camera.
 * [rviz_satellite](https://github.com/gareth-cross/rviz_satellite) - Display internet satellite imagery in RViz.

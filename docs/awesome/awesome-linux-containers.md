@@ -2,6 +2,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Linux Containers
 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Presidential_Standard_of_Belarus_%28fictional%29.svg/240px-Presidential_Standard_of_Belarus_%28fictional%29.svg.png" width="20" height="20" alt="Voices From Belarus" />](https://voicesfrombelarus.org/) [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -141,6 +143,10 @@ Hypervisor-based (KVM, Xen, QEMU) Runtime for OCI. Security by isolation.
 Full management of container lifecycle.
 * [firecracker](https://github.com/firecracker-microvm/firecracker)  
 Firecracker runs workloads in lightweight virtual machines, called microVMs, which combine the security and isolation properties provided by hardware virtualization technology with the speed and flexibility of containers.
+* [sysbox](https://github.com/nestybox/sysbox)  
+Sysbox is a "runc" that creates secure (rootless) containers / pods that run not just microservices, but most workloads that run in VMs (e.g., systemd, Docker, and Kubernetes), seamlessly.
+* [youki](https://github.com/containers/youki)  
+A container runtime written in Rust.
 
 ## Sandboxes
 
@@ -158,6 +164,8 @@ xdg-app is a system for building, distributing and running sandboxed desktop app
 Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
 * [singularity](https://github.com/singularityware/singularity)  
 Universal application containers for Linux.
+* [Lxroot](https://github.com/parke/lxroot)  
+Lxroot is a flexible, lightweight, and safer alternative to chroot and/or Docker for non-root users on Linux.
 
 ## Partial Access
 
@@ -269,6 +277,7 @@ OCI hook to trace syscalls and generate a seccomp profile.
   - [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * [Why you shouldn't use ENV variables for secret data](https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/)
 * [When to use-Docker alternatives rkt and LXD](http://searchitoperations.techtarget.com/tip/When-to-use-Docker-alternatives-rkt-and-LXD)
+* [The container is a lie](https://platform.sh/blog/2020/the-container-is-a-lie/)
 
 ### Levels of security problems
 

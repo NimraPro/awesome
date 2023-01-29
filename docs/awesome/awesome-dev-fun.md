@@ -70,11 +70,12 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - A trombone you play by resizing a pop-up window. 🎺
 - [eslint-plugin-replyguy](https://github.com/jlengstorf/eslint-plugin-replyguy) - The ESLint plugin you definitely didn’t ask for.
 - [HTPL Compiler](https://github.com/roveroniandrea/HTPLcompiler) - HTPL is a programming language based on HTML.
-
+- [redond-it](https://github.com/jazcarate/redond-it) - Remove the sharp edges of your website.
 
 ## PHP
 
 - [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [Assert true](https://github.com/joubertredrat/assert-true) - A lot of ways to you set your assert as true.
 
 
 ## Python

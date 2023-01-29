@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="blade-ui-kit/awesome-tall-stack"></div>
+<div class="github-widget" data-repo="livewire/awesome-tall-stack"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TALL Stack [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Lint Awesome List](https://github.com/blade-ui-kit/awesome-tall-stack/workflows/Lint%20Awesome%20List/badge.svg)
 
@@ -34,9 +34,12 @@ The [TALL stack](https://tallstack.dev/) is a full stack development solution fe
 - [Laravel TTALL Preset](https://github.com/pktharindu/ttall) - A preset for Turbolinks + TALL stack, bundled with some helpful packages and their configurations.
 - [Laravel Views](https://github.com/Gustavinho/laravel-views) - Laravel package to create beautiful common views like data tables using the TALL stack.
 - [Livewire Datatables](https://github.com/mediconesystems/livewire-datatables) - Package to create tables with sorting, filtering, searching, exporting etc.
+- [Livewire PowerGrid](https://github.com/Power-Components/livewire-powergrid) - ⚡ PowerGrid ⚡ creates modern, powerful and easy to customize Datatables.
+- [MarkdownX](https://devdojo.com/markdownx) - An advanced Markdown Editor with dropdowns, image uploads, code blocks, and more.
 - [Tailwind UI](https://tailwindui.com) - Beautiful UI components built with Tailwind CSS. Offers Alpine.js integration.
 - [TALL Forms](https://github.com/tanthammar/tall-forms) - A dynamic, responsive Laravel Livewire form component with realtime validation, file uploads, array fields, blade form input components and more.
 - [X Blade Components](https://github.com/masterix21/x-blade-components) - Ready-to-use Blade components.
+- [WireUI](https://github.com/wireui/wireui) - A simple, fast and elegant way to add blade components made with alpine.js and tailwind, ready to use, enjoy the ease. Livewire components and Tall Stack components
 
 ## Learning
 
@@ -56,6 +59,7 @@ These apps & websites were built using the TALL stack.
 Legend: 🔓 Open Source · 🔐 Closed Source
 
 - 🔓 [aw-studio.de](https://aw-studio.de/) - [repository](https://github.com/aw-studio/aw-studio.de) - Built using Laravel & Tailwind CSS.
+- 🔐 [devdojo.com](https://devdojo.com) - Developer Community and Tools
 - 🔓 [driesvints.com](https://driesvints.com) - [repository](https://github.com/driesvints/driesvints.com) - Built using Laravel & Tailwind CSS.
 - 🔓 [fullstackbelgium.be](https://fullstackbelgium.be) - [repository](https://github.com/fullstackbelgium/fullstackbelgium.be) - Built using Laravel & Tailwind CSS.
 - 🔓 [fullstackeurope.com](https://fullstackeurope.com) - [repository](https://github.com/fullstackeurope/fullstackeurope.com) - Built using Laravel, Alpine.js & Tailwind CSS.

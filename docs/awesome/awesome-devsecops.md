@@ -36,6 +36,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AppSec Day](https://appsecday.io/) - _OWASP_ - An Australian application security conference run by OWASP.
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A network of DevSecOps conferences run by Snyk.
 
+### Newsletters
+- [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. 
+
 ### Podcasts
 
 - [Absolute AppSec](https://absoluteappsec.com/) - _Seth Law & Ken Johnson_ - Discussions about current events and specific topics related to application security.
@@ -48,21 +51,22 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/) - _OWASP_ - A framework of security requirements and controls to help developers design and develop secure web applications.
 - [Coding Standards](https://wiki.sei.cmu.edu/confluence/display/seccode/SEI+CERT+Coding+Standards) - _CERT_ - A collection of secure development standards for C, C++, Java and Android development.
+- [Fundamental Practices for Secure Software Development](https://safecode.org/wp-content/uploads/2018/03/SAFECode_Fundamental_Practices_for_Secure_Software_Development_March_2018.pdf) - _SAFECode_ - Guidelines for implementing key secure development practices throughout the SDLC.
 - [Proactive Controls](https://owasp.org/www-project-proactive-controls/) - _OWASP_ - OWASP's list of top ten controls that should be implemented in every software development project.
 - [Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines) - _Mozilla_ - A guideline containing specific secure development standards for secure web application development.
 - [Secure Coding Practices Quick Reference Guide](https://owasp.org/www-pdf-archive/OWASP_SCP_Quick_Reference_Guide_v2.pdf) - _OWASP_ - A checklist to verify that secure development standards have been followed.
 
 ### Secure Development Lifecycle Framework
 
-- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys) - A framework for software security created by observing and analysing data from leading software security initiatives.
+- [Building Security In Maturity Model (BSIMM)](https://www.bsimm.com/framework.html) - _Synopsys_ - A framework for software security created by observing and analysing data from leading software security initiatives.
 - [Secure Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/practices) - _Microsoft_ - A collection of tools and practices that serve as a framework for the secure development lifecycle.
 - [Secure Software Development Framework](https://csrc.nist.gov/CSRC/media/Publications/white-paper/2019/06/07/mitigating-risk-of-software-vulnerabilities-with-ssdf/draft/documents/ssdf-for-mitigating-risk-of-software-vulns-draft.pdf) - _NIST_ - A framework consisting of practices, tasks and implementation examples for a secure development lifecycle.
 - [Software Assurance Maturity Model](https://github.com/OWASP/samm) - _OWASP_ - A framework to measure and improve the maturity of the secure development lifecycle.
 
 ### Toolchains
 
+- [Cloud Security and DevSecOps Best Practices _and_ Securing Web Application Technologies (SWAT) Checklist](https://www.sans.org/posters/cloud-security-devsecops-best-practices/) - _SANS_ - A poster containing the Securing Web Application Technologies (SWAT) Checklist, SANS Cloud Security Curriculum, Cloud Security Top 10, Top 12 Kubernetes Threats, and Secure DevOps Toolchain.
 - [Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/) - _XebiaLabs_ - A collection of DevSecOps tooling categorised by tool functionality.
-- [Secure DevOps Toolchain](https://www.sans.org/security-resources/posters/secure-devops-toolchain-swat-checklist/60/download) - _SANS_ - A list of security specific practices and tooling categorised into pipeline phases and tool functionality.
 
 ### Training
 
@@ -81,6 +85,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Wikis
 
 - [DevSecOps Hub](https://snyk.io/devsecops/) - _Snyk_ - Introduction to key DevSecOps concepts, processes and technologies.
+- [SecureFlag Knowledge Base](https://knowledge-base.secureflag.com/) - _OWASP_ - A repository of information about software vulnerabilities and how to prevent them.
 
 ## Tools
 
@@ -88,6 +93,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 Open source software packages can speed up the development process by allowing developers to implement functionality without having to write all of the code. However, with the open source code comes open source vulnerabilities. Dependency management tools help manage vulnerabilities in open source packages by identifying and updating packages with known vulnerabilities.
 
+- [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Dependabot](https://dependabot.com/) - _GitHub_ - Automatically scan GitHub repositories for vulnerabilities and create pull requests to merge in patched dependencies.
 - [Dependency-Check](https://owasp.org/www-project-dependency-check/) - _OWASP_ - Scans dependencies for publicly disclosed vulnerabilities using CLI or build server plugins.
 - [Dependency-Track](https://dependencytrack.org/) - _OWASP_ - Monitor the volume and severity of vulnerable dependencies across multiple projects over time.
@@ -113,8 +119,11 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 Infrastructure as Code allows applications to be deployed reliably to a consistent environment. This not only ensures that infrastructure is consistently hardened, but also provides an opportunity to statically and dynamically analyse infrastructure definitions for vulnerable dependencies, hard-coded secrets, insecure configuration and unintentional changes in security configuration. The following tools facilitate this analysis.
 
 #### Multi-Platform
+
 - [Checkov](https://github.com/bridgecrewio/checkov) - _Bridgecrew_ - Scan Terraform, AWS CloudFormation and Kubernetes templates for insecure configuration.
 - [KICS](https://github.com/Checkmarx/kics) - _Checkmarx_ - Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle.
+- [Spectral DeepConfig](https://spectralops.io/blog/spectral-launches-deepconfig-to-ensure-no-misconfiguration-at-all-layers-of-software/) - _Spectral_ - Find misconfiguration both in infrastructure as well as apps as early as commit time.
+- [Terrascan](https://github.com/accurics/terrascan) - _Accurics_ - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
 
 <!-- omit in toc -->
 #### Cloud Formation
@@ -134,7 +143,6 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 #### Terraform
 - [Regula](https://github.com/fugue/regula) - _Fugue_ - Evaluate Terraform infrastructure-as-code for potential security misconfigurations and compliance violations prior to deployment.
 - [Terraform Compliance](https://terraform-compliance.com/) - _terraform-compliance_ - A lightweight, security and compliance focused test framework against terraform to enable negative testing capability for your infrastructure-as-code.
-- [Terrascan](https://github.com/cesar-rodriguez/terrascan) - _Cesar Rodriguez_ - Scan Terraform templates for best practice security configuration.
 - [Tfsec](https://github.com/liamg/tfsec) - _Liam Galvin_ - Scan Terraform templates for security misconfiguration and noncompliance with AWS, Azure and GCP security best practice.
 
 <!-- omit in toc -->
@@ -179,9 +187,11 @@ The software we write needs to use secrets (passwords, API keys, certificates, d
 - [Gopass](https://github.com/gopasspw/gopass) - _Gopass_ - Password manager for teams relying on Git and gpg. Manages secrets in encrypted files and repositories.
 - [Google Cloud Key Management Service (KMS)](https://cloud.google.com/kms) - _Google Cloud Platform_ - Securely store secrets within GCP.
 - [HashiCorp Vault](https://www.vaultproject.io/) - _HashiCorp_ - Securely store secrets via UI, CLI or HTTP API.
+- [Keyscope](https://github.com/SpectralOps/keyscope) - _Spectral_ - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 - [Pinterest Knox](https://github.com/pinterest/knox) - _Pinterest_ - Securely store, rotate and audit secrets.
 - [Secrets Operations (SOPS)](https://github.com/mozilla/sops) - _Mozilla_ - Encrypt keys stored within YAML, JSON, ENV, INI and BINARY files.
 - [Teller](https://github.com/spectralops/teller) - _Spectral_ - A secrets management tool for developers - never leave your command line for secrets.
+
 
 ### Secrets Scanning
 
@@ -272,8 +282,9 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 
 Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
 
+- [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
-
+- [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) and [rekor](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
 
 ### Threat Modelling
 

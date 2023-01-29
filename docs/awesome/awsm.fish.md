@@ -33,13 +33,14 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 - [Done](https://github.com/franciscolourenco/done) - Automatically receive notifications after a long process finishes.
 - [Replay](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. ([Alternative](https://github.com/edc/bass))
 - [Spark](https://github.com/jorgebucaran/spark.fish) - Sparklines for Fish.
-- [Gitio](https://github.com/jorgebucaran/gitio.fish) - Create a custom git.io URL.
 - [Fisher](https://github.com/jorgebucaran/fisher) - Manage functions, completions, bindings, and snippets from the CLI.
 - [Fundle](https://github.com/danhper/fundle) - `config.fish`-based plugin manager.
 - [GitNow](https://github.com/joseluisq/gitnow) - A collection of utility functions to speed up your git workflow.
+- [Sponge](https://github.com/andreiborisov/sponge) - Clean command history from typos automatically.
 - [Autopair](https://github.com/jorgebucaran/autopair.fish) - Auto-complete matching pairs in the Fish command-line. ([Alternative](https://github.com/laughedelic/pisces)).
 - [Getopts](https://github.com/jorgebucaran/getopts.fish) - CLI options parser (alternative to the [`argparse`](https://fishshell.com/docs/current/cmds/argparse.html) builtin).
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish.
+- [Pufferfish](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish.
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper.
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2.
@@ -47,5 +48,5 @@ A curation of plugins, prompts, and resources for the [friendly interactive shel
 
 ## Docker
 
-- [Alpine Image](https://hub.docker.com/r/andreiborisov/fish)
+- [Alpine Image](https://hub.docker.com/r/purefish/docker-fish)
 - [Ubuntu LTS Image](https://hub.docker.com/r/dideler/fish-shell)

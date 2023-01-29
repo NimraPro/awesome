@@ -100,11 +100,14 @@ How to organize teams and projects to ensure effective collaboration and account
 
 
 ## Governance
+- [A Human-Centered Interpretability Framework Based on Weight of Evidence](https://arxiv.org/pdf/2104.13299.pdf) 🎓
 - [An Architectural Risk Analysis Of Machine Learning Systems](https://berryvilleiml.com/docs/ara.pdf) 
+- [Beyond Debiasing](https://complexdiscovery.com/wp-content/uploads/2021/09/EDRi-Beyond-Debiasing-Report.pdf)
 - [Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing](https://dl.acm.org/doi/pdf/10.1145/3351095.3372873) 🎓
 - [Inherent trade-offs in the fair determination of risk scores](https://arxiv.org/abs/1609.05807) 🎓
 - [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/) ⭐
 - [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims](https://arxiv.org/abs/2004.07213)
+- [Understanding Software-2.0](https://dl.acm.org/doi/abs/10.1145/3453478) 🎓
 
 ## Tooling
 
@@ -112,6 +115,7 @@ Tooling can make your life easier.
 
 We only share open source tools, or commercial platforms that offer substantial free packages for research.
 
+- [Aim](https://aimstack.io) - Aim is an open source experiment tracking tool.
 - [Airflow](https://airflow.apache.org/) - Programmatically author, schedule and monitor workflows.
 - [Alibi Detect](https://github.com/SeldonIO/alibi-detect) - Python library focused on outlier, adversarial and drift detection.
 - [Archai](https://github.com/microsoft/archai) - Neural architecture search.
@@ -130,6 +134,7 @@ We only share open source tools, or commercial platforms that offer substantial 
 - [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Sklearn-like framework for hyperparameter tuning and AutoML in deep learning projects.
 - [OpenML](https://www.openml.org) - An inclusive movement to build an open, organized, online ecosystem for machine learning.
 - [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [REVISE: REvealing VIsual biaSEs](https://github.com/princetonvisualai/revise-tool) - Automatically detect bias in visual data sets.
 - [Robustness Metrics](https://github.com/google-research/robustness_metrics) - Lightweight modules to evaluate the robustness of classification models.
 - [Seldon Core](https://github.com/SeldonIO/seldon-core) - An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models on Kubernetes.
 - [Spark Machine Learning](https://spark.apache.org/mllib/) - Spark’s ML library consisting of common learning algorithms and utilities.

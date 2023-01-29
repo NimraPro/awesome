@@ -89,6 +89,7 @@ There is another file [`https://github.com/onqtam/awesome-cmake/blob/master/NonM
 * [YCM](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform](https://github.com/robotology/yarp) and friends. [```[BSD3]```][BSD-3-Clause]
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM) - CMake Community Modules. ```[NO LICENSE]```
 * [Metabench](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [```[BOOST]```][BOOST]
+* [Oranges](https://github.com/benthevining/Oranges) - [Ben Vining](https://github.com/benthevining)'s library of CMake modules and toolchains [```[GPL]```][GPL]
 
 ## Utility Scripts
 
@@ -179,6 +180,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake_check](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [```[MIT]```][MIT]
 * [cmake-language-server](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [```[MIT]```][MIT]
 * [cmake-maven-plugin](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [```[APACHE2]```][APACHE2]
+* [version-from-git](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [```[MIT]```][MIT]
 
 ## License
 

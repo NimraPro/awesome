@@ -170,7 +170,7 @@ Related Repos:
 Related Repos:
 
 * [boto3 :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
-* [botocore :fire::fire::fire:](https://github.com/boto/botocore)
+* [botocore :fire::fire::fire::fire:](https://github.com/boto/botocore)
 
 ### Ruby SDK
 
@@ -473,6 +473,7 @@ Community Repos:
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
+* [sensedeep/dynamodb-onetable :fire::fire:](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
 
 ### Elastic Beanstalk
 
@@ -507,7 +508,7 @@ Community Repos:
 
 * [alestic/ec2-consistent-snapshot :fire::fire:](https://github.com/alestic/ec2-consistent-snapshot) - Initiate consistent EBS snapshots in EC2.
 * [ConradIrwin/aws-name-server :fire::fire::fire:](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name.
-* [cristim/autospotting :fire::fire::fire::fire:](https://github.com/autospotting/autospotting) - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances.
+* [cristim/autospotting :fire::fire::fire::fire::fire:](https://github.com/autospotting/autospotting) - Automatically rolling-replace on-demand EC2 instances in AutoScaling groups with compatible spot instances.
 * [evannuil/aws-snapshot-tool :fire::fire:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
 * [kelseyhightower/kubernetes-the-hard-way :fire::fire::fire::fire::fire:](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on EC2. No scripts.
 * [mirakui/ec2ssh :fire::fire:](https://github.com/mirakui/ec2ssh) - SSH config manager.
@@ -645,7 +646,7 @@ Community Repos:
 * [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - Automate Chrome through Lambda.
 * [grycap/scar :fire::fire::fire:](https://github.com/grycap/scar) - Transparently execute containers out of Docker images in AWS Lambda.
-* [jeremydaly/lambda-api :fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
+* [jeremydaly/lambda-api :fire::fire::fire::fire:](https://github.com/jeremydaly/lambda-api) - Lightweight web framework for your serverless applications.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 * [jorgebastida/gordon :fire::fire::fire::fire::fire:](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [ks888/LambStatus :fire::fire::fire::fire:](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
@@ -691,7 +692,7 @@ AWS Repos:
 * [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
 * [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch sample cookbook.
-* [opsworks-example-cookbooks ](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
+* [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
 * [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
@@ -810,7 +811,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-data-wrangler :fire::fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
+* [aws-data-wrangler :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
 Community Repos:
 
@@ -828,7 +829,7 @@ Community Repos:
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
 * [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
-* [NixOS/nixops :fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
+* [NixOS/nixops :fire::fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
 
 ### Security
 

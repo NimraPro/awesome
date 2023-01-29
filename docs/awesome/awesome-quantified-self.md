@@ -23,7 +23,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Wearables Database](http://vandrico.com/wearables/) - Awesome list of wearables available per body part.
 - [Wearables Table](https://quantifyme.io/) - Nice crowd-sourced table of wearables.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
-- [Quantified Self Instutite](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
+- [Quantified Self Institute](http://www.qsinstitute.org/) - Quantified Self research and innovation projects.
+- [Biomindmap](https://biomindmap.com/) - Database of interventions from research studies with a network viz option. 
 
 ## Articles & Blogs
 
@@ -38,6 +39,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
 - [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
 - [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
+- [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
 
 ## Books
 
@@ -60,6 +62,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
 - [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
 - [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
+- [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
@@ -73,6 +76,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
 - [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
 - [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+- [Vital](https://tryvital.io/) - Plaid like widget that joins together all your fitness data, wearables data and at home lab tests.
 - [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
 - [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
@@ -119,6 +123,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
 - [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
 - [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
+- [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
@@ -191,6 +196,8 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 - [Actual](https://actualbudget.com/) - Personal home budget software.
+- [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 
 ## Devices and Wearables
 
@@ -239,6 +246,7 @@ It's always been sad to see a service shutdown, or hardware stop renew, here is 
 - [BetterSelf](https://betterself.io) - An open sourced app for tracking supplements and habits
 - [QS Ledger](https://github.com/markwk/qs_ledger) - Open Source Personal Data Aggregator and Data Analysis built on Python using Jupyter Notebooks.
 - [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - Learn more about blood testing, biomarkers and tech and services to help quantify (and improve) your health!
+- [health-records](https://github.com/pacogomez/health-records) - A tool for managing personal health records using plain text.
 
 
 ## License

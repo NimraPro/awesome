@@ -6,7 +6,7 @@ A categorized collection of awesome music libraries, tools, frameworks and softw
 
 Contributions and suggestions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/ciconia/awesome-music/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/contributors), you're awesome and this project wouldn't be possible without you!
 
 
 ## Audio Editing
@@ -59,6 +59,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## MIDI Tools & Libraries
 
+* [JJazzLab-X](https://github.com/jjazzboss/JJazzLab-X) - a complete Midi-based framework for automatic backing tracks generation.
 * [Midifile](http://midifile.sapp.org/) - C++ library for parsing Standard MIDI Files.
 * [Timidity](http://timidity.sourceforge.net/) - an open-source command line synthesizer that plays MIDI files.
 
@@ -91,6 +92,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Tunefl](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
+* [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
 * [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
@@ -98,11 +100,13 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 * [Alda](https://github.com/alda-lang/alda) - a music programming language for musicians.
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
+* [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms.
 * [Chuck](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
 * [CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
 * [Faust](http://faust.grame.fr/) - a functional programming language specifically designed for real-time signal processing and synthesis.
+* [Gwion](https://github.com/Gwion/Gwion) - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 * [IanniX](https://github.com/iannix/IanniX) - a graphical open-source sequencer, based on Iannis Xenakis works, for digital art.
 * [Inscore](http://inscore.sourceforge.net/) - an environmnent for the design of interactive, augmented music scores.
 * [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
@@ -119,7 +123,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Sonic Pi](http://sonic-pi.net/) - a live coding synth with an emphasis on educational use.
 * [Sporth](https://pbat.ch/proj/sporth.html) - a small stack based audio language.
 * [SuperCollider](http://supercollider.github.io/) - a programming language for real time audio synthesis and algorithmic composition.
-* [Tidal](http://tidal.lurk.org/) - a language built on Haskell for live coding patterns.
+* [Tidal](https://tidalcycles.org/) - a language built on Haskell for live coding patterns.
+* [Unilang](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Domain specific language used in Unison.
 
 ## Music Theory Teaching
 

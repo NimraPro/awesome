@@ -19,7 +19,7 @@ The most **up to date** list of Firebase docs, talks, tools, examples & articles
 
 <!-- translations -->
 
-Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ru.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ko.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme-es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme-id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ja.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme-pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme-zh.md) -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/readme.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ko.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ru.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/readme-es.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/readme-id.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/readme-ja.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/readme-pt.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/readme-zh.md) -->
 
 [Firebase](https://firebase.google.com) is an app dev platform built on the [Google Cloud Platform](https://cloud.google.com/products) providing services and cross-platform SDKs!
 
@@ -35,11 +35,10 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
-- 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
-- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - All Firebase talks @ the Firebase Summit 2020.
-- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
-- 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
-- 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
+- 🔧 [(Unofficial) Firebase Admin SDK for PHP](https://github.com/kreait/firebase-php) - The Firebase Admin PHP SDK enables access to Firebase services from privileged environments (such as servers or cloud) in PHP.
+- 📖 [App Check](https://firebase.google.com/docs/app-check) - Protect your backend resources from abuse, such as billing fraud or phishing.
+- 📖 [Firestore Data Bundles](https://firebase.google.com/docs/firestore/bundles) - Data Bundles are static query results for CDN caching to speed first page loads.
+- 📖 [Modular Web SDK (v9)](https://firebase.google.com/docs/web/learn-more#modular-version) - Import only what you need reducing SDK size up to 80%.
 
 ## Official Docs & Quickstarts
 
@@ -52,8 +51,12 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ## Firebase Extensions
 
 - 🔧 [Firebase Extensions](https://firebase.google.com/products/extensions) - Firebase Extensions provide extended functionality to your apps without the need to research, write, or debug code on your own.
-- 🔧 [Stripe Firebase Extensions](https://github.com/stripe/stripe-firebase-extensions/) - Official Stripe subscriptions and invoices extensions.
-- 🔧 [Firebase Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search/) - Extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense) - an OSS alternative to Algolia.
+- 🔧 [Experimental Firebase Extensions](https://github.com/FirebaseExtended/experimental-extensions) -  laboratory for new extensions created by Firebase.
+- 🔧 [Stripe Extensions](https://github.com/stripe/stripe-firebase-extensions) - Official Stripe subscriptions and invoices extensions.
+- 🔧 [MessageBird Extensions](https://github.com/messagebird/firestore-send-msg) - Official MessageBird extension to send messages via the MessageBird Converstations API.
+- 🔧 [Algolia Extensions](https://github.com/algolia/firestore-algolia-search) - Official Algolia extension to enable full text search of Cloud Firestore with Algolia.
+- 🔧 [Mailchimp Extensions](https://github.com/mailchimp/Firebase) - Official Mailchimp extension to sync Firebase Authentication events to create member tags, merge fields, and member events with Mailchimp.
+- 🔧 [Typesense Extension for Full-Text Search](https://github.com/typesense/firestore-typesense-search) - Official Typesense extension to add full-text search in Firestore, by syncing the data to [Typesense](https://github.com/typesense/typesense), an OSS alternative to Algolia.
 
 ## Web
 
@@ -83,9 +86,14 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 💡 [Nextbase](https://github.com/martyan/nextbase) - Boilerplate of Next.js, Redux & Firebase for developers who want a quick start project.
 - 🔧 [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 - 🔌 [firebase-kotlin-sdk](https://github.com/GitLiveApp/firebase-kotlin-sdk/) - Kotlin-first SDK for Firebase supporting multiplatform projects (`ios`, `android` & `js`).
+- 🔌 [GeoFirestore](https://github.com/MichaelSolati/geofirestore-js) - Location-based querying and filtering using Firebase Firestore.
+- 🔧 [FirelordJS](https://github.com/tylim88/FirelordJS) - Extremely High Precision Typescript Wrapper for Firestore Web. ([Admin version](https://github.com/tylim88/Firelord))
+- 🔧 [FireSageJS](https://github.com/tylim88/FireSageJS) - Extreme Type Safe For Realtime Database Web.
+- 🔧 [FireSword](https://github.com/tylim88/FireSword) - Filter Firestore and RTDB unknown keys or keys with incorrect data types recursively, support all field values and special data types. (For web and admin)
 
 ## Mobile
 
+- 📝 [App Distribution App Bundles](https://firebase.googleblog.com/2021/05/app-distribution-adds-support-to-android-app-bundles.html) - Support for Android App Bundles (AAB) is officially supported in App Distribution.
 - 📖 [Firebase Flutter Documentation](https://firebase.google.com/docs/flutter/setup) - Official Firebase Flutter Setup.
 - 🔌 [NativeScript plugin Firebase](https://github.com/EddyVerbruggen/nativescript-plugin-firebase) - NativeScript plugin for Firebase.
 - 🔌 [FlutterFire](https://github.com/FirebaseExtended/flutterfire) - Collection of Firebase plugins for [Flutter](https://flutter.io/) apps.
@@ -131,10 +139,13 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 🔌 [Integrify](https://github.com/anishkny/integrify) - Enforce referential and data integrity in Firestore using pre-canned Cloud Functions triggers.
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - How to do behavioral & segmentation analysis on Firebase event data via BigQuery Export and Rakam.
 - 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Simple queue system using Firestore and Cloud Functions.
+- 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - A simple python wrapper for the Firebase API.
+- 🔌 [Firecode](https://github.com/kafkas/firecode) - A light, fast, and memory-efficient collection traversal library for Firestore and Node.js.
 
 ## CLI & Editor
 
 - 📖 [Firebase Tools UI](https://github.com/firebase/firebase-tools-ui) - Web UI for Firebase Emulator Suite.
+- 📖 [Storage in Emulator Suite](https://firebase.google.com/docs/emulator-suite/connect_storage) - Emulator suite is now complete!
 - 🔧 [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) - Explore and manage your Firebase projects.
 - 🔧 [Firebase Tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools.
 - 🔧 [Firebase CI](https://github.com/prescottprue/firebase-ci) - Simplified Firebase interaction for continuous integration.
@@ -149,9 +160,11 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 🔧 [VSFire](https://github.com/toba/vsfire) - Deprecated ~VSCode extension for syntax highlighting & code completions with Firestore security rules & indexes.~
 - 📝 [Refi App](https://refiapp.io/) - A GUI tool to make developers less painful when interacting with Firestore DB
 - 🔧 [Firefoo](https://firefoo.app) - Cloud Firestore GUI Admin Tool with JSON/CSV Export and JavaScript Query Shell.
+- 🔧 [asdf-firebase](https://github.com/jthegedus/asdf-firebase) - An [asdf-vm](https://asdf-vm.com/) plugin for `firebase-tools`. Manage your Firebase CLI without Node.js or `npm`! Great for `python`, `golang`, `c++` & `java` Firebase projects.
 
 ## Other
 
+- 🔧 [FireCMS](https://firecms.co/docs/) - FireCMS is an open source headless CMS and admin panel built by developers for developers. It generates CRUD views based on your configuration.
 - 🔧 [Flank](https://github.com/flank/flank/) - Massively parallel Android and iOS test runner for Firebase Test Lab.
 - 🔌 [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) - WebApp to Query, (Batch-)Edit & Export documents with app & user switching.
 - 🔌 [FireDrill](https://github.com/scottlepp/fire-drill) - Find, Edit, Add, Remove, Import, Export, and Report on your Firebase data.
@@ -160,7 +173,6 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 🔌 [QtFirebase](https://github.com/Larpon/QtFirebase) - An effort to bring Google's Firebase C++ API to Qt + QML.
 - 📝 [StackBlitz to Firebase Hosting Deployments](https://medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879) - StackBlitz (online code editor) to Firebase Hosting static deployments.
 - 🔧 [Flamelink](https://flamelink.io/) - CMS for Firebase. Supports Firestore, RealtimeDatabase & Storage.
-- 🔧 [Canner CMS](https://github.com/Canner/canner) - CMS for developers supporting data sources such as Firebase/Firestore, GraphQL and Restful APIs.
 - 📹 [Firebase Summit 2018](https://www.youtube.com/watch?v=lN0VXVXsj9k&list=PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R) - All Firebase Summit 2018 talks.
 - 📹 [Firebase @ Google Cloud Next '18](https://www.youtube.com/watch?v=OPj26MY16F8&list=PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL) - All Firebase talks @ Google Cloud Next 2018.
 - 📹 [Firebase @ Google IO '18](https://www.youtube.com/watch?v=e-8fiv-vteQ&list=PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd) - All Firebase talks @ Google IO 2018.
@@ -169,6 +181,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 - 📹 [Firebase @ Google IO '19](https://www.youtube.com/playlist?list=PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO) - All Firebase talks @ Google IO 2019.
 - 📹 [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) - All Firebase talks @ the Firebase Summit 2019.
 - 📹 [Firebase Live 2020](https://www.youtube.com/playlist?list=PLl-K7zZEsYLnw0-bXz2f9zo6745VQ_2ep) - Firebase Live is a web series for app developers consisting of talks, tips, and technical tutorials aimed at increasing their productivity, knowledge, and collaboration.
+- 📹 [Firebase Summit 2020](https://goo.gle/firebasesummit2020) - All Firebase talks @ the Firebase Summit 2020.
 
 <!-- END content -->
 
@@ -176,12 +189,16 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ### Official
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase) 📝 [Firebase Blog](https://firebase.googleblog.com/) 🐦 [@firebase](https://twitter.com/firebase) 🐦 [@bestoffirebase](https://twitter.com/bestoffirebase) 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+- 📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)
+- 📝 [Firebase Blog](https://firebase.googleblog.com/)
+- 🐦 [@firebase](https://twitter.com/firebase)
+- 👤 [Firebase Facebook](https://www.facebook.com/Firebase)
+- 🔊 [The Firebase Podcast](https://podcasts.google.com/feed/aHR0cDovL2ZpcmViYXNlcG9kY2FzdC5nb29nbGVkZXZlbG9wZXJzLmxpYnN5bnByby5jb20vcnNz) - This is the place where we dive deep into Firebase products and learn new tips and tricks along the way.
 
 ### Community
 
 - :fire: [Firebase Developers Discord](https://discord.gg/BN2cgc3) - an open community dedicated to Firebase and its services, where you can to socialize and help other web and app developers from around the world.
-- 📹 [Fireship - AngularFirebase](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- 📹 [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA) - A YouTube channel by Jeff Delaney, a Google Firebase expert and creator of the famous "X in 100 Seconds" videos.
 - 📹 ru [@firebase_ru - Telegram friendly chat](https://t.me/firebase_ru)
 
 Who else should we be following!?

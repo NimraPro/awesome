@@ -9,10 +9,6 @@ This list aims to be a curated set of high quality educational resources. The av
 
 ## Beginner
 
-#### [Mozilla Webmaker](https://webmaker.org/)
-**Free** community and toolset to learn to create web pages and apps\
-*(HTML, CSS, JavaScript?)*
-
 #### [Codecademy](https://www.codecademy.com/)
 **Free** platform for learning to code in web technologies\
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
@@ -53,10 +49,6 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
 
-#### [Platzi](https://courses.platzi.com/)
-**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.\
-*(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
-
 #### [Free Code Camp](https://www.freecodecamp.org/)
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
@@ -89,6 +81,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [Cratecode](https://cratecode.com/)
+**Free** online platform that teaches programming through interactive lessons\
+*(JavaScript, TypeScript, HTML, p5.js, Backend Web Development)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
@@ -107,9 +103,9 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** online book covering all stages of creating a Ruby on Rails application\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
-#### Lynda.com [Developer](https://www.lynda.com/Developer-training-tutorials/50-0.html), [Web](https://www.lynda.com/Web-training-tutorials/88-0.html), [IT](https://www.lynda.com/IT-training-tutorials/2057-0.html)
-**Freemium** platform for video courses on web development and intermediate programming\
-*(HTML, CSS, JavaScript, programming fundamentals, system administration, ...)*
+#### LinkedIn Learning: [Web Development](https://www.linkedin.com/learning/topics/web-development), [Web Design](https://www.linkedin.com/learning/topics/web-design)
+**Paid** platform for video courses on web development and design\
+*(HTML, CSS, JavaScript, web development, web design)*
 
 #### [Thinkful](https://www.thinkful.com/)
 **Paid** platform for mentored web and mobile development courses from industry experts\

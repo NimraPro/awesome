@@ -40,6 +40,9 @@
 - [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) - Add docker databases to your test contexts.
 - [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) - Testing web components via Puppeteer.
 - [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
+- [ava-typescript-worker](https://github.com/seamapi/ava-typescript-worker) - use TypeScript in shared workers
+- [ava-postgres](https://github.com/seamapi/ava-postgres) - get a fresh Postgres database for every test
+- [pava](https://github.com/TomerAberbach/pava) - Parameterized testing.
 
 ## Works with AVA
 
@@ -64,6 +67,6 @@
 
 ## Support
 
+- [Github Discussions](https://github.com/avajs/ava/discussions)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ava)
-- [Spectrum](https://spectrum.chat/ava)
 - [Twitter](https://twitter.com/ava__js)

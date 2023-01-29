@@ -118,10 +118,6 @@ An interesting take on the possibility of the multiverse, Schrödinger's cat, an
 >
 > The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet’s untamed wilderness. But their children will not be human. Not exactly.
 
-##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]
-
-> Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
-
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) (1976) _by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)_ [4.0]
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
@@ -144,7 +140,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 >
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
-#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2019) _by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)_ [4.17 (avg)]
+#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2021) _by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)_ [4.17 (avg)]
 
 A series comprised (as of 2019) of eight full-length novels with a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
 
@@ -153,6 +149,17 @@ The books are real page turners with its mix of high politics, space battles, an
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 >
 > Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, "The Scopuli," they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.
+
+Books:
+- [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
+- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
+- [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
+- [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
+- [Nemesis Games](https://www.goodreads.com/book/show/22886612-nemesis-games) [4.4]
+- [Babylon's Ashes](https://www.goodreads.com/book/show/25877663-babylon-s-ashes) [4.2]
+- [Persepolis Rising](https://www.goodreads.com/book/show/34600958-persepolis-rising) [4.3]
+- [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) [4.5]
+- [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) [4.5]
 
 #### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) _by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)_ [3.8] 🌟
 
@@ -236,6 +243,25 @@ Actually four books by two authors. It was made into a TV series but the books s
 
 Although each part can be read independently, the whole trilogy has a consistent story line which happens in a very huge time-space context and the first just a beginning. The later two are especially much more hardcore and dramatical, however, gloomy as well. While the first one got the Hugo Award, I'd like to say that it really worth a try for the whole trilogy, don't miss the later two. - [@cp4](https://github.com/cp4)
 
+Books:
+- [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) [4.0] 🔥
+- [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) [4.4]
+- [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) [4.4]
+
+##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
+
+This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. 
+
+> Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
+
+##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
+
+> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
+
+##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.4]
+
+> Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
+
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [4.0]
 
 This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
@@ -294,10 +320,6 @@ One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://gith
 
 > The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
-##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
-
-> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
-
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.7]
 
 This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future. - [@RichardLitt](https://github.com/RichardLitt)
@@ -313,6 +335,12 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 > Gene Wolfe’s _The Fifth Head of Cerberus_ is a universally acknowledged masterpiece of science fiction by one of the field’s most brilliant writers. Far out from Earth, two sister planets, Saint Anne and Saint Croix, circle each other in an eternal dance. It is said a race of shapeshifters once lived here, only to perish when men came. But one man believes they can still be found, somewhere in the back of the beyond.
 >
 > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man’s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
+
+#### [The First Fifteen Lives of Harry August](https://www.goodreads.com/book/show/35066358-the-first-fifteen-lives-of-harry-august) (2014) _by [Claire North](https://en.wikipedia.org/wiki/Catherine_Webb) [4.01]
+
+An awesome book. Intriguing ,funny and moving. Never mind the negative reviews...I would have given it a 6th star if I could. - [@naz2001](https://github.com/naz2001)
+
+>Some stories cannot be told in just one lifetime. Harry August is on his deathbed. Again. No matter what he does or the decisions he makes, when death comes, Harry always returns to where he began, a child with all the knowledge of a life he has already lived a dozen times before. Nothing ever changes. Until now. As Harry nears the end of his eleventh life, a little girl appears at his bedside. "I nearly missed you, Doctor August," she says. "I need to send a message." This is the story of what Harry does next, and what he did before, and how he tries to save a past he cannot change and a future he cannot allow.
 
 #### [The Gods Themselves](https://www.goodreads.com/book/show/41821.The_Gods_Themselves) (1972) _by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)_ [4.1]
 
@@ -382,12 +410,6 @@ All of Asher's _Polity_ novels are chock full of amazing technology, vibrant cha
 > The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
 >
 > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity. He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
-
-##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
-
-This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well. - [@sylvarant](https://github.com/sylvarant)
-
-> Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
 #### [The Voyage of the Space Beagle](https://www.goodreads.com/book/show/1981484.The_Voyage_of_the_Space_Beagle) (1950) _by [A.E. Van Vogt](https://www.goodreads.com/author/show/1293688.A_E_van_Vogt)_ [3.9]
 
@@ -721,6 +743,12 @@ A bleak and haunting tale, easy to picture playing out in today's political clim
 
 > Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.
 
+#### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_ [3.7]
+
+Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society. - [@4ndrej](https://github.com/4ndrej)
+
+> Set in a future August 1999, novel of an overpopulated urban jungle, a divided class system—operating within an atmosphere of riots, food shortages, and senseless acts of violence—and a desperate hunt for the truth by a cynical NYC detective tells a classic tale of a dark future. The 1973 science fiction movie Soylent Green is loosely based on this novel.
+
 #### [The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) _by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)_ [3.8]
 
 My favourite of all Philip K. Dick's novels, the I Ching and the alternate history within an alternate history novel being interesting elements. - [@roryrjb](https://github.com/roryrjb)
@@ -910,6 +938,26 @@ _Novels featuring the use use of technology, mainly weapons, for military purpos
 Steakley puts his readers inside the mind of an armored soldier who lives in constant fear of being torn apart by the enemy he was sent to fight. The book plays brilliantly on our innate fear of bugs and describes the visceral terror of fighting a nearly unstoppable enemy. - [@phmullins](https://github.com/phmullins)
 
 > Felix is an Earth soldier, encased in special body armor designed to withstand Earth's most implacable enemy-a bioengineered, insectoid alien horde. But Felix is also equipped with internal mechanisms that enable him, and his fellow soldiers, to survive battle situations that would destroy a man's mind. This is a remarkable novel of the horror, the courage, and the aftermath of combat--and how the strength of the human spirit can be the greatest armor of all.
+
+#### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle) (2019-2021) _by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)_ [4.2]
+
+This novel starts as a simple rescue by a cadet that led to the entire universe fighting an epic battle they have no hope of winning.
+
+What makes this novel awesome is the build up to the final epic battle. It starts as a small team of ragtags who were framed for a crime and later find out that the least of their worry is the intergalactic military but rather an incomprehensible galaxy ending force whose sole existence is to added all living things to its hive. - [@sammy4gh](https://github.com/sammy4gh)
+
+> The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…
+>
+> A cocky diplomat with a black belt in sarcasm, A sociopath scientist with a fondness for shooting her bunkmates ,A smart-ass techwiz with the galaxy’s biggest chip on his shoulder, An alien warrior with anger management issues ,A tomboy pilot who’s totally not into him, in case you were wondering
+>
+> And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.
+>
+> They're not the heroes we deserve. They're just the ones we could find. Nobody panic.
+
+Books:
+
+- [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) [4.1]
+- [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) [4.3]
+- [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) [4.2]
 
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) _by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)_ [4.3] 🌟 🔥
 
@@ -1137,6 +1185,12 @@ This novel is absurd fun -- think Douglas Adams style with a literary flair. Tho
 
 > Great Britain circa 1985: time travel is routine, cloning is a reality (dodos are the resurrected pet of choice), and literature is taken very, very seriously. Acheron Hades, Third Most Wanted Man In the World, steals the original manuscript of Martin Chuzzlewit and kills a minor character, who then disappears from every volume of the novel ever printed! Hades' real target is the beloved Jane Eyre, and it's not long before he plucks her from the pages of Bronte's novel. Enter Thursday Next, the Special Operative's renowned literary detective. With the help of her uncle Mycroft's Prose Portal, Thursday enters the novel to rescue Jane Eyre from this heinous act of literary homicide. Can Thursday save Jane Eyre and Bronte's masterpiece?
 
+#### [The Gone World](https://www.goodreads.com/book/show/33413556-the-gone-world) (2018) _by [Tom Sweterlitsch](https://www.goodreads.com/author/show/6981174.Tom_Sweterlitsch)_ [3.94]
+
+This novel shows interesting mix of hard sci-fi, Nordic noir, parallel / alternative universe tree and path backtracking. The main protagonist is fighting the global cataclysm in its own style. The storytelling is so unique I'm afraid no one would be able to make a film based on this masterpiece. There is a [great book ending explanation](https://www.thisisbarry.com/book/the-gone-world-ending-explained-tom-sweterlitsch-book/) there. - [@4ndrej](https://github.com/4ndrej)
+
+> Shannon Moss is part of a clandestine division within the Naval Criminal Investigative Service. In western Pennsylvania, 1997, she is assigned to solve the murder of a Navy SEAL's family--and to locate his vanished teenage daughter. Though she can't share the information with conventional law enforcement, Moss discovers that the missing SEAL was an astronaut aboard the spaceship U.S.S. Libra—a ship assumed lost to the currents of Deep Time. Moss knows first-hand the mental trauma of time-travel and believes the SEAL's experience with the future has triggered this violence. Determined to find the missing girl and driven by a troubling connection from her own past, Moss travels ahead in time to explore possible versions of the future, seeking evidence to crack the present-day case. To her horror, the future reveals that it's not only the fate of a family that hinges on her work, for what she witnesses rising over time's horizon and hurtling toward the present is the Terminus: the terrifying and cataclysmic end of humanity itself.
+
 #### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) _by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)_ [3.8] 🌟 🔥
 
 Worth the read, mostly because it is the first time the words 'time machine' were used, and because the story, while a bit cliched to modern ears, is still good and gripping. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1236,6 +1290,14 @@ I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly 
 > _Of Time and Stars_ is a collection of short stories by science fiction writer Arthur C. Clarke. The stories all originally appeared in a number of different publications including the periodicals _Dude_, _The Evening Standard_, _Lilliput_, _The Magazine of Fantasy & Science Fiction_, _Future_, _New Worlds_, _Startling Stories_, _Astounding_, _Fantasy_, _King’s College Review_, _Satellite_, _Amazing Stories_, _London Evening News_, _Infinity Science Fiction_ and _Ten Story Fantasy_ as well as the anthologies _Star Science Fiction Stories No.1_ edited by Frederik Pohl and _Time to Come_ edited by August Derleth.
 
 > Contents: _The Nine Billion Names of God_ (1953), _An Ape About the House_ (1962), _Green Fingers_ (1956), _Trouble with the Natives_ (1951), _Into the Comet_ (1960), _No Morning After_ (1954), _‘If I Forget Thee, Oh Earth…’_ (1951), _Who’s There?_ (1958), _All the Time in the World_ (1952), _Hide and Seek_ (1949), _Robin Hood, F.R.S._ (1956), _The Fires Within_ (1949), _The Forgotten Enemy_ (1953), _The Reluctant Orchid_ (1956), _Encounter at Dawn_ (1953), _Security Check_ (1957), _Feathered Friend_ (1957), _The Sentinel_ (1951)
+
+#### [Radicalized](https://www.goodreads.com/book/show/41447687-radicalized) (2019) _by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)_ [4.03]
+
+The all-too-near-future novella _Unauthorized Bread_ embodies what cyberpunk should be all about: high tech, low life. _Radicalized_ and _The Masque of the Red Death_ delve deep into some dark corners of society, while _Model Minority_ is a pretty interesting take on Superman and racism. The book had me turning pages late into the night. - [@nahkampf](https://github.com/nahkampf)
+
+> Radicalized explores such issues as digital rights management, police brutality, radicalization in internet communities, and doomsday preppers. Doctorow has stated that the collection was inspired by "dealing with the stress and anxiety of being alive in the Trump era," and that the stories are not meant to be predictive, but rather allegorical.
+
+> Contents: _Unauthorized Bread_ (2019), _Model Minority_ (2019), _Radicalized_ (2019), _The Masque of the Red Death_ (2019)
 
 #### [Stories of Your Life and Others](https://www.goodreads.com/book/show/729760.Stories_of_Your_Life_and_Others) (2002) _by [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)_ [4.4]
 
@@ -1659,6 +1721,17 @@ Categories: `ai` `action`
 Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadside Picnic". - [@ggb](https://github.com/ggb)
 
 > Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife’s objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He’s a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one’s secret hopes come true.
+
+#### [Strange Days](https://www.imdb.com/title/tt0114558/) (1995) [7.2]
+
+Categories: `action` `police` `thriller`
+Director: _Kathryn Bigelow_
+Writer: _James Cameron_, _Jay Cocks_
+
+Borrowing copiously from cyperpunk but giving things enough spin to keep them interesting, "Strange Days" gives an orginal sci-fi version of the old washed-up-cop turns soft-hearted criminal. Set in the futuristic year of 1999, during new years eve, the main character has to solve a case in which he unwittingly finds himself, if he wants to survive the night. The movie also contains music performance by Juliette Lewis and the band Skunk Anansie.
+- [@potherca](https://github.com/potherca)
+
+> A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.
 
 #### [Sunshine](https://www.imdb.com/title/tt0448134/) (2007) [7.3]
 

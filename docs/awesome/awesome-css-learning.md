@@ -19,7 +19,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## CSS in a nutshell
 
-- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - This Screencast series will teach you the basics of CSS in about one hour.
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - This screencast series will teach you the basics of CSS in about one hour.
 
 ## Fundamental concepts
 
@@ -27,6 +27,7 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 - [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/) - Understanding specificity and inheritance is important to master CSS. This article will help.
 - [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - An article explaining the foundation of layout on the web.
   - Also have a look at the detailed information about the [box-sizing](https://css-tricks.com/box-sizing/) property.
+- [Responsive Design](https://web.dev/learn/design/) - Extensive information about all aspects of responsive design to make sites that look great and work well for everyone.
 
 ## CSS units
 
@@ -35,9 +36,9 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 
 ## Selectors
 
-- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - An introducing to the very basic CSS selectors you need to know.
+- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - An introduction to the very basic CSS selectors you need to know.
 - [Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/) - Level up your knowledge. From attribute selectors to CSS3 pseudo classes.
-- [CSS Dinner](https://flukeout.github.io) - Learn how to use CSS selectors with this fun little game.
+- [CSS Diner](https://flukeout.github.io) - Learn how to use CSS selectors with this fun little game.
 
 ## Custom properties (aka CSS variables)
 
@@ -73,15 +74,16 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ### Grid
 
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - All you need to know about CSS Grid Layout on one page.
-- [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid this site also has additional useful learning resources.
+- [Grid by Example](https://gridbyexample.com) - Besides examples of how to use Grid, this site also has additional useful learning resources.
 - [Designing with Grid](https://talks.jensimmons.com/J5VRbA/designing-with-grid) - Talk about the new layout possibilities CSS Grid is offering.
 - [Grid Garden](https://cssgridgarden.com) - Lovely game where you write CSS code to grow your carrot garden.
 - [GridBugs](https://github.com/rachelandrew/gridbugs) - Community-curated list of Grid interop issues and workarounds for them.
 - [Grid Critters](https://www.gridcritters.com) - Learn CSS grid layout by mastering an adventure game.
+- [CSS Grid](https://cssgrid.io) - Learn CSS grid with Wes Bos - Free 4 hours video course, 25 Videos.
 
 ## Animation
 
-- [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to to CSS transitions and CSS (2D) transforms.
+- [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - An introduction to CSS transitions and CSS (2D) transforms.
 - [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/all-you-need-to-know-about-css-transitions/) - Also addressing advanced topics from chaining and events to hardware acceleration and animation functions.
 - [CSS 3D transforms](https://3dtransforms.desandro.com) - Multi page tutorial with examples like card flip and carousel effects.
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - Imparts the concepts of CSS animations with keyframes.
@@ -92,9 +94,3 @@ This list is mainly about [CSS](https://developer.mozilla.org/docs/Web/CSS) – 
 ## Related
 
 [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - A tiny list limited to the best JavaScript learning resources.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.

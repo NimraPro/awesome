@@ -13,10 +13,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ## Resources
 ### Documentation
- - [MongoDB introduction](https://docs.mongodb.com/manual/introduction/)
- - [MongoDB documentation](https://docs.mongodb.com/manual/)
- - [MongoDB tutorials](https://docs.mongodb.com/manual/tutorial/)
- - [MongoDB developer blog](https://developer.mongodb.com/learn/)
+ - [MongoDB Server Introduction](https://www.mongodb.com/docs/manual/introduction/)
+ - [MongoDB Server Documentation](https://www.mongodb.com/manual/)
+ - [MongoDB Tutorials](https://www.mongodb.com/docs/manual/tutorial/)
+ - [MongoDB Guides](https://www.mongodb.com/docs/guides/)
+ - [MongoDB Developer Center](https://www.mongodb.com/developer/)
+ - [MongoDB Driver Documentation](https://www.mongodb.com/docs/drivers/)
+ - [MongoDB Connectors](https://www.mongodb.com/connectors/)
 
 ### Articles
 
@@ -27,12 +30,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - Everything you need/have to know about indexes
  - [Server Discovery And Monitoring In PyMongo, Perl, And C (A. Jesse Jiryu Davis, MongoDB Inc.) ](https://emptysqua.re/blog/server-discovery-and-monitoring-in-pymongo-perl-and-c/)
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
+ - [Tuning MongoDB performance for production systems (Marek Trunkat, Apify)](https://blog.apify.com/tuning-mongodb-performance/) - The techniques and MongoDB Cloud features to debug performance issues and expose sub-optimal queries
 
 ### Books
  - [50 Tips and Tricks for MongoDB Developers](https://www.oreilly.com/library/view/50-tips-and/9781449306779/) - Advanced MongoDB tips and tricks, given by a MongoDB inc. engineer
  - [Builder Book](https://builderbook.org) - Learn how to build a full stack JavaScript web app from scratch
  - [MongoDB Applied Design Patterns (Rick Copeland)](https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/)
- - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - Basic introduction
+ - [Practical MongoDB Aggregations E-Book](https://www.practical-mongodb-aggregations.com/) - Free e-book: How to develop effective and optimal data manipulation and analytics pipelines
+ - [The Little MongoDB Book](https://github.com/mongodb-developer/the-little-mongodb-book) - Basic introduction
  - [SaaS Boilerplate Book](https://builderbook.org/book) - Learn how to build a production-ready SaaS web app from scratch
 
 ### Talks
@@ -43,10 +48,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Tutorials
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
- 
+ - [Sharded Cluster with Docker Compose](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
- - [MongoDB University](https://university.mongodb.com/) - Certifications and free online courses
+ - [MongoDB University](https://learn.mongodb.com/) - Certifications and free online courses
  - [MongoDB 101 by Academy 3T](https://studio3t.com/academy/) - Free and self-paced MongoDB courses for beginners
 
 ## Libraries
@@ -107,6 +113,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 
 ### Julia
  - [Mongo.jl](https://github.com/Lytol/Mongo.jl) - C driver bindings
+ 
+### Kotlin
+- [kmongo](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ### Lisp
  - [cl-mongo](https://github.com/fons/cl-mongo) - Community Common Lisp interface
@@ -116,29 +125,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
 ### Mathematica
  - [MongoDBLink](https://github.com/zbjornson/MongoDBLink) - Community Mathematica driver
 
-### Perl
- - [mongo-perl-driver](https://github.com/mongodb-labs/mongo-perl-driver) - Official Perl driver
-
 ### PHP
- - [Doctrine MongoDB](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
  - [eloquent-mongodb-repository](https://github.com/nilportugues/eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
  - [laravel-mongodb](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/nilportugues/mongodb-repository) - Repository implementation
+ - [PHP Driver](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [PHPMongo ODM](https://github.com/sokil/php-mongo) - ODM based on the PHP Mongo PECL extension
  - [PHPMongo Migrator](https://github.com/sokil/php-mongo-migrator) - Migration tool based on PHPMongo ODM
- - [pecl/mongodb](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
  - [yadm](https://github.com/formapro/yadm) - Fast schemaless ODM
 
 ### Python
  - [Beanie](https://github.com/roman-right/beanie) - Asynchronous ODM based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://pydantic-docs.helpmanual.io/), which supports migrations out of the box
  - [Djongo](https://github.com/nesdis/djongo) - MongoDB connector for Django compatible with Django ORM
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) - Flask extension that adds PyMongo support to Flask
- - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Idiomatic and friendly-yet-powerful ODM (schemaless)
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - Powerful schema-less ODM for MongoDB and Python (sync + async)
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - ODM on top of PyMongo
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
- - [Motor](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado or asyncio
- - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
+ - [Motor](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
+ - [PyMongo](https://github.com/mongodb/mongo-python-driver) - Official Python driver
+ - [PyMongoExplain](https://github.com/mongodb-labs/pymongoexplain/) - A wrapper for PyMongo's Collection object that makes it easy to run `explain` on your queries.
  - [minimongo](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
+ - [ODMantic](https://github.com/art049/odmantic) - Asynchronous ODM on top of pydantic
  - [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy
  - [μMongo](https://github.com/Scille/umongo) - Driver-independent (async/sync) ODM based on marshmallow
 
@@ -154,12 +161,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [mongodb-rust-driver](https://github.com/mongodb/mongo-rust-driver) - Official Rust driver
 
 ### Scala
- - [mongo-scala-driver](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
+ - [driver-scala](https://github.com/mongodb/mongo-java-driver/tree/master/driver-scala) - Official Scala driver
  - [ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
  - [Spark-MongoDB](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration
+ - [k8s-backup-mongodb](https://github.com/tuladhar/k8s-backup-mongodb) - Schedule MongoDB backups to S3 with a Kubernetes CronJob.
+ - [mgob](https://github.com/stefanprodan/mgob) - Full-featured MongoDB dockerized backup agent
  - [mongoctl](https://github.com/mongolab/mongoctl) - Manage MongoDB servers and replica sets using JSON configurations
  - [MongoDB Smasher](https://github.com/duckie/mongo_smasher) - Generate randomized datasets and benchmark your setup
  - [mongodb-tools](https://github.com/jwilder/mongodb-tools) - Three neat Python scripts to work with collections and indexes
@@ -170,7 +179,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [pt-mongodb-summary](https://www.percona.com/doc/percona-toolkit/LATEST/pt-mongodb-summary.html) - MongoDB cluster status overview command line tool
 
 Services:
-
  - [Compose](https://www.compose.com/) - IBM DBaaS offer (has other database types too)
  - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - MongoDB Inc. DBaaS offer (works with AWS, Azure, or GCP)
  - [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager) - MongoDB Inc. databases management offer
@@ -183,21 +191,27 @@ Services:
  - [mongo-hadoop](https://github.com/mongodb/mongo-hadoop) - Hadoop connector
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
+ - [ProvenDB](https://www.provendb.com/) -  Blockchain based Data integrity solution for MongoDB
 
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
- - [Dockerfile](https://github.com/dockerfile/mongodb)
+ - [DockerHub Official Docker Image](https://hub.docker.com/_/mongo/)
  - [Helm Chart](https://github.com/helm/charts/tree/master/stable/mongodb)
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
+
+Services:
+ - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
 
 ### Desktop
  - [Compass](https://www.mongodb.com/products/compass) - Free Cross-platform GUI from MongoDB
  - [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform JetBrains' IDE
  - [dbKoda](https://www.dbkoda.com) - Cross-platform and open-source IDE
+ - [Mingo](https://mingo.io/) - MongoDB Admin. Intuitive UI. Fast. Reliable
  - [MongoDB for VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) - Connect to MongoDB and prototype queries from VS Code
  - [MongoHub](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
  - [Mongotron](http://mongotron.io/) - Cross-platform and open-source client built with Electron
+ - [Moon Modeler](http://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
  - [NoSQLBooster](https://nosqlbooster.com) - Feature-rich but easy-to-use cross-platform IDE (formerly MongoBooster)
  - [Nosqlclient](https://github.com/nosqlclient/nosqlclient) - Cross-platform, self hosted and easy to use management tool (formerly Mongoclient)
  - [QueryAssist](https://queryassist.com) - Modern and powerful GUI tool, cross-platform and easy-to-use
@@ -206,15 +220,17 @@ Services:
  - [TablePlus](https://tableplus.com/) - Native, lightweight GUI on macOS
 
 ### Development
+ - [C# Analyzer](https://github.com/mongodb/mongo-csharp-analyzer) - View the MongoDB Query API equivalents of your builder expressions in Visual Studio
  - [mgodatagen](https://github.com/feliixx/mgodatagen) - Random data generator
  - [Mongo Playground](https://mongoplayground.net) - Online query playground
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Node.js library, CLI and Docker image for populating databases using JS and JSON files
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - Schema and data analyzer: explore data in your collections
  - [Variety](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
+ - [VS Code Extension](https://www.mongodb.com/docs/mongodb-vscode/)
 
 Services:
-
- - [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. development services and SDK
+ - [MongoDB Atlas App Services](https://www.mongodb.com/atlas/app-services) - MongoDB Inc. solution to run code without the operational overhead
+ - [MongoDB Realm](https://www.mongodb.com/realm) - MongoDB Inc. solution for mobile data sync
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
@@ -234,7 +250,8 @@ Services:
  - [Solarwindws Database Performance Monitor](https://www.solarwinds.com/database-performance-monitor) - SaaS-based query performance analytics and monitoring
 
 ### Shell
- - [mongo-hacker](https://github.com/TylerBrock/mongo-hacker) - MongoDB shell enhancements
+ - [MongoDB Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) - Official Atlas API command-line client
+ - [mongosh](https://github.com/mongodb-js/mongosh) - Official command-line client
 
 ### Web
  - [adminMongo](https://github.com/mrvautin/adminMongo) - Web-based user interface to handle connections and databases needs

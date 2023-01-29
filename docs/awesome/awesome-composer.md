@@ -58,16 +58,18 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
 - [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin) - Enables you to remove files and folders from the vendor folder (to make a cleaner and smaller deployment to production). It's an alternative to `.gitattributes`.
 - [Composer-Vendor-Cleaner](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
+- [Composer-Skrub](https://github.com/ssx/skrub) - The plugin helps to remove junk from Composer installations and trim build sizes.
 - [Drupal Vendor Hardening Composer Plugin](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share selected packages between your projects by creating symlinks.
 - [Composer-Symlinker](https://github.com/e-picas/composer-symlinker) - Enables you to load packages from different directories (instead of loading them from /vendor).
 - [Prestissimo](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
-- [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
+- [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - The plugin uses `phpext_curl` for downloading packages.
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [Graph-Composer](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 - [PackageVersions](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
-- [Composer Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.
+- [PackageVersions Deprecated](https://github.com/composer/package-versions-deprecated) - Is a fork of Ocramius/PackageVersions providing compatibility with Composer 1 and 2 on PHP 7+.
+- [Composer-Locator](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.
 - [PackageInfo](https://github.com/ThaDafinser/PackageInfo) - Enables you to retrieve all package informations (like version, tag, release date, description).
 - [Composer-Git-Hooks](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 - [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
@@ -82,11 +84,15 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - Prevents development packages from being added into require and getting into production environment.
-- [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - Prevents more than one install or update operation at a time.
+- [Composer-Plugin-Exclude-Files](https://github.com/mcaskill/composer-plugin-exclude-files) - A plugin for excluding files required by packages using the 'files' autoloading mechanism.
 - [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
 - [Private-Composer-Installer](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
 - [CycloneDX-PHP-Composer](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 - [Composer-Compile-Plugin](https://github.com/civicrm/composer-compile-plugin) - Allow PHP libraries to define simple, freeform compilation tasks. Support post-install hooks in any package.
+- [Composer-Link](https://github.com/SanderSander/composer-link) - Adds the ability to link local packages for development.
+- [Composer-REPL](https://github.com/ramsey/composer-repl) - The plugin provides the `composer repl` command, which gives you a PHP language shell (read-eval-print loop).
+- [Composer-Diff](https://github.com/IonBazan/composer-diff) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
+- [Composer-Velocita](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 
 ## Tools
 
@@ -113,10 +119,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [ScriptsDev](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer) - A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
 - [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup) - A script which removes whitelisted unnecessary files (like tests/docs etc.) from the vendor directory.
-- [Composer Substitution Plugin](https://github.com/villfa/composer-substitution-plugin) - A Composer plugin replacing placeholders in the `scripts` section by dynamic values.
+- [Composer-Substitution-Plugin](https://github.com/villfa/composer-substitution-plugin) - A Composer plugin replacing placeholders in the `scripts` section by dynamic values.
 
 ## Services
 
+- [Packanalyst](https://packanalyst.com/) - Packanalyst is a service that lets you browse in any PHP class / interface / trait defined in Packagist.
 - [Dependabot](https://dependabot.com/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
 ---------------------------------------------------------
@@ -137,9 +144,11 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Nils Adermann (naderman)](https://naderman.de/)
 - [Composer Stability Flags](https://igor.io/2013/02/07/composer-stability-flags.html)
 - [Composer Versioning](https://igor.io/2013/01/07/composer-versioning.html)
+- [The long journey of making PHP’s Composer memory-efficient and fast (toflar)](https://medium.com/@yanick.witschi/the-long-journey-of-making-phps-composer-memory-efficient-and-fast-63d12944aaa8)
 
 ## Videos
 
+- [Composer Best Practices 2018 - Nils Adermann @ scotphp18](https://www.youtube.com/watch?v=eQkFjMfyqFY)
 - [Composer Best Practices 2018 - Nils Adermann @ phpday 2018](https://www.youtube.com/watch?v=EpvihKaQyLs)
 - [Managing dependencies is more than running "composer update" -  Nils Adermann @ phpsrb17](https://www.youtube.com/watch?v=QL6w8H2eHQE)
 - [Composer Best Practices — Jordi Boggiano @ php[tek] 2015](https://www.youtube.com/watch?v=uNlYpSTiAcA)
@@ -147,6 +156,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [PHP Composer Quickstart](https://www.youtube.com/watch?v=Ejr4Xqs9V2I)
 - [How Composer helped shape the new way of writing PHP - Nils Adermann @ Drupal Camp Frankfurt](https://www.youtube.com/watch?v=C2jfLM-Egvg)
 - [Composer Package Management - Nils Adermann @ T3CON12DE](https://www.youtube.com/watch?v=P4Qnp90TG0g)
+- [Composer 2 - Jordi Boggiano @ Symfony UK usergroup 2020](https://www.youtube.com/watch?v=BAgwWhRo82w)
+- [Lessons learned building the Composer internals - Jordi Boggiano @ CODEiD Odessa PHP Conference 2017](https://www.youtube.com/watch?v=pjvbn6TBZqM) 
 
 ## Slides
 
@@ -175,6 +186,7 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
   - [Composer Best Practices (2015)](http://slides.seld.be/?file=2015-07-25+Composer+Best+Practices.html)
   - [Introduction to Composer (2015)](http://slides.seld.be/?file=2015-06-30+Introduction+to+Composer.html)
   - [Composer in 2016](http://slides.seld.be/?file=2016-07-22+Composer+in+2016.html)
+  - [Lessons Learned Building the Composer Internals (2018)](http://slides.seld.be/?file=2018-04-20+Lessons+Learned+Building+the+Composer+Internals.html)
 
 ---------------------------------------------------------
 
@@ -205,6 +217,9 @@ About metadata mirrors: https://packagist.org/mirrors
   - Japan - [packagist.jp](https://packagist.jp)
 
 ## Composer Repositories
+
+### Registry Manager
+- https://github.com/slince/composer-registry-manager - The plugin helps you to switch between different composer repositories.
 
 ### Private repositories
 - [fxpio/tug](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages,  which are hosted on Github or Gitlab services.

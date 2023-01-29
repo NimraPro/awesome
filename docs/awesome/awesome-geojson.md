@@ -4,6 +4,8 @@
 
 GeoJSON utilities that will make your life easier.
 
+<a href='https://www.placemark.io/'><i><img src='https://raw.githubusercontent.com/tmcw/awesome-geojson/master/.github/placemark.png' width='16' alt='Placemark' height='16' /> Sponsored by Placemark, a collaborative editor for maps with great support for GeoJSON</i></a>
+
 ### operations
 
 * [CoGran](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
@@ -23,12 +25,15 @@ GeoJSON utilities that will make your life easier.
 * [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
-* [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
+* [turf](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysi
+* [turf_dart](https://github.com/dartclub/turf_dart): a turf.js port for Dart and Flutter
+* [de9im](https://github.com/dpmcmlxxvi/de9im): collection of fast functions for spatial javascript operations
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 * [geojson-id-streaming](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
 * [geojson-mesh](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
 * [geojson-polygon-labels](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 * [geojsontools](https://github.com/micolous/geojsontools): Python tools for manipulating GeoJSON files
+* [geojson-indoor-tools](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
 
 ### editors & viewers
@@ -42,13 +47,15 @@ GeoJSON utilities that will make your life easier.
 * [geojson2image](https://github.com/brycejohnston/geojson2image): library for generating images from GeoJSON
 * [dropchop](http://dropchop.io/): browser-based GIS based on Turf.js
 * [Web GIS](https://drewweth.github.io/geodebugger): tools to view, inspect, and manipulate geospatial data
+* [img2geojson](https://caseymm.github.io/img2geojson/): digitize images by overlaying on a web map and drawing
 
 ### validation
 
 * [geojsonhint](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+* [check-geojson](https://github.com/placemark/check-geojson): alternative to geojsonhint
 * [geojson-validation](https://www.npmjs.com/package/geojson-validation): many validation functions, plus simple gjv command line tool
 * [gjf](https://github.com/yazeed44/gjf): A tool to fix invalid GeoJSON objects
-
+* [Jest-GeoJSON](https://github.com/M-Scott-Lassiter/jest-geojson): an extended set of matcher functions for the Jest Javascript unit testing framework tailored to evaluating GeoJSON data
 
 ### services
 
@@ -75,17 +82,18 @@ GeoJSON utilities that will make your life easier.
 * [tokml](https://github.com/mapbox/tokml): convert GeoJSON to KML
 * [topojson](https://github.com/topojson/topojson): convert GeoJSON to & from TopoJSON, join data from CSV
 * [wellknown](https://github.com/mapbox/wellknown): convert WKT to GeoJSON
+* [betterknown](https://github.com/placemark/betterknown): convert WKT to GeoJSON (successor to wellknown)
 * [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson): convert GTFS transit data to GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform): convert any size stream of geojson into a streaming CSV, Shapefile or KML, etc.
 * [supercluster](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 * **SVG**
+  * [geojson2svg](https://github.com/gagan-bansal/geojson2svg): Converts GeoJSON to SVG string given SVG view port size and maps extent.
   * [geojson-svgify](https://github.com/juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
   * [geojson-to-svg-cli](https://github.com/derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
   * [svg-to-geojson](https://github.com/mapbox/svg-to-geojson): Drag and drop SVG on the map and it returns GeoJSON back to you.
 * [geojson2ndjson](https://www.npmjs.com/package/geojson2ndjson): convert GeoJSON to/from newline-delimited GeoJSON
 * [geobuf](https://www.npmjs.com/package/geobuf/v/0.2.1): convert GeoJSON to/from GeoBuf
-
 * **OpenStreetMap**
   * [osmtogeojson](https://github.com/tyrasd/osmtogeojson): convert OpenStreetMap data to GeoJSON
   * [osm2geojson](https://github.com/rclark/osm2geojson): converts OSM XML to GeoJSON
@@ -95,6 +103,7 @@ GeoJSON utilities that will make your life easier.
   * [geojson2osm](https://github.com/Rub21/geojson2osm): convert GeoJSON to OSM XML
   * [osm-and-geojson](https://github.com/aaronlidman/osm-and-geojson): convert GeoJSON to OSM XML and OSM XML to GeoJSON
   * [geojson2osm-es6](https://github.com/DenisCarriere/geojson2osm-es6/): convert GeoJSON to OSM XML
+  * [query-overpass](https://github.com/perliedman/query-overpass) CLI to make Overpass query and transform result to GeoJSON. Based on [osmtogeojson](https://github.com/tyrasd/osmtogeojson)
 
 
 ### data
@@ -114,6 +123,8 @@ GeoJSON utilities that will make your life easier.
 * [strava-geojson](https://github.com/tmcw/strava-geojson): export _all_ strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 * [gimme OSM](http://ustroetz.github.io/gimmeOSM/): Fetch geojson file by openstreetmap id
 * [country-levels](https://github.com/hyperknot/country-levels-export) Full planet GeoJSON extracts, based on ISO and FIPS codes.
+* [historical-basemaps](https://github.com/aourednik/historical-basemaps): Collection of georeferenced boundaries of world countries and cultural regions for use in mapping historical data on the world scale.
+* [99boundaries](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ### serialization
 

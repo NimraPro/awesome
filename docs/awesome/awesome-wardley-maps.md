@@ -29,6 +29,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
   - E-book - PDF and Kindle [downloads](https://github.com/andrewharmellaw/wardley-maps-book/releases).
   - Audiobook - MP3 [downloads](https://feststelltaste.github.io/wardley-maps-audiobook/).
   - [Spanish Translation](http://joapen.com/mapasdewardley/) - Mapas de Wardley. El uso de la inteligencia topográfica en la estrategia empresarial.
+- [Simon Wardley's SlideShares](https://www.slideshare.net/swardley/presentations) - A collection of useful presentation slide decks on a range of topics.
 - [Glossary](https://community.wardleymaps.com/t/mapping-glossary/280)
 - [Wardleypedia](http://wardleypedia.org/mediawiki/index.php/Main_Page) - A Wiki Encyclopedia dedicated to the strategy mapping techniques pioneered by Simon Wardley.
 - [Wardley map](https://en.wikipedia.org/wiki/Wardley_map) - Wikipedia entry.
@@ -36,6 +37,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [Practical Introduction to Wardley Mapping](https://leanpub.com/practicalintroductiontowardleymapping) - A step-by-step guide to creating and using Wardley Maps by [E. Alex Hudson](https://twitter.com/ealexhudson). PDF/iPad/Kindle.
 - [The Art of Strategy](https://medium.com/@erik_schon/the-art-of-strategy-ac4165c0c085) - Sun Tzu, Boyd & Wardley on situational awareness, OODA "Loops" and Wardley mapping by [Erik Schön](https://twitter.com/erik_schon). [PDF](https://leanpub.com/TheArtOfStrategy)/[Paperback](https://www.amazon.com/ART-STRATEGY-Towards-Business-Agility/dp/B086PTDZT1).
 - [Reaching Cloud Velocity: A Leader's Guide to Success in the AWS Cloud](https://www.goodreads.com/book/show/53503300-reaching-cloud-velocity) - Chapter 2.3 Mapping Your Way Through.
+- [Draw your company strategy: A practical workbook for mapping business strategy](https://www.amazon.com/-/es/Joaqu%C3%ADn-Pe%C3%B1a-Fern%C3%A1ndez/dp/B09QFJ4QDG/) - Visual cards reviewing concepts as user needs, climatic patterns, doctrines, gameplays. Revision of concepts, examples and other strategy topics.
 
 ## Videos
 
@@ -50,11 +52,21 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [LearnWardleyMapping.com](https://learnwardleymapping.com/) - Video chapter summaries of Simon Wardley's book, 15-minute introductory course, and a quick reference.
 - [GCATI](https://gcati.org/community/wardley-mapping-community) - Globally recognised Wardley mapping training and certifications; Awareness, Foundation, Practitioner, Strategy Development Workshop and Wardley Mapping BattleCamp.
 - [User Strategy Development with Wardley Maps in Miro](https://www.coursera.org/projects/user-strategy-development-wardley-maps-miro) - Tricia Bagley, Coursera Project Network.
+- [Business Stragy with Wardley Mapping](https://github.com/wardley-maps-community/awesome-wardley-maps/blob/master/courses.coryfoy.com/p/business-strategy-with-wardley-mapping) - [Cory Foy](https://twitter.com/cory_foy).
+
+## Certifications
+
+- [GCATI](https://gcati.org/certificate/foundation-wardley-mapping) - Foundation in Wardley Mapping. For those who need to know and understand the basics of Strategy using Wardley Mapping either with a view to becoming a Practitioner or with a need to work effectively with Practitioners. A certified Foundation in using Wardley Mapping candidate has proficiency in reading and understanding Wardley Maps.
 
 ## Maps in the Wild
 
 Blog posts and other interesting examples of Wardley maps. Ordered by date, newest first.
-- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap. Oct 22, 2020.
+- [How Open Source Machine Learning Software Shapes AI](https://maxlangenkamp.me/posts/mloss_essay/) - A 4k word summary of Max Langenkamp's Master of Engineering thesis. September 27, 2022.
+- [How will cars be refueled by 2032?](https://joapen.com/blog/2022/08/29/how-will-cars-be-refueled-by-2032/) - By Joaquín Peña Fernández. August 29, 2022.
+- [Zalando, a Wardley map about how they play the game](https://joapen.com/blog/2021/09/16/zalando-a-wardley-map-about-how-they-play-the-game/) - By Joaquín Peña Fernández. Sep 16, 2021.
+- [Those virtual battlegrounds…](https://swardley.medium.com/those-virtual-battlegrounds-feb3da18e0f0) - Why video games will become a new battleground for the soul of a country by Simon Wardley. Sep 8, 2021.
+- [Skills as a System](https://www.linkedin.com/pulse/skills-system-guy-dickinson/) the way we use job rolesis prone to bias, blocks innovation, and slows down organisations. by Guy Dickinson. June 13, 2021
+- [Digital Sovereignty](https://swardley.medium.com/digital-sovereignty-17853157e40a) - Look before you leap by Simon Wardley. Oct 22, 2020.
 - [How to use Wardley Mapping to understand how you deliver customer value](https://medium.com/@stephanwillemse/how-to-use-wardley-mapping-to-understand-how-you-deliver-customer-value-43abdad264cf) - Sep 15, 2020.
 - [The What, The Why and Some How of Wardley Mapping](https://www.infoq.com/presentations/interview-wardley-maps/) - A conversation with Simon Wardley. Aug 4, 2020.
 - [Doctrine or Dogma?](https://medium.com/swlh/doctrine-or-dogma-2abeaef0cbc7) - Challenge your Wardley mapping assumptions in a friendly way. Aug 2, 2020.
@@ -96,6 +108,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [A Platform Design Example Explained](https://stories.platformdesigntoolkit.com/pdt-bootcamp-example-explained-34e08f9dd4b3) - Exploring and designing a platform in the renewable energy context. Oct 28, 2019.
 - [Understanding Platforms through Value Chain Maps](https://stories.platformdesigntoolkit.com/platform-value-chain-z-shape-385f759faffa) - Why is a Platforms' Wardley (Value Chain) Map Z-Shaped? Oct 11, 2018.
 - [Healthcare information technology strategy](https://wardle.org/strategy/2018/07/19/mapping.html) - How can we make best use of technology to support healthcare? Jul 19, 2018.
+- [Value Chains](https://design4services.com/concepts/value-chains/) - Porter Value Chain Analysis, Wardley Value Chain Analysis and Value Mapping by Tim Manning. Jul 17, 2018.
 - [Mapping Maturity](https://medium.com/@chrisvmcd/mapping-maturity-create-context-specific-maturity-models-with-wardley-maps-informed-by-cynefin-37ffcd1d315) - Context specific maturity models with Wardley maps informed by Cynefin. May 11, 2018.
 - [A mechanism for building a roadmap](https://hackernoon.com/a-mechanism-for-building-a-roadmap-2708d762097f) - Using a Wardley map to build a roadmap. Jan 9, 2018.
 - [Uber, the not so disrupting disruptor?](https://swardley.medium.com/uber-the-not-so-disrupting-disruptor-f03ecbb1330a) - By Simon Wardley. Sep 11, 2017.
@@ -137,6 +150,9 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 - [Mapkeep](https://mapkeep.com/) - Mapkeep is a place to keep 😉 your Wardley Maps. Create, share, and discuss maps with others. Host your maps for free with unlimited public repositories. For updates, you can follow [@mapkeep](https://twitter.com/mapkeep) on Twitter, subscribe to the [YouTube Channel](https://www.youtube.com/channel/UCgJtBt9DyTrwyMlNdoZJhFQ), or subscribe to the [News and Updates blog](https://mapkeep.substack.com/).
+- [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
+- [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
+- [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
 
 ### Doctrine Assessement
 
@@ -167,6 +183,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ## Events
 
+- [Map Camp 2021](https://www.mapcamp.co.uk/) - A virtual event on October 13, 2021.
 - [Map Camp 2020](https://leadingedgeforum.com/research/map-camp-2020/) - A free all-day online event on October 13, 2020.
 - [Map Camp](https://www.map-camp.com/) - Follow Map Camp on [Twitter](https://twitter.com/map_camp) and [LinkedIn](https://www.linkedin.com/company/map-camp/).
 

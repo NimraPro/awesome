@@ -9,7 +9,7 @@
 ---
 
 ## Software and Tools
-
+- [Flapen](https://flapen.com) - Flapen is a free real-time dashboard to monitor Amazon category changes in 19 country and 215 categories
 - [AiHello AutoPilot](https://www.aihello.com/) - Amazon PPC Ads Automation Software.
 - [Amzmailer](https://amzmailer.com/) - Feedback software and email autoresponder to send Amazon customers automated emails.
 - [aShop](https://ashop.co) - Effortless microsites for Amazon Sellers. Marketing tool that delivers branded store experience to bring more business and maximize profits.
@@ -29,6 +29,7 @@
 - [MerchantWords](https://www.merchantwords.com/) - Finds highly specific keyword phrases that help buyers find what you are selling.
 - [Prestozon](https://prestozon.com/) - Automation and analytics for Amazon HSA & sponsored products ads.
 - [Prisync](https://prisync.com/) - Price monitoring & tracking SaaS with dynamic pricing and automatching engine.
+- [Scrappie](https://scrappie.app) - E-commerce data monitoring and analysis platform with API integration, WebHooks & ETL processes.
 - [SellerApp](https://www.sellerapp.com/) - Product research, product ideas, listing quality, product alerts, product source, keyword research, ppc analyzer, and more.
 - [SellerLabs](https://www.sellerlabs.com/tools/) - Several tools to manage ads, discover profitable keywords and products, get more product reviews and better seller feedback, simplify inventory and financial management for the amazon marketplace.
 - [SellerLegend](https://sellerlegend.com/) - Near real-time orders download, intelligent KPI dashboards, inventory management, notifications, refunds, historical cost of goods, operating expenses, all America & Europe marketplaces, financial transactions, Europe vat.
@@ -37,6 +38,7 @@
 - [Sonar](http://sonar-tool.com/) - Free Amazon keyword research tool from Sellics.
 - [Splitly](https://splitly.com/) - Algorithmic split testing, automated pricing optimization, keyword rank tracking.
 - [TradeGecko](https://www.tradegecko.com/) - Cloud based inventory and order management software for modern online businesses.
+- [Turbo Piranha](https://www.turbopiranha.com/) - Bulk product search, profit calculation and competition analysis software using UPC, ISBN, EAN and ASIN lists in Excel/CSV/TXT format for wholesale and arbitrage business models, and also book sellers/flippers.
 - [WordTree](https://www.wordtree.io/) - Keyword tools to grow your search traffic, research your competitors, and monitor your niche.
 - [xSellco](https://www.xsellco.com/) - Centralize customer queries, target positive feedback by requesting reviews from happy customers, automatically reprice.
 
@@ -58,6 +60,7 @@
 - [SellerLabs](https://www.sellerlabs.com/blog/) - A blog from SellerLabs with awesome ICYMI: Amazon Seller News series.
 - [Sellics](https://sellics.com/blog) - Sellics provides strategic advice for sellers.
 - [Tamebay](https://tamebay.com/) - Tamebay is the leading provider of intelligence & news for all businesses and business people who ply their trade on online marketplaces, whether they are experienced powersellers looking to boost sales, or beginners seeking advice and best practice.
+- [Turbo Piranha](https://www.turbopiranha.com/articles/) - Amazon news, updates, and best practices for e-commerce
 - [WebRetailer](https://www.webretailer.com/) - WebRetailer is a treasure trove of information for sellers and one of the leading resources on the web.
 
 ## Other
@@ -65,6 +68,7 @@
 - [FBA Catalog](https://fbacatalog.com) - Software catalog for Amazon Sellers. Find tools that fit your business in no time!
 - [FBA Monthly](https://fbamonthly.com) - FBA Monthly newsletter is an across-the-board summary of the month's most important news articles and blog posts regarding Amazon businesses.
 - [r/FulfillmentByAmazon](https://www.reddit.com/r/FulfillmentByAmazon/) - Subreddit for FBA sellers.
+- [500K ASIN Lists](https://app.turbopiranha.com/Download/bestselleritems) - Weekly FREE 500K ASIN lists in popular categories of 8 marketplaces (US, CA, MX, UK, DE, ES, FR, IT).  
 
 ---
 

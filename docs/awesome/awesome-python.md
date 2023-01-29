@@ -20,7 +20,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [django-xadmin](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies.
 * [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask.
 * [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
-* [jet-bridge](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django)
+* [jet-bridge](https://github.com/jet-admin/jet-bridge) - Admin panel framework for any application with nice UI (ex Jet Django).
 * [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
 
 ## Algorithms and Design Patterns
@@ -59,8 +59,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * Audio
     * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
     * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
-    * [kapre](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors
-    * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
+    * [kapre](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+    * [librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis.
     * [matchering](https://github.com/sergree/matchering) - A library for automated reference audio mastering.
     * [mingus](http://bspaans.github.io/python-mingus/) - An advanced music theory and notation package with MIDI file and playback support.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Audio feature extraction, classification, segmentation and applications.
@@ -124,7 +124,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [beaker](https://github.com/bbangert/beaker) - A WSGI middleware for sessions and caching.
 * [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
 * [django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is next generation replacement for Beaker made by same authors.
+* [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is a next generation replacement for Beaker made by the same authors.
 * [HermesCache](https://pypi.org/project/HermesCache/) - Python caching library with tag-based invalidation and dogpile effect prevention.
 * [pylibmc](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](https://libmemcached.org/libMemcached.html) interface.
 * [python-diskcache](http://www.grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
@@ -161,7 +161,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 * Static Type Annotations Generators
     * [MonkeyType](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
-    * [pyannotate](https://github.com/dropbox/pyannotate) - Auto-generate PEP-484 annotations.
     * [pytype](https://github.com/google/pytype) - Pytype checks and infers types for Python code - without requiring type annotations.
 
 ## Command-line Interface Development
@@ -284,8 +283,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 * [Altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python.
 * [Bokeh](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
-* [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook
-* [Cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support
+* [bqplot](https://github.com/bloomberg/bqplot) - Interactive Plotting Library for the Jupyter Notebook.
+* [Cartopy](https://github.com/SciTools/cartopy) - A cartographic python library with matplotlib support.
 * [Dash](https://plot.ly/products/dash/) - Built on top of Flask, React and Plotly aimed at analytical web applications.
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
@@ -466,7 +465,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [merchant](https://github.com/agiliq/merchant) - A Django app to accept payments from various payment processors.
 * [money](https://github.com/carlospalol/money) - `Money` class with optional CLDR-backed locale-aware formatting and an extensible currency exchange.
 * [python-currencies](https://github.com/Alir3z4/python-currencies) - Display money format and its filthy currencies.
-* [saleor](http://getsaleor.com/) - An e-commerce storefront for Django.
+* [saleor](https://saleor.io/) - Headless open-source e-commerce platform.
 * [shoop](https://www.shuup.com/en/) - An open source E-Commerce platform based on Django.
 
 ## Editor Plugins and IDEs
@@ -571,7 +570,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [kivy](https://kivy.org/) - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
 * [pyglet](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 * [PyGObject](https://wiki.gnome.org/Projects/PyGObject) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
-* [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
+* [PyQt](https://doc.qt.io/qtforpython/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Wrapper for tkinter, Qt, WxPython and Remi.
 * [pywebview](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 * [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
@@ -593,7 +592,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 *Awesome game development libraries.*
 
-* [Arcade](https://arcade.academy/index.html) - Arcade is a modern Python framework for crafting games with compelling graphics and sound.
+* [Arcade](https://api.arcade.academy/en/latest/) - Arcade is a modern Python framework for crafting games with compelling graphics and sound.
 * [Cocos2d](http://cocos2d.org/) - cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications.
 * [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
 * [Panda3D](https://www.panda3d.org/) - 3D game engine developed by Disney.

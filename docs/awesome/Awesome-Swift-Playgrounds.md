@@ -117,6 +117,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## WWDC Students Submissions
 *Playgrounds submitted by students for the WWDC scholarship*
 
+- [2022](https://github.com/wwdc/2022)
 - [2021](https://github.com/wwdc/2021)
 - [2020](https://github.com/wwdc/2020)
 - [2019](https://github.com/wwdc/2019)
@@ -160,7 +161,6 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
 * [A Star](https://github.com/Dev1an/A-Star) - Protocol oriented A* pathfinding algorithm implementation in Swift 4.🍁
-* [Sorting Algorithms](https://github.com/bwide/Sorting-Algorithms-Playground) - Live Visualization of some famous sorting algorithms and your experiments.
 * [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift. ⏳
 * [Swiftography](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground. ⏳
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift. ⏳

@@ -14,6 +14,7 @@ Table of contents:
 * [SonataAdminBundle](https://github.com/sonata-project/SonataAdminBundle) - AdminBundle - The missing Symfony2 Admin Generator
 * [AdminLTEBundle](https://github.com/kevinpapst/AdminLTEBundle) - Admin theme based on the AdminLTE Template
 * [Umbrella framework](https://github.com/acantepie/umbrella) - Admin components and theme to create administration backends.
+* [TablerBundle](https://github.com/kevinpapst/TablerBundle) - Admin theme based on the Tabler Template. It ships with many twig helpers (functions, filter, embeds, macros and includes).
 
 ## Certification
 * [CLI tool to train certifications](https://github.com/certificationy/certificationy-cli)
@@ -25,7 +26,6 @@ Table of contents:
 * Facebook - notable, large and active Facebook groups:
     * [1](https://fb.com/groups/7672226565)
     * [2](https://fb.com/groups/symfony2.framework)
-* [Google+](https://plus.google.com/communities/109013871316146116610) - Large and active group on Google+.
 * IRC:
     * [#symfony](http://irc.lc/freenode/symfony) - Official IRC channel for Symfony support.
     * [#symfony-docs](http://irc.lc/freenode/symfony) - Channel to discuss about the documentation of Symfony.
@@ -116,7 +116,7 @@ Table of contents:
 * [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - Bundle for barcode rendering using our barcode generator base library.
 * [BlogBundle](https://github.com/stfalcon/BlogBundle) - Simple blog module.
 * [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
-* [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - A small breadcrumbs bundle.
+* [BreadcrumbsBundle](https://github.com/mhujer/BreadcrumbsBundle) - A small breadcrumbs bundle.
 * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - Bundle to access the browscap information.
 * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - Bundle to integrate cachetool library in Symfony2 (Clear acp/opcache from the command line).
 * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - This bundle provides an opportunity to convert Request data into Carbon objects.
@@ -160,6 +160,7 @@ Table of contents:
 * [phone-number-bundle](https://github.com/misd-service-development/phone-number-bundle) - Integrates libphonenumber.
 * [prezent-grid-bundle](https://github.com/Prezent/prezent-grid-bundle) - Integrate the prezent/grid library in Symfony2.
 * [query-bus-bundle](https://github.com/gnugat/query-bus-bundle) - QueryBus integration in Symfony.
+* [request-object-resolver-bundle](https://github.com/mops1k/request-object-resolver-bundle) - Denormilize and validate incoming request in your DTO objects.
 * [rss-atom-bundle](https://github.com/alexdebril/rss-atom-bundle) - RSS and Atom Bundle.
 * [Search-SphinxsearchBundle](https://github.com/timewasted/Search-SphinxsearchBundle) - Sphinx search bundle.
 * [SettingsBundle](https://github.com/dmishh/SettingsBundle) - Database centric configuration management. Global and per-user settings supported.
@@ -176,7 +177,7 @@ Table of contents:
 * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - Bundle for Transmission API client.
 * [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
 * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - Symfony Bundle for PHP Package visithor.
-* [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - Bundle to use Pagerfanta.
+* [BabDevPagerfantaBundle](https://github.com/BabDev/BabDevPagerfantaBundle) - Bundle to use Pagerfanta.
 * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - Adds annotation configuration for Controller classes.
 * [WozbeRedirectBundle](https://github.com/wozbe/WozbeRedirectBundle) - A short bundle to manage many domains.
 
@@ -213,15 +214,19 @@ Table of contents:
 * [Symfony - project tamed](http://clearcode.cc/2014/03/symfony-project/)
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 
+## Recipes
+* [Symfony Recipes](https://github.com/symfony/recipes) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+* [Symfony Recipes (Contrib)](https://github.com/symfony/recipes-contrib) - Symfony recipes allow the automation of Composer packages configuration via the Symfony Flex Composer plugin.
+
 ## Resources
 
 * [Symfony2 Service Config Converter](http://converter.rosstuck.com/) - A simple service to convert services configuration between YAML, XML and INI.
 * [Twigfiddle](http://twigfiddle.com/) - Small development environment to develop, run, store and access Twig code online.
+* [Modern PHP cheatsheet](https://github.com/smknstd/modern-php-cheatsheet) - Cheatsheet for some Php knowledge you will frequently encounter in modern projects.
 
 ## Service Container
 
 * [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
-* [JMDSettingsBundle](https://github.com/mops1k/settings-bundle) - Simple service for store configuration in database an accessible via service and twig in your project.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - Provides Advanced Dependency Injection Features.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - a bundle providing autowiring for service arguments.
 * [PHP-DI](http://php-di.org) - The dependency injection container for humans.
@@ -274,7 +279,6 @@ Table of contents:
 
 ## User Management
 
-* [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) - Adds support for a database-backed user system.
 * [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration. Supports both OAuth1.0a and OAuth2.
 * [JmikolaAutoLoginBundle](https://github.com/jmikola/JmikolaAutoLoginBundle) - This bundle integrates the AutoLogin library with Symfony2, which implements a security firewall listener to authenticate users based on a single query parameter.
 * [JMSSecurityExtraBundle](http://jmsyst.com/bundles/JMSSecurityExtraBundle) - Enhances the Security Component with several new features.
@@ -295,12 +299,11 @@ Table of contents:
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Bundle to build hypermedia-driven REST API.
 * [FOSOAuthServerBundle](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) - A server side OAuth2 bundle.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) - Provides various tools to rapidly develop RESTful API's & applications.
-* [JMDRestBundle](https://github.com/mops1k/JMDRestBundle) - Provide fast and simple way to generate REST api for your project entities without editing configs and creating any controllers.
 * [JMSSerializerBundle](https://github.com/schmittjoh/JMSSerializerBundle) - Easily serialize, and deserialize data of any complexity.
 * [JSONApiBundle](https://github.com/nilportugues/symfony-jsonapi) - Bundle which provides support for formatting REST reponses to follow the JSON API specification.
 * [KnpJsonSchemaBundle](https://github.com/KnpLabs/KnpJsonSchemaBundle) - Provide a service which allow you to generate json schema based on validation metadata.
 * [LemonRestBundle](https://github.com/stanlemon/rest-bundle) - An opinionated bundle providing REST endpoints for Doctrine entities.
-* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the namshi/jose library.
+* [LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle) - This bundle provides JWT (Json Web Token) authentication for your REST API using the lcobucci/jwt library.
 * [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - Generates documentation for your REST API from annotations.
 * [NelmioCorsBundle](https://github.com/nelmio/NelmioCorsBundle) - Adds ability to add CORS-related headers based on simple ACL-style per-URL configurations.
 * [RateLimitBundle](https://github.com/jaytaph/RateLimitBundle) - Add rate limits to your controllers/actions easily through annotations.

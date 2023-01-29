@@ -23,7 +23,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [Rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript. Typescript support expected mid-2020.  -TS.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
-* [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+* [functional.js](https://github.com/functionaljs/functional-js) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 * [101](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.  -TS
 * [fnuc](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 * [barely-functional](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations. -TS.
@@ -63,6 +63,18 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 * [rocket-pipes](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 * [omg-curry](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+* [lfi](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
+* [ts-multimethod](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
+* [ts-fp-di](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
+* [effect-ts](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+* [qio](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
+* [Ditox.js](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+* [RxEffects](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+* [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
+* [ts-belt](https://mobily.github.io/ts-belt/) - Fast, modern, and practical utility library for FP in TypeScript. (Uses a data-first approach like remeda, but is [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) than remeda, ramda, rambda, and lodash/fp.)
+* [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
+* [true-myth](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
 
 ### Data Structures
 
@@ -79,7 +91,7 @@ Write performant functional code by using the right data structures for the task
 * [DerivableJS](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API.
+* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API. Designed to [seamlessly integrate with Ramda](https://github.com/funkia/list#seamless-ramda-integration).
 * [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
 * [TSTL](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 
@@ -135,6 +147,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [RacketScript](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 * [Koka](https://www.microsoft.com/en-us/research/project/koka/) – Koka is a function-oriented programming language that seperates pure values from side-effecting computations with a familiar JavaScript like syntax.
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+* [Gleam](https://gleam.run) - Gleam is a typed, functional language that compiles to Erlang and JavaScript.
 
 ## Programming Tools
 
@@ -222,7 +235,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Talk
 
-* [Functional Programming Slack channel](https://fpchat-invite.herokuapp.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
+* [Functional Programming Slack channel](https://fpslack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
 
 ## Contribution

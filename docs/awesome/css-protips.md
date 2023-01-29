@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="AllThingsSmitty/css-protips"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
-  <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
+  <img src="https://raw.githubusercontent.com/AllThingsSmitty/css-protips/master/./assets/img/bulb.svg?sanitize=true" width="200" alt="light bulb icon">
 </p>
 
 ## CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -139,7 +139,7 @@ You can check if a font is installed locally before fetching it remotely, which 
     /* Full name */
     local("Dank Mono"),
     /* Postscript name */
-    local("Dank Mono"),
+    local("Dank-Mono"),
     /* Otherwise, download it! */
     url("//...a.server/fonts/DankMono.woff");
 }
@@ -173,7 +173,7 @@ This way textual elements can inherit from `body` easily.
 
 ### Set `:focus` for Form Elements
 
-Sighted keyboard users rely on focus to determine where keyboard events go in the page. Make focus for form elements stand out and consistent then a browser's default implementation:
+Sighted keyboard users rely on focus to determine where keyboard events go in the page. Make focus for form elements stand out and consistent than a browser's default implementation:
 
 ```css
 a:focus,
@@ -391,6 +391,7 @@ a[href^="http"]:empty::before {
 
 That's pretty convenient.
 
+
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/zBzXRx)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -570,7 +571,7 @@ textarea {
 [Pointer events](https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events) allow you to specify how the mouse interacts with the element it's touching. To disable the default pointer event on a button, for instance:
 
 ```css
-.button-disabled {
+button:disabled {
   opacity: .5;
   pointer-events: none;
 }
@@ -594,6 +595,21 @@ br + br {
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Use `:empty` to Hide Empty HTML Elements
+
+If you have HTML elements that are empty, i.e., the content has yet to be set either by a CMS or dynamically injected (e.g., `<p class="error-message"></p>`) and it's creating unwanted space on your layout, use the `:empty` pseudo-class to hide the element on the layout. 
+
+```css
+:empty {
+  display: none;
+}
+```
+
+**Note:** Keep in mind that elements with whitespace aren't considered empty, e.g., `<p class="error-message"> </p>`.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
@@ -602,6 +618,8 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 
 ## Translations
+
+**Note:** I've had less time available to maintain the growing list of translated tips; adding a new tip requires including it with over a dozen translations. For that reason, translated README files may not include all the tips listed on the main README file.
 
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 * [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)

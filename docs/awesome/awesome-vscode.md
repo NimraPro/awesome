@@ -8,9 +8,13 @@
 <br/>
 <div align="center">
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
+A curated list of delightful <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+packages and resources. For more awesomeness, check
+out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
+<br/>
+<br/>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/>
+<img src="https://travis-ci.org/viatsko/awesome-vscode.svg" alt="Build Status"/>
 </div>
 <br/>
 
@@ -142,7 +146,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 #### More
 
-* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+- [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
 
 ## C\#, ASP .NET and .NET Core
 
@@ -192,6 +196,12 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
 - [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+
+## HLSL
+
+- [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code
+  ![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
+
 ## Shell
 
 - [autocomplate-shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
@@ -206,21 +216,28 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## JavaScript
 
+- [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
+
+![TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
+
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
 See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
+### Linters
+
+- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
-- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
-- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
 
-Framework-specific:
+- [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
+
+### Framework-specific
 
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) - Toolkit for Vue.js
 ![Vetur](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/Vetur.png)
@@ -236,8 +253,7 @@ Framework-specific:
 
 ### TypeScript
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
-- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - Code outline view of your open TS, sort and organize your imports.
+- [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code.
 
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
@@ -261,6 +277,12 @@ Framework-specific:
 ![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
 
 ## PHP
+
+### [PHP Tools](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
+
+> Rich language support for the PHP language: linting, debugging, intellisense, auto-completion, code formatting, refactoring, unit testing, profiling, and more.
+
+![PHP Tools Intellisense demo screenshot](https://raw.githubusercontent.com/DEVSENSE/phptools-docs/master/docs/vscode/imgs/completion-tooltip.gif)
 
 ### IntelliSense
 
@@ -348,11 +370,41 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ## Rust
 
-- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Linting, auto-completion, code formatting, snippets and more
+- [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer) - Linting, auto-completion, code formatting, snippets and more
 
 ## Terraform
 
 - [Terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform) - Syntax highlighting, linting, formatting, and validation for Hashicorp's Terraform
+
+## GitHub
+
+## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
+
+> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
+
+## [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+
+> Review and manage GitHub pull requests and issues
+
+## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
+
+> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples.
+
+![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
+
+## [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=cschleiden.vscode-github-actions)
+
+> Shows GitHub Actions workflows and runs
+
+## [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub)
+
+> Remotely browse and edit any GitHub repository
+
+## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
+
+> This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
+
+![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## Productivity
 
@@ -378,6 +430,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Mark lines and jump to them
 
+## [Browser Preview (deprecated)](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
+
+> Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
+
+![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
+
 ## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
 
 > An extension for big projects or monorepos that colors your tab/titlebar based on the current package
@@ -389,6 +447,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > An extension to quickly generate test files.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
+
+## [Dendron](https://marketplace.visualstudio.com/items?itemName=dendron.dendron)
+
+> An extension that can turn Visual Studio Code into a PKM tool, with excellent UX, using Markdown files to organize and reference any amount of knowledge. Whether you organize your notes with PARA or Zettelkasten, link notes together like Roam, or simply create notes in an ad-hoc manner, Dendron can help. Think of it as a second brain to help you make sense of all the information you care about. Bonus: Dendron can also publish a static site via NextJS if also using `dendron-cli`.
+
+![dendron.dendron](https://foundation-prod-assetspublic53c57cce-8cpvgjldwysl.s3-us-west-2.amazonaws.com/assets/images/graph-intro.gif)
 
 ## [Deploy](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy)
 
@@ -406,6 +470,14 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
 
+## [Toggle](https://marketplace.visualstudio.com/items?itemName=rebornix.toggle)
+
+> Toggle any VS Code setting by your favorite keybindings.
+
+Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by shortcut:
+
+![Toggle example demo](https://raw.githubusercontent.com/viatsko/awesome-vscode/master/screenshots/toggle-example.gif)
+
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 > Provides Javascript and React/Redux snippets in ES7
@@ -416,12 +488,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Generating .gitignore files made easy.
 
 ![.gitignore generation animation](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
-
-## [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs)
-
-> Allows you to manage GitHub Gists entirely within the editor. You can open, create, delete, fork, star and clone gists, and then seamlessly begin editing files as if they were local. It's like your very own developer library for building and referencing code snippets, commonly used config/scripts, programming-related notes/documentation, and interactive samples. 
-
-![GistPad gist management](https://user-images.githubusercontent.com/116461/69910156-96274b80-13fe-11ea-9be4-d801f4e9c377.gif)
 
 ## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
@@ -450,16 +516,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![git added indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
 ![git removed indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
 ![git modified indicator screenshot](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
-
-## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
-
-> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
-> Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
-
-## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
-> This extension uses the GitHub api to monitor the state of your pull requests and let you know when it's time to merge or if someone requested changes.
-
-![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
 ## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=gitlab.gitlab-workflow)
 > Adds a GitLab sidebar icon to view issues, merge requests and other GitLab resources.  You can also view the results of your GitLab CI/CD pipeline and check the syntax of your `.gitlab-ci.yml`.
@@ -535,7 +591,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 >Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
 
 ![Instant Markdown Screencast](https://raw.githubusercontent.com/dbankier/vscode-instant-markdown/master/vscode-instant-markdown.gif)
-
 
 ## [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 
@@ -618,12 +673,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
-## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-
-> Synchronize settings, snippets, themes, file icons, launch, key bindings, workspaces and extensions across multiple machines using GitHub Gist
-
-![Settings Sync](https://i.imgur.com/QZtaBca.gif)
-
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
 > All-in-one extension for text manipulation: filtering (grep), remove lines, insert number sequences and GUIDs, format content as table, change case, converting numbers and more. Great for finding information in logs and manipulating text.
@@ -674,13 +723,9 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
 
-## [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+## Auto Rename Tag
 
-> Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
-
-![Automatically add close tags animation](https://raw.githubusercontent.com/formulahendry/vscode-auto-close-tag/master/images/usage.gif)
-
-## [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+> Native settings, just add `"editor.linkedEditing": true` to your `settings.json` file
 
 > Auto rename paired HTML/XML tags
 
@@ -728,12 +773,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Allows you to toggle your formatter on and off with a simple click
 
-## [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
-> This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
-
-![Bracket Pair Colorizer](https://raw.githubusercontent.com/CoenraadS/BracketPair/master/images/example.png)
-
 ## [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 > Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 
@@ -768,12 +807,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
 
 ## Uncategorized
-
-## [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
-
-> Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug. Browser Preview is powered by Chrome Headless, and works by starting a headless Chrome instance in a new process. This enables a secure way to render web content inside VS Code, and enables interesting features such as in-editor debugging and more!
-
-![Browser Preview Demo](https://raw.githubusercontent.com/auchenberg/vscode-browser-preview/master/resources/demo.gif)
 
 ## [CodeRoad](https://marketplace.visualstudio.com/items?itemName=CodeRoad.coderoad)
 
@@ -884,12 +917,6 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![Send messages or code snippets to Slack animation](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
 
-## [SmoothType](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype)
-
-> Add a smooth typing animation, similar to MS Office and the Windows 10 Mail app.
-
-![SmoothType Animation](https://raw.githubusercontent.com/spikespaz/vscode-smoothtype/master/images/preview.gif)
-
 ## [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
 > Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
 
@@ -919,14 +946,17 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
-
-![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
-
 ## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
 
 > Quickly generate interface definitions from typescript class
 
 ![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
+
+## [JFrog](https://marketplace.visualstudio.com/items?itemName=JFrog.jfrog-vscode-extension)
+
+> Adds JFrog Xray scanning of project dependencies to your VS Code IDE. It allows developers to view panels displaying vulnerability information about the components and their dependencies directly in their VS Code IDE. The extension also allows developers to track the status of the code while it is being built, tested and scanned on the CI server.
+
+![JFrog](https://raw.githubusercontent.com/jfrog/jfrog-vscode-extension/master/resources/readme/gifs/show_in_dependency_tree.gif)
 
 ## Themes
 
@@ -1197,13 +1227,12 @@ A list of Twitter accounts for various people in the VS Code Community
 ## Documentation
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code.
-- [Extending Visual Studio Code](https://code.visualstudio.com/docs/extensions/overview) section of [Official Documentation](https://code.visualstudio.com/docs)
+- [Visual Studio Code API](https://code.visualstudio.com/api) section of [Official Documentation](https://code.visualstudio.com/docs)
 
 ## Libraries
 
-- [vscode-extension-vscode](https://github.com/Microsoft/vscode-extension-vscode) - The vscode.d.ts node module
-- [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+- [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
 

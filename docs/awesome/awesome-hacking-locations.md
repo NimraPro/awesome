@@ -1060,6 +1060,17 @@ Wifi | Power | Address | Open Hours
 
 ## Porto
 
+#### Armazem do caffe - Leca da Palmeira
+
+> Has amazing view to the beach. Its quiet, has a lot of power sockets, coffee its good, food its good and cheap
+
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [R. António Nobre 17, 4450-618 Leça da Palmeira](https://goo.gl/maps/4KR71dKDSxjjLzuR8) | 8:30am - 7:00pm
+
+![Screenshot from 2022-08-09 15-51-59](https://user-images.githubusercontent.com/19710754/183682207-df364826-3299-4945-9962-39e9996d177c.png)
+
 #### Bop
 
 > Hipster vibes with large record collection, coffee, beer, and tasty bagels.
@@ -1278,7 +1289,6 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5456163855.png)
 
-
 #### Frenesi Cafe
 
 > Small cozy coffee shop with comfortable sits and lots of plugs (even USB plugs)
@@ -1298,6 +1308,16 @@ Webpage: http://federalcafe.es/barcelona-gotic/
 Wifi | Power | Address | Open Hours
 ---- | ----- | -------------- | -------
 ✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
+
+#### 52 Moments
+
+> Cafe with lots of free tables (most of which have a power socket nearby) since most people only come for takeaway. Staff mostly speaks a little English, enough to communicate. Fairly loud, bring a headset, not ideal for meeting heavy days.
+
+Wifi | Power | Address | Open Hours
+---- | ----- | -------------- | -------
+✔ | ✔ | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00
+
+![Speedtest result](https://www.speedtest.net/result/11650923969.png)
 
 ## Oviedo
 

@@ -27,6 +27,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - **Website** - [craftcms.com](https://craftcms.com)
 - **Craft Commerce** - [craftcms.com/commerce](https://craftcms.com/commerce)
 - **Craft Nitro** - [getnitro.sh](https://getnitro.sh)
+- **Craft + Craft Commerce Demos** - [craftcms.com/demo](https://craftcms.com/demo)
 - **Craft CMS Tutorial** – [craftcms.com/docs/getting-started-tutorial](https://craftcms.com/docs/getting-started-tutorial/)
 - **Craft CMS 3 Docs** - [craftcms.com/docs/3.x](https://craftcms.com/docs/3.x/) - [Class Reference](https://docs.craftcms.com/api/v3)
 - **Craft CMS 2 Docs** - [craftcms.com/docs/2.x](https://craftcms.com/docs/2.x/) - [Class Reference](https://docs.craftcms.com/api/v2)
@@ -66,7 +67,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 
 ## Plugins
 
-- [Craft 3 Plugins](https://plugins.craftcms.com)
+- [Craft 4 Plugins](https://plugins.craftcms.com/?craft4)
+- [Craft 3 Plugins](https://plugins.craftcms.com/?craft3)
 - [Submit Craft 3 Plugins](https://id.craftcms.com)
 - [Craft 2 Plugins](https://craftplug.in/)
 - [Plugin Factory](https://pluginfactory.io/)
@@ -105,7 +107,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Why you should update your website to Craft CMS 3](https://weareabstrakt.com/views/why-you-should-update-your-website-to-craft-cms-3) by Lauren Swarbrick/Abstrakt - `22 Nov 2019`
 
 ##### Deployment
-- [Zero downtime Craft CMS 3 deployments with Buddy.works](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by Rias Van der Veken
+- [Atomic Deployments Without Tears](https://nystudio107.com/blog/executing-atomic-deployments) by Andrew Welch/nystudio107
 
 ##### Element API
 - [Global Sets in the Craft Element API](https://mijingo.com/blog/accessing-global-sets-from-the-element-api-in-craft) by Ryan Irelan/Mijingo
@@ -116,7 +118,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Localization & Multi-Environment Setup in Craft](https://designkarma.co.uk/blog/localization-multi-environment-setup-in-craft) by Ian Ebden/Design Karma - `4 Apr 2017`
 - [Multi-Environment Config for Craft CMS](https://nystudio107.com/blog/multi-environment-config-for-craft-cms) by Andrew Welch/nystudio107 - `4 Sep 2017`
 
-##### Front-end
+##### Front End
 - [Craft CMS AJAX Page Transitions with `history.pushState`](https://designbycosmic.com/articles/development/craft-cms-ajax-page-transitions-with-history-pushstate) by Cosmic - `1 Feb 2017`
 - [Editing a Front End Form with Matrix](https://caffeinecreations.ca/blog/editing-a-front-end-form-with-matrix/) by Sean Smith/Caffeine Creations
 - [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
@@ -124,7 +126,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 ##### Getting Started
 - [20 Principles for Craft CMS](https://hackernoon.com/20-principles-for-craft-cms-ae08d80c17de) by Knut Melvær - `30 Sep 2017`
 - [Craft CMS 3 Orientation Guide](https://nystudio107.com/blog/craft-cms-3-orientation-guide-welcome) by Andrew Welch/nystudio107 - `31 July 2018`
-- [How To Get Started With SEO In Craft CMS](https://medium.com/@galaxyweblinks/how-to-get-started-with-seo-in-craft-cms-b6eef51a5555) by Galaxy Weblinks - `22 June 2018`
+- [Craft CMS through the eyes of a website designer](https://adigital.agency/blog/craft-cms-through-the-eyes-of-a-website-designer) by Laura Montgomery/A Digital Agency– `3 September 2021`
+- [How To Get Started With SEO In Craft CMS](https://blog.galaxyweblinks.com/how-to-get-started-with-seo-in-craft-cms/) by Galaxy Weblinks - `22 June 2018`
 - [Setting up a New Craft CMS 3 Project](https://nystudio107.com/blog/setting-up-a-craft-cms-3-project) by Andrew Welch/nystudio107 - `12 Jan 2018`
 
 ##### Integrations
@@ -158,7 +161,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) by Ryan Irelan/Mijingo
 - [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) by Matt Stein
 
-
 ##### Publications
 - [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) by Ryan Masuga
 - [The Ultimate Craft CMS vs WordPress Guide](https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress) by Ryan Masuga
@@ -166,8 +168,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 
 ##### Security
 - [Securing Front-End User Profile and Entry Forms in Craft](https://putyourlightson.com/articles/securing-front-end-user-profile-and-entry-forms-in-craft) by Ben Croker/PutYourLightsOn - `4 May 2021`
+- [Securing Your Craft Site in 2022—Part 3](https://putyourlightson.com/articles/securing-your-craft-site-in-2022-part-3) by Ben Croker/PutYourLightsOn - `24 May 2022`
 - [Securing Your Craft Site in 2021—Part 2](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-2) by Ben Croker/PutYourLightsOn - `26 Jan 2021`
 - [Securing Your Craft Site in 2021—Part 1](https://putyourlightson.com/articles/securing-your-craft-site-in-2021-part-1) by Ben Croker/PutYourLightsOn - `13 Jan 2021`
+- [Storing Secrets in Craft CMS](https://putyourlightson.com/articles/storing-secrets-in-craft-cms) by Ben Croker/PutYourLightsOn - `6 July 2021`
+- [Common Security Vulnerabilities in Craft CMS Plugins](https://putyourlightson.com/articles/common-security-vulnerabilities-in-craft-cms-plugins) by Ben Croker/PutYourLightsOn - `31 Oct 2021`
 - [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - Rias
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) by Andrew Welch/nystudio107 - `19 Mar 2017`
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) by Ryan Irelan/Mijingo
@@ -324,6 +329,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [A Review of Craft Commerce](http://www.newmediacampaigns.com/blog/a-review-of-craft-commerce) by Adam Fairholm/New Media Campaigns - `19 May 2017`
 - [A love letter to Craft CMS](https://medium.com/diesdas-direct/a-love-letter-to-craft-cms-737f60d756cc) by Harry Keller/diesdas.digital - `18 Apr 2017`
 - [An Overview of Pixel & Tonic’s Craft CMS](https://medium.com/@msoyka91/an-overview-of-pixel-tonics-craft-cms-4bd9d5768ed0) by Matthew Soyka - `21 Feb 2017`
+- [Craft CMS vs WordPress: A comparison & why we love Craft CMS](https://www.madebybridge.com/blog/craft-cms-vs-wordpress-a-comparison) by Chris Cox/Made by Bridge - `17 Nov 2021`
 - [Craft CMS Vs WordPress: Why Choose Craft?](https://medium.com/@galaxyweblinks/craft-cms-vs-wordpress-why-choose-craft-7a557cdb604d) - `19 June 2018`
 - [Crazy About Craft](http://www.newmediacampaigns.com/blog/review-of-craft-cms-tips-to-get-started) by Nathan Huening/New Media Campaigns - `27 Feb 2017`
 - [How we chose Craft CMS for our product websites](https://wildbit.com/blog/2016/11/01/how-we-chose-craft-cms-for-products-websites) by Eugene Fedorenko/Wildbit - `1 Nov 2016`
@@ -393,6 +399,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/cra
 - [Betterteam](https://www.betterteam.com/)
 - [BigCommerce](https://www.bigcommerce.com)
 - [Bill Nye](https://www.billnye.com/)
+- [Canary Media](https://www.canarymedia.com/)
 - [City of Marion, IN](https://cityofmarion.in.gov/)
 - [City of Oakland](https://www.oaklandca.gov/)
 - [Confab Events](http://confabevents.com)

@@ -43,6 +43,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Stardew Valley](https://stardewvalley.net/) - Manage a farm from a top-down perspective and engage with a charming and cheerful world in 16-bit.
 - [Starbound](https://playstarbound.com/) - Travel across vibrant, colorful and expansive galaxies, including creative dynamic animations.
 - [Void Golf](https://cactusmancer.itch.io/void-golf) - Shoot giant pieces of space rock into black holes, using gravitational fields, physics-defying walls and wormholes in a minimalist top-down view.
+- [Minit](https://www.devolverdigital.com/games/minit) - With a minimalistic design (only two colors palette). Minit is an adventure where each exploration journey is limited to 60 seconds.
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) - A collection of Sean Browning's pixel animations, ranging from simple scenes to recreations of popular shows like Steven's Universe and RWBY.
@@ -57,7 +58,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 ### Artists
 - [eBoy](http://hello.eboy.com/eboy/) - German, pixel art group founded in 1997 by Kai Vermehr, Steffen Sauerteig and Svend Smital. They are regarded as the “Godfathers of Pixel Art”.
 - [Paul Robertson](http://probertson.tumblr.com/) - Australian, creating cute, sometimes cosmic and psychedelic, and sometimes weird nightmarish pixel art.
-- [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palletes creating cute humans and animals.
+- [Syosa](http://collet66.blog52.fc2.com/) - Japanese, girlish style using bright and organic color palettes creating cute humans and animals.
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 - [Slynyrd](https://www.patreon.com/slynyrd) - American, game designer with tons of material, game specific knowledge and mini-tutorials.

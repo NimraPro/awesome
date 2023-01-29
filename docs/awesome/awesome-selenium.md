@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="christian-bromann/awesome-selenium"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
+## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Test Awesome List](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml/badge.svg)](https://github.com/christian-bromann/awesome-selenium/actions/workflows/test.yaml)
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
@@ -16,16 +16,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
 - [WD](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
-- [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
-- [DalekJS](http://dalekjs.com/) - Automated cross browser testing.
 - [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
 - [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
-- [yiewd](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
 - [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
 - [CodeceptJS](http://codecept.io/) - Modern Era Acceptance Testing Framework for NodeJS.
-- [Nightmare.js](http://www.nightmarejs.org/) - A high-level browser automation library.
 
 #### Ruby
 
@@ -47,7 +43,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
 - [Helium](https://github.com/mherrmann/selenium-python-helium) - Helium makes Selenium easier and faster to use
 - [Selene](https://github.com/yashaka/selene) - Selenide-inspired concise and readable automated test framework, supports Ajax well like Selenide.
-- [Pomade](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 - [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) behavior driven testing with Selenium and Python.
@@ -62,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 - [seleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for WebDriver. Designed as a thin layer, it can be used alone or on top of your favorite framework just to make some cases (e.g. asserting/waiting) simpler when needed.
 - [WebDriverManager](https://github.com/bonigarcia/webdrivermanager) - Automatic management of Selenium WebDriver binaries.
+- [Lightning](https://github.com/aerokube/lightning-java) - Lightweight and lightning fast WebDriver client.
 
 #### C#
 
@@ -75,11 +71,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Dart
 
-- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server. 
+- [dart.webdriver](https://github.com/google/webdriver.dart) - Provides WebDriver bindings for Dart. These use the WebDriver JSON interface, and as such, require the use of the WebDriver remote server.
 
 ### CSS Regression Testing
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Containers
@@ -130,7 +125,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Desktop Tools
 
-- [SWD Page Recorder](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
 - [SWET](https://github.com/sergueik/SWET) - A successor to SWD Page Recorder, for the same functionality.
 - [Looking Glass](https://github.com/dmolchanenko/LookingGlass) - Java application that offers a cross-browser element inspector and Selenium code generator.
 - [Ranorex Selocity](https://www.ranorex.com/selocity/browser-extension/) - A Firebug/FirePath/Firefinder and Selenium IDE alternative for browser element inspection from the creators of Ranorex.
@@ -146,16 +140,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Cloud Services
 
 - [Sauce Labs](https://saucelabs.com) - Cross browser testing made awesome. Selenium testing, mobile testing, JS unit testing on 300+ OS/browser platforms. Get started for free.
+- [HeadSpin](https://www.headspin.io/) - Test your website for cross browser compatibility on thousands of real device running real browsers. Get instant access to multiple desktop and mobile browsers on the cloud. Get Free Trial.
 - [Browserstack](https://www.browserstack.com/) - Test your website for cross browser compatibility on real browsers. Instant access to multiple desktop and mobile browsers. Get Free Trial.
 - [LambdaTest](https://www.lambdatest.com/selenium-automation) - Test your website for cross browser compatibility on 2000+ real browsers & OS. Get Free Trial.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
-- [Aerokube Browsers](https://browsers.aerokube.com) - Lightning fast online Selenium testing platform with unlimited billing plans and reasonable pricing.
-- [Moon Cloud](https://aerokube.com/moon/#cloud) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
+- [Moon Cloud](https://aerokube.com/moon-cloud/) - Your dedicated Selenium cluster in public cloud platform with per-minute billing and unlimited number of browsers.
 - [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing, [This document](https://docs.mail7.io/tutorials/registration-and-login-automation-using-selenium-with-disposable-email) explains how to implement Mail7 with Selenium
+- [Thundra Foresight](https://www.thundra.io/foresight) - A visibility tool into your test suites by spotting test failures in no time.
 
 ### Device Farms
 
-- [OpenSTF](https://github.com/openstf/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
+- [OpenSTF](https://github.com/DeviceFarmer/stf) - A framework for running your own device farm, geared toward Android, but also iOS.
 
 ### Web Scraping / Mining
 
@@ -164,14 +159,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Specifications
 
-- [The WebDriver Wire Protocol](https://github.com/SeleniumHQ/selenium/wiki/JsonWireProtocol) - All implementations of WebDriver that communicate with the browser, or a RemoteWebDriver server shall use a common wire protocol.
+- [The WebDriver Wire Protocol](https://www.selenium.dev/documentation/legacy/json_wire_protocol/) - All implementations of WebDriver that communicate with the browser, or a RemoteWebDriver server shall use a common wire protocol.
 - [WebDriver](http://www.w3.org/TR/webdriver/) - This specification defines the WebDriver API, a platform and language-neutral interface and associated wire protocol that allows programs or scripts to introspect into, and control the behavior of, a web browser.
 
 ### Blogs
 
-- [Official Selenium Blog](https://seleniumhq.wordpress.com/) - The official blog by SeleniumHQ.
+- [Official Selenium Blog](https://www.selenium.dev/blog/) - The official blog by SeleniumHQ.
 - [Elemental Selenium](http://elementalselenium.com/) - A free, once-weekly e-mail on how to use Selenium like a Pro.
-- [Assert Selenium](http://www.assertselenium.com/) - Selenium Automation in a Right way - A Selenium only blog.
 - [SauceLabs Blog](https://saucelabs.com/blog) - Blog curated by SauceLabs.
 
 ## License

@@ -122,6 +122,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Abricotine](https://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [iA Writer](https://ia.net/writer) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ ![Android OS][android-os] ![iOS Logo][ios-logo] ![Mac OS X][macosx]
+- [Let's Markdown!](https://letsmarkdown.com) - An online real-time collaborative markdown editor built on Rust. ![Globe][globe]
 - [Markdownify](https://markdownify.js.org) - A minimal Markdown Editor desktop app. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [MarkRight](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Mark Text](https://github.com/marktext/marktext/) - Next generation Markdown editor (built with Electron). ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
@@ -137,6 +138,7 @@ _Please read the [contribution guidelines](https://github.com/BubuAnabelas/aweso
 - [Quiver](http://happenapps.com/) - A notebook built for programmers. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Bear](https://bear.app/) - A beautiful, flexible writing app for crafting notes and prose. ![Mac OS X][macosx] ![iOS Logo][ios-logo]
 - [Obsidian](https://obsidian.md/) - Notebook editor with Mermaid support ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
+- [Bangle.io](https://bangle.io/) - A Notion like note taking webapp where data is saved in Markdown format locally. ![Globe][globe]
 
 ### Linters
 

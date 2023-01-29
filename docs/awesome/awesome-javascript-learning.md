@@ -6,7 +6,7 @@
 
 This list is mainly about JavaScript - the language. Not about APIs, tooling, frameworks or other aspects of todays JavaScript ecosystem.
 
-*Please read the [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/.github/contributing.md) before contributing.*
 
 
 
@@ -14,11 +14,11 @@ This list is mainly about JavaScript - the language. Not about APIs, tooling, fr
 
 ## JavaScript References
 
-- [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the best language reference.
+- [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the most extensive and up to date language reference.
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
+- [JavaScript Notes & Reference](https://wesbos.com/javascript) - Detailed reference with code examples. Divided into topics covering basic and advanced subjects.
 - [Simplified JavaScript Jargon](http://jargon.js.org) - Glossary which explains all the buzzwords from the JavaScript eco system.
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
-- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Helps developers with basic knowledge to get familiar with modern codebases.
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
 
 ## Articles & Tutorials
@@ -61,6 +61,7 @@ Thin books which you can get through in a few days.
 - [The Principles of Object-Oriented JavaScript](https://www.nostarch.com/oojs) - Comprehensible, especially interesting for people with a class based OOP background.
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - Will solidify your understanding of the language.
 - [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A complete guide for JavaScript testing tools and techniques.
+- [The Joy of JavaScript](https://www.manning.com/books/the-joy-of-javascript) - A book covering advanced language features like Iterators and Generators.
 
 ## Blogs
 
@@ -74,7 +75,6 @@ Thin books which you can get through in a few days.
 - [What the heck is the event loop anyway?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - Awesome talk about the way JavaScript works, and a tool for exploring the callstack.
 - [Become a JavaScript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) - Introduction to the browsers JavaScript console.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - Learn state of the art in debugging using Chrome dev tools.
-- [JavaScript 30](https://javascript30.com) - 30 video tutorials to build neat little things with just plain JavaScript.
 <!--lint ignore no-dead-urls-->
 - [Promises Are So Passé](https://vimeo.com/181328943) - Talk that shows where async goes next, why it matters, and what you need to do to put it into practice today.
 - [Learning Functional Programming with JavaScript](https://www.youtube.com/watch?v=e-5obm1G_FY) - Talk containing the best explanation of map/reduce.
@@ -82,10 +82,10 @@ Thin books which you can get through in a few days.
 
 ## Interactive learning
 
-- [Codeacademy](https://www.codecademy.com/learn/javascript) - Fundamentals of JavaScript.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - They also offer more advanced courses.
 - [Code School](https://www.codeschool.com/learn/javascript) - From Basics to Best Practices. Different courses related to JavaScript.
 - [Functional programming](http://reactivex.io/learnrx/) - Learn basic principles of functional programming in an interactive way by using map, filter, concatAll, reduce and zip.
+- [JavaScript30](https://javascript30.com) - Video course with 30 small and self-contained tutorials to build neat little things with plain JavaScript.
 - [Learn JavaScript Online](https://learnjavascript.online) - Interactive JavaScript course with spaced repetiton flashcards app.
 - [Exercism JavaScript Track](https://exercism.io/tracks/javascript) - Exercism provides individual practice and mentor-based learning for free.
 
@@ -93,12 +93,11 @@ Thin books which you can get through in a few days.
 
 - [Exploring ES6](http://exploringjs.com/es6.html) - Good introduction with in-depth chapters.
 - [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) - Follow up of »Exploring ES6«.
-- [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
 - [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 - [30 seconds of code](https://github.com/Chalarangelo/30-seconds-of-code) - Useful ES6 snippets that you can understand in 30 seconds or less.
-- [What’s the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and Javascript.
+- [What's the difference between JavaScript and ECMAScript?](https://www.freecodecamp.org/news/whats-the-difference-between-javascript-and-ecmascript-cba48c73a2b5/) - Clears the confusion about ES6 and JavaScript.
 
 ## DOM related
 
@@ -118,9 +117,3 @@ Thin books which you can get through in a few days.
 ## Related
 
 [Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - An awesome list limited to the best CSS learning resources.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.

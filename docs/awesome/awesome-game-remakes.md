@@ -19,7 +19,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenTomb](https://github.com/opentomb/OpenTomb) - Original Tomb Raider 1-5 experience with contemporary updates, features and additions.
 - [re3](https://github.com/td512/re3) - Reversed source code for GTA III and GTA: Vice City.
 - [remc2](https://github.com/turican0/remc2) - Reverse engineering of Magic Carpet 2 from Assembler.
-- [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Mdern reimplementation of the classic DOS game Duke Nukem II in C++.
+- [Rigel Engine](https://github.com/lethal-guitar/RigelEngine) - Modern reimplementation of the classic DOS game Duke Nukem II in C++.
 - [San Andreas Unity](https://github.com/GTA-ASM/SanAndreasUnity) - Reimplementation of GTA: San Andreas game engine in Unity.
 - [TOMB5](https://github.com/TOMB5/TOMB5) - Tomb Raider: Chronicles disassembly translated to C source code.
 
@@ -34,6 +34,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8 player Bomberman clone for RetroArch/Libretro.
 - [OpenClonk](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
+- [OpenJazz](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.
 - [Open Kick-Off](https://github.com/ssenegas/kickoff) - Rewriting attempt of the cult football game Kick Off 2.
 - [OpenTyrian](https://github.com/opentyrian/opentyrian) - An open-source port of Tyrian from Turbo Pascal to C.
 - [Taisei](https://github.com/taisei-project/taisei) - Fan-made, open-source clone of the Touhou series.
@@ -42,6 +43,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## FPS
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
+- [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
@@ -51,7 +53,9 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port.
 - [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
 - [ezQuake](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
+- [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine.
 - [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine.
+- [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 - [GZDoom](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine.
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
@@ -66,15 +70,18 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 - [vkQuake](https://github.com/Novum/vkQuake) - Quake port using Vulkan instead of OpenGL for rendering.
+- [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
 ## Online
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - A 2006 Runescape Emulation Server.
+- [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape.
 - [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
+- [MineClone2](https://git.minetest.land/MineClone2/MineClone2) - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
 - [RuneLite](https://github.com/runelite/runelite) - Open source old school RuneScape client.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore) - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
-- [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at an Space Station 13 remake.
+- [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
 ## RPG
 - [Arx Libertatis](https://github.com/arx/ArxLibertatis) - Cross-platform port of Arx Fatalis, a first-person role-playing game.
@@ -92,6 +99,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 - [OpenGothic](https://github.com/Try/OpenGothic) - Reimplementation of Gothic 2: Night of the Raven.
 - [OpenMW](https://github.com/OpenMW/openmw) - Reimplementation of the Morrowind game engine.
+- [OpenNox](https://github.com/noxworld-dev/opennox) - Collaboration project extending the Nox engine.
 - [OpenTESArena](https://github.com/afritz1/OpenTESArena) - Modern engine reimplementation of The Elder Scrolls: Arena by Bethesda Softworks.
 - [OpenVIII](https://github.com/MaKiPL/OpenVIII) - Final Fantasy VIII engine implementation in C#.
 - [REGoth](https://github.com/REGoth-project/REGoth-bs) - An open source reimplementation of zEngine the engine behind Gothic and Gothic II.
@@ -119,6 +127,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
+- [Vange-rs](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 
 ## Simulator
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
@@ -156,8 +165,11 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Return To The Roots](https://github.com/Return-To-The-Roots/s25client) - Settlers II remake written in C++.
 - [Seven Kingdoms: Ancient Adversaries](https://github.com/the3dfxdude/7kaa) - GPL release of the Seven Kingdoms: Ancient Adversaries.
 - [Sourcehold](https://github.com/sourcehold/Sourcehold) - Implementation of Stronghold by Firefly Studios.
+- [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - A real-time strategy game made with LÖVE based on the original Stronghold by Firefly studios.
+- [VanillaConquer](https://github.com/TheAssemblyArmada/Vanilla-Conquer/) - Command and Conquer and Red Alert original release source port based on the remaster source code drop.
 - [VCMI](https://github.com/vcmi/vcmi) - Engine for Heroes of Might and Magic III.
 - [Warcraft Remake](https://github.com/b3dgs/warcraft-remake) - Java remake of Warcraft: Orcs & Humans.
 - [Wargus](https://github.com/Wargus/wargus) -  Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine.
 - [Warzone 2100](https://github.com/Warzone2100/warzone2100) - Free and open-source real time strategy game.
 - [Zed Online](https://sourceforge.net/projects/zedonline/) - Remake of the 1996 classic game Z.
+- [Stone Kingdoms](https://gitlab.com/stone-kingdoms/stone-kingdoms) - Real time strategy based on the original Stronghold by Firefly Studios.  

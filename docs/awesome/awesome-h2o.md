@@ -40,6 +40,7 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Books
 
+- [Big data in psychiatry and neurology, Chapter 11: A scalable medication intake monitoring system](https://www.elsevier.com/books/big-data-in-psychiatry-and-neurology/moustafa/978-0-12-822884-5) Diane Myung-Kyung Woodbridge and Kevin Bengtson Wong. (2021)
 - [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r) Rami Krispin. (2019)
 - [Mastering Machine Learning with Spark 2.x](https://www.packtpub.com/product/mastering-machine-learning-with-spark-2-x/9781785283451) Alex Tellez, Max Pumperla, Michal Malohlava. (2017)
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330) Karthik Ramasubramanian, Abhishek Singh. (2016)
@@ -52,6 +53,12 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 
 ## Research Papers
 
+- [Which model to choose? Performance comparison of statistical and machine learning models in predicting PM2.5 from high-resolution satellite aerosol optical depth](https://www.sciencedirect.com/science/article/abs/pii/S1352231022002291?dgcid=coauthor) Padmavati Kulkarnia, V.Sreekantha, Adithi R.Upadhyab, Hrishikesh ChandraGautama.  (2022)
+- [ Prospective validation of a transcriptomic severity classifier among patients with suspected acute infection and sepsis in the emergency department](https://pubmed.ncbi.nlm.nih.gov/35467566/) Noa Galtung, Eva Diehl-Wiesenecker, Dana Lehmann, Natallia Markmann, Wilma H Bergström, James Wacker, Oliver Liesenfeld, Michael Mayhew, Ljubomir Buturovic, Roland Luethy, Timothy E Sweeney , Rudolf Tauber, Kai Kappert, Rajan Somasundaram , Wolfgang Bauer. (2022)
+- [Depression Level Prediction in People with Parkinson’s Disease during the COVID-19 Pandemic](https://embc.embs.org/2021/)) Hashneet Kaur, Patrick Ka-Cheong Poon, Sophie Yuefei Wang, Diane Myung-kyung Woodbridge. (2021)
+- [Machine Learning-based Meal Detection Using Continuous Glucose Monitoring on Healthy Participants: An Objective Measure of Participant Compliance to Protocol](https://embc.embs.org/2021/) Victor Palacios, Diane Myung-kyung Woodbridge, Jean L. Fry. (2021)
+- [Maturity of gray matter structures and white matter connectomes, and their relationship with psychiatric symptoms in youth](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25565) Alex Luna, Joel Bernanke, Kakyeong Kim, Natalie Aw, Jordan D. Dworkin, Jiook Cha, Jonathan Posner (2021).
+- [Appendectomy during the COVID-19 pandemic in Italy: a multicenter ambispective cohort study by the Italian Society of Endoscopic Surgery and new technologies (the CRAC study)](https://pubmed.ncbi.nlm.nih.gov/34219197/) Alberto Sartori, Mauro Podda, Emanuele Botteri, Roberto Passera, Ferdinando Agresta, Alberto Arezzo. (2021) 
 - [Forecasting Canadian GDP Growth with Machine Learning](https://carleton.ca/economics/wp-content/uploads/cewp21-05.pdf) Shafiullah Qureshi, Ba Chu, Fanny S. Demers. (2021)
 - [Morphological traits of reef corals predict extinction risk but not conservation status](https://onlinelibrary.wiley.com/doi/10.1111/geb.13321) Nussaïbah B. Raja, Andreas Lauchstedt, John M. Pandolfi, Sun W. Kim, Ann F. Budd, Wolfgang Kiessling. (2021)
 - [Machine Learning as a Tool for Improved Housing Price Prediction](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/2739783/masterthesis.pdf?sequence=1) Henrik I W. Wolstad and Didrik Dewan. (2020)
@@ -116,6 +123,9 @@ If you think H2O is awesome too, please ⭐ the [H2O GitHub repository](https://
 - [splash R package](https://github.com/ML4LHS/splash): Splashing a User Interface onto H2O MOJO Files.  More info [here](https://twitter.com/kdpsinghlab/status/1367809740705792008).
 - [h2oparsnip R package](https://github.com/stevenpawley/h2oparsnip): Set of wrappers to bind h2o algorthms with the [parsnip](https://parsnip.tidymodels.org/) package.
 - [Spin up PySpark and PySparkling on AWS](https://github.com/kcrandall/EMR_Spark_Automation)
+- [Forecast the US demand for electricity](https://github.com/RamiKrispin/USelectricity): A real-time [dashboard](https://ramikrispin.github.io/USelectricity/) of the US electricity demand (forecast using H2O GLM)
+- [h2o3-pam](https://github.com/navdeep-G/h2o3-pam): Partition Around Mediods (PAM) clustering algorithm in H2O-3
+- [h2o3-gapstat](https://github.com/navdeep-G/h2o3-gapstat): Gap Statistic algorithm in H2O-3
 
 ## License
 

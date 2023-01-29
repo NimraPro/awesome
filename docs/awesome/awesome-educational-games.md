@@ -47,6 +47,7 @@
 
 ## Languages
 
+- [Drops](https://languagedrops.com/) - Learn useful words and phrases in a languge of your choosing, with fun gameplay.
 - [Duolingo](https://www.duolingo.com/) - Learn Spanish, French and other languages for free.
 
 ## Math & Computer Science
@@ -65,6 +66,7 @@
 ## Programming
 
 - [BOX-256](http://box-256.com/) - Program a fictional CPU with assembly to output graphics.
+- [Bashcrawl](https://gitlab.com/slackermedia/bashcrawl) - Learn Linux commands by playing a simple text adventure .
 - [Clips the Game](https://md5crypt.github.io/clipsgame/) - A demanding logic game based on the clips rule engine.
 - [Code Avengers](https://www.codeavengers.com/) - Learn to build websites, apps and games in a fun and effective way.
 - [Code School](https://www.pluralsight.com/codeschool ) - Learn to code in the comfort of your browser.
@@ -81,6 +83,7 @@
 - [RegexOne](https://regexone.com/lesson/introduction_abcs) - Learn Regular Expressions with simple, interactive exercises.
 - [ReturnTrue](https://alf.nu/ReturnTrue) - A game were you learn about booleans, return true to win.
 - [Screeps](https://screeps.com/) - The world's first MMO strategy sandbox game for programmers.
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - Solve a crime while practicing database skills.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) - Learn to code on your iPad in a seriously fun way.
 - [Untrusted](https://alexnisnevich.github.io/untrusted/) - Learn while playing a JavaScript adventure game.
 - [WarriorJS](https://github.com/olistic/warriorjs) - Using JavaScript, program a warrior to climb a tall tower, fight monsters and rescue captives.

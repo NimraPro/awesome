@@ -15,6 +15,7 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-chalice](https://github.com/alexpulver/cdk-chalice) - AWS CDK construct for AWS Chalice (Python Serverless Microframework for AWS).
 * [auto-cdk](https://github.com/wulfmann/auto-cdk) - Automatically generate api-gateway/lambda integrations with the filesystem (beta).
+* [crow-api](https://github.com/thomasstep/crow-api) - Create a serverless API with routes based on your file structure.
 
 ### Databases
 
@@ -36,7 +37,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-iam-floyd](https://github.com/udondan/iam-floyd) - IAM policy statement generator with fluent interface.
 * [k9-cdk](https://github.com/k9securityio/k9-cdk) - Construct to generate secure S3 bucket policies easily.
 * [cdk-cloudfront-authorization](https://github.com/cloudcomponents/cdk-constructs/tree/master/packages/cdk-cloudfront-authorization) - CloudFront with Cognito authentication using Lambda@Edge.
-
+* [aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
 ### Ops
 
 * [cdk-instanceStopRule](https://github.com/tecracer/cdk-constructs/tree/master/packages/cdk-instanceStopRule) - CDK component which creates an instance with a CloudWatch rule to stop it at the end of the day.
@@ -57,6 +58,7 @@ This section includes code libraries in various programming languages which vend
 
 * [cdk-watchful](https://github.com/eladb/cdk-watchful) - Automatic dashboards and alarms for CDK apps.
 * [aws-cdk-billing-alarm](https://github.com/alvyn279/aws-cdk-billing-alarm) - Construct that sets up email alerts for exceeding an amount on your AWS bill.
+* [cdk-monitoring-constructs](https://github.com/cdklabs/cdk-monitoring-constructs) - Use high-level APIs to create monitoring for your AWS apps. Generates dashboards automatically.
 
 ### Workflows
 
@@ -69,6 +71,7 @@ This section includes code libraries in various programming languages which vend
 
 ### Multi-accounts setup
 * [aws-bootstrap-kit](https://github.com/awslabs/aws-bootstrap-kit) - Creates a multi-account set-up with AWS Organization, AWS SSO, DNS, and AWS CodePipeline.
+* [cdk-organizations](https://github.com/pepperize/cdk-organizations) - CDK constructs that helps to provision AWS Organization, Organizational Units (OU), Accounts and Policies.
 
 ## High-Level Frameworks
 
@@ -77,6 +80,7 @@ This section includes code libraries in various programming languages which vend
 * [cdk-stepfunctions-patterns](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 * [Orkestra](https://github.com/knowsuchagency/orkestra) - An event-driven alternative to Airflow built on the AWS CDK and Step Functions.
 * [SST](https://github.com/serverless-stack/serverless-stack) - An open source framework for building serverless applications with CDK. It features a Live Lambda Development environment, to test and debug Lambda functions locally without having to redeploy them.
+* [Datajob](https://github.com/vincentclaes/datajob) - Build and deploy a serverless data pipeline or machine learning pipeline on AWS with no effort. 
 
 ## Scaffolding
 
@@ -160,12 +164,14 @@ This section includes code libraries in various programming languages which vend
 * [Coding the Jamstack missing parts: databases, crons & background jobs](https://dev.to/vvo/coding-the-jamstack-missing-parts-databases-crons-background-jobs-1bpj) - By Vincent Voyer.
 * [AWS CDK Continuous Integration and Delivery Using Travis CI](https://medium.com/better-programming/aws-cdk-continuous-integration-and-delivery-using-travis-ci-ee5dd7549434) - By Thomas Poignant.
 * [Custom Resources with AWS CDK](https://medium.com/cyberark-engineering/custom-resources-with-aws-cdk-d9a8fad6b673?source=friends_link&sk=549fcf9d998bbea304bdd8d834aca9e6) - By Roy Ben-Yosef.
+* [Recommended AWS CDK project structure for Python applications](https://aws.amazon.com/blogs/developer/recommended-aws-cdk-project-structure-for-python-applications/) - By Alex Pulver.
 
 ## Related Projects
 
 * [jsii](https://github.com/awslabs/jsii) - JavaScript interop interface, the technology that CDK uses to create language bindings (currently supports .NET, Java and Python).
 * [cdk8s](https://github.com/awslabs/cdk8s/) - Define Kubernetes native apps and abstractions using object-oriented programming.
 * [cdktf](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform.
+* [cdktg](https://github.com/hupe1980/cdk-threagile) - Agile Threat Modeling as Code.
 
 ## Tips & Tricks
 

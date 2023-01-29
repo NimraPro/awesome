@@ -24,7 +24,9 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 - [examples/rclpy](https://github.com/ros2/examples/tree/master/rclpy) - Python examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 - [rcljava_examples](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - Package containing examples of how to use the rcljava API. ![ros2_java_examples](https://img.shields.io/github/stars/esteve/ros2_java_examples.svg)
-- [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings. ![ros2_android_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)
+- [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - Example Android apps for the ROS2 Java bindings. ![ros2_android_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)  
+- [zed-ros2-examples](https://github.com/stereolabs/zed-ros2-examples) - Examples and tutorials use the ZED cameras in the ROS2. ![zed_ros2_example](https://img.shields.io/github/stars/stereolabs/zed-ros2-examples.svg)  
+- [realsense-ros:ros2-branch](https://github.com/IntelRealSense/realsense-ros/tree/ros2) - ROS2 Wrapper for Intel® RealSense™ Devices ![realsense-ros](https://img.shields.io/github/stars/IntelRealSense/realsense-ros.svg)  
 
 ### Benchmarking
 
@@ -37,21 +39,30 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - Dockerfiles for building ros2_java with OpenJDK and Android. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker) - Docker-related material to setup, configure and develop with micro-ROS hardware.
 - [ros-tooling/cross_compile](https://github.com/ros-tooling/cross_compile) - Cross compile ROS and ROS 2 workspaces to non-native architectures and generate corresponding Docker images.
+- [ros2-docker](https://husarnet.com/blog/ros2-docker) - Connecting ROS 2 nodes running in Docker containers over the internet.
+- [osrf/docker_images](https://github.com/osrf/docker_images) - Dockerfiles of [Official Library on Docker Hub](https://hub.docker.com/_/ros) and [OSRF Organization on Docker Hub](https://hub.docker.com/r/osrf/ros). ![osrf/ros](https://img.shields.io/github/stars/osrf/docker_images.svg)
+- [docker-ros2-desktop-vnc](https://github.com/Tiryoh/docker-ros2-desktop-vnc) - Dockerfiles to provide HTML5 VNC interface to access Ubuntu LXDE + ROS2. ![docker-ros2-desktop-vnc](https://img.shields.io/github/stars/Tiryoh/docker-ros2-desktop-vnc.svg)
+- [ros2-lxd](https://ubuntu.com/blog/install-ros-2-humble-in-ubuntu-20-04-or-18-04-using-lxd-containers) - Install ROS 2 Humble in Ubuntu 20.04 or 18.04 using LXD containers.
+
+### Networking
+
+- [Husarnet VPN](https://github.com/husarnet/husarnet) - A P2P, secure network layer dedicated for ROS & ROS 2. ![husarnet](https://img.shields.io/github/stars/husarnet/husarnet.svg)
 
 ### Ecosystem
 
 - [Link ROS](https://www.freedomrobotics.ai/blog/link-ros-cloud-logging-for-ros) - Cloud Logging for ROS 1 and ROS 2.
 - [rosbag2](https://github.com/ros2/rosbag2) - ROS2 native rosbag. ![rosbag2](https://img.shields.io/github/stars/ros2/rosbag2.svg)
 - [rviz](https://github.com/ros2/rviz) - 3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
-- [urdfdom](https://github.com/ros2/urdfdom) - URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser ![urdfdom](https://img.shields.io/github/stars/ros2/urdfdom.svg)
-- [urdfdom_headers](https://github.com/ros2/urdfdom_headers) - Headers for URDF parsers. ![urdfdom_headers](https://img.shields.io/github/stars/ros2/urdfdom_headers.svg)
+- [urdfdom](https://github.com/ros/urdfdom) - URDF (U-Robot Description Format) library which provides core data structures and a simple XML parser ![urdfdom](https://img.shields.io/github/stars/ros/urdfdom.svg)
+- [urdfdom_headers](https://github.com/ros/urdfdom_headers) - Headers for URDF parsers. ![urdfdom_headers](https://img.shields.io/github/stars/ros/urdfdom_headers.svg)
 - [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) - Orocos Kinematics and Dynamics C++ library. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - Simple DDS Python API for Vortex Lite and for OpenSplice. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 - [Webots](https://cyberbotics.com) - Robot simulator for ROS 2. ![webots](https://img.shields.io/github/stars/cyberbotics/webots.svg)
 - [LGSVL](https://www.lgsvlsimulator.com/) - Simulation software to accelerate safe autonomous vehicle development.
 - [Unity Robotics Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub) - This is a central repository for tools, tutorials, resources, and documentation for robotic simulation in Unity.
-- [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics (support for ROS 2 coming soon).
+- [Foxglove Studio](https://github.com/foxglove/studio) - Integrated visualization and diagnosis tool for robotics. ![foxglove studio](https://img.shields.io/github/stars/foxglove/studio.svg)
+- [ROS2 For Unity](https://github.com/RobotecAI/ros2-for-unity) - An asset package which enables high-performance communication between Unity3D simulations and ROS2 ecosystem. ![ros2-for-unity](https://img.shields.io/github/stars/RobotecAI/ros2-for-unity.svg)
 
 ### Interactivity
 
@@ -95,9 +106,12 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) - ros2_message_filters blends various messages based on the conditions that filter needs to met and derives from ROS2 porting of ROS message_filters. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) - ROS2 nodes for computer vision tasks in PyTorch ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
+- [ros2_pytorch_cuda](https://github.com/slabban/ros2_pytorch_cuda) - Extension of [ros2_pytorch](https://github.com/klintan/ros2_pytorch) for CUDA devices with containerization.
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) - A PID controller for ROS2. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) - System modes for ROS 2 and micro-ROS.
 - [darknet_ros](https://github.com/leggedrobotics/darknet_ros/tree/ros2) - ROS2 wrapper for deploying Darknet's YOLO Computer Vision model.
+- [easy_perception_deployment](https://github.com/ros-industrial/easy_perception_deployment) - Package that accelerates training and deployment of Computer Vision models for industries. ![easy_perception_deployment](https://img.shields.io/github/stars/ros-industrial/easy_perception_deployment.svg)
+- [easy_manipulation_deployment](https://github.com/ros-industrial/easy_manipulation_deployment) - Package that integrates perception elements to establish an end-to-end pick and place task. ![easy_manipulation_deployment](https://img.shields.io/github/stars/ros-industrial/easy_manipulation_deployment.svg)
 
 ### Middleware
 
@@ -115,6 +129,8 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) - This project enables ROS2 to run on microcontrollers using the RIOT Operating System. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
 - [ROS2-Integration-Service](https://github.com/eProsima/ROS2-Integration-Service) - ROS2 Integration and Routing which provides a complete tool to integrate other technologies with ROS2 easily and enable ROS2 on WAN/Internet.
 - [soss](https://github.com/osrf/soss) - The System Of Systems Synthesizer is used to integrate ROS2 via ROS2-Integration-Service with other (communication) systems.
+- [micro_ros_arduino](https://github.com/micro-ROS/micro_ros_arduino) - Integration of micro-ROS into Arduino software platform projects.
+- [micro_ros_zephyr_module](https://github.com/micro-ROS/micro_ros_zephyr_module) - Integration of micro-ROS in Zeyphr OS based projects.
 
 ### Driver layer
 
@@ -147,6 +163,9 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [ros2_ouster_drivers](https://github.com/SteveMacenski/ros2_ouster_drivers) - ROS2 Drivers for the Ouster OS-1 Lidars. ![ros2_ouster_drivers](https://img.shields.io/github/stars/SteveMacenski/ros2_ouster_drivers)
 - [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - Information and documentation about the hardware platforms used and supported in the micro-ROS project.
 - [Blickfeld Cube 1 & Cube Range](https://docs.blickfeld.com/cube/latest/external/ros/driver-v2/README.html) - ROS2 drivers for Blickfeld Cube 1 & Cube Range.
+- [Universal Robots](https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver) - ROS2 drivers for UR CB3 and e-Series.
+- [odrive_ros2_control](https://github.com/Factor-Robotics/odrive_ros2_control) - ODrive driver for ros2_control.
+- [duro_gps_driver](https://github.com/szenergy/duro_gps_driver) - ROS/ROS2 driver for SwiftNav Duro Inertial GPS / GNSS receivers ![duro_gps_driver](https://img.shields.io/github/stars/szenergy/duro_gps_driver.svg)
 
 ### Client libraries
 
@@ -160,6 +179,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rclc](https://github.com/ros2/rclc) - ROS Client Library for C. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
 - [ros2_rust](https://github.com/ros2-rust/ros2_rust) - Rust bindings for ROS2. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
 - [ros2_dotnet](https://github.com/esteve/ros2_dotnet) - .NET bindings for ROS2. ![ros2_dotnet](https://img.shields.io/github/stars/esteve/ros2_dotnet.svg)
+- [ros2cs](https://github.com/RobotecAI/ros2cs) - an alternative to ros2_dotnet, a ROS2 C# interface supporting full range of messages and modern ROS2. ![ros2cs](https://img.shields.io/github/stars/RobotecAI/ros2cs.svg)
 
 ### Client libraries common
 
@@ -185,11 +205,11 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [rmw_opensplice_cpp](https://github.com/ros2/rmw_opensplice/tree/master/rmw_opensplice_cpp) - Implement the ROS middleware interface using PrismTech OpenSplice static code generation in C++. ![rmw_opensplice_cpp](https://img.shields.io/github/stars/ros2/rmw_opensplice.svg)
 - [rmw_coredx](https://github.com/tocinc/rmw_coredx) - CoreDX DDS integration layer for ROS2. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/tocinc/rmw_coredx.svg)
 - [rmw_freertps](https://github.com/ros2/rmw_freertps) - RMW implementation using freertps. ![tocinc/rmw_coredx](https://img.shields.io/github/stars/ros2/rmw_freertps.svg)
-- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - RMW implementation using Eclipse zenoh: Zero Overhead Pub/sub, Store/Query and Compute. ![esteve/rmw_zenoh](https://img.shields.io/github/stars/esteve/rmw_zenoh.svg)
+- [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - RMW implementation using Eclipse zenoh: Zero Overhead Pub/sub, Store/Query and Compute. ![atolab/rmw_zenoh](https://img.shields.io/github/stars/atolab/rmw_zenoh.svg)
 - [rcutils](https://github.com/ros2/rcutils) - Common C functions and data structures used in ROS 2. ![rmw](https://img.shields.io/github/stars/ros2/rcutils.svg)
 - [freertps](https://github.com/ros2/freertps) - a free, portable, minimalist, work-in-progress RTPS implementation. ![rmw](https://img.shields.io/github/stars/ros2/freertps.svg)
 - [rmw_cyclonedds](https://github.com/atolab/rmw_cyclonedds) - ROS2 RMW layer for Eclipse Cyclone DDS. ![rmw_cyclonedds](https://img.shields.io/github/stars/atolab/rmw_cyclonedds.svg)
-- [rmw_zenoh](https://github.com/esteve/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
+- [rmw_zenoh](https://github.com/atolab/rmw_zenoh) - ROS2 RMW layer for [zenoh](https://zenoh.io).
 - [rmw_iceoryx](https://github.com/ros2/rmw_iceoryx) - Enables usage of the inter-process-communication middleware [Eclipse iceoryx](https://iceoryx.io).
 
 ### DDS communication mechanism implementations
@@ -219,10 +239,15 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
 - [RIOT](https://github.com/RIOT-OS/RIOT) - RIOT is a real-time multi-threading operating system (...,) real-time capabilities, small memory footprint, (...) API offers partial POSIX compliance.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - POSIX-compliant real-time OS for many-core processors expected to support AUTOSAR in the future.
 - [PYNQ](http://www.pynq.io/) - Python-based rapid prototyping of high performance ML applications running on XILINX FPGAs.
+- [ReconROS](https://github.com/Lien182/ReconROS) - Framework for ROS2 FPGA-based hardware acceleration. Based on [ReconOS](https://github.com/reconos/reconos). ![ReconROS](https://img.shields.io/github/stars/Lien182/ReconROS.svg)
 - [Ubuntu Core](https://ubuntu.com/core) - Build secure IoT devices with Ubuntu Core.
 - [Ubuntu Server](https://ubuntu.com/server)
 - [VxWorks](https://github.com/Wind-River/vxworks7-ros2-build) - The Secure, Safe, Reliable, and Certifiable real-time OS for Critical Infrastructure
 - [Zephyr](https://www.zephyrproject.org/) - Linux Foundation Projects RTOS aiming at beeing secure and safe.
+
+## Packaging
+
+- [ros2-snap](https://snapcraft.io/docs/ros2-applications) - Create a snap for your ROS 2 application.
 
 ## Forks
 
@@ -246,6 +271,7 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) - Status of ROS2 Ardent packages.
 - [ROS2 Buildfarm](http://build.ros2.org) - Build information (Jenkins build farm).
 - [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) - A cheats sheet for ROS 2 Command Line Interface.
+- [ROS2 Quality Assurance Guidelines](https://github.com/ros-industrial/ros2_quality_assurance_guidelines) - A collection of guidelines and tutorials for improving package quality, following REP-2004 quality standards and integrating Continuous Integration.
 
 ## Community
 
@@ -277,8 +303,52 @@ The Robot Operating System 2 (ROS 2) is a set of software libraries and tools th
   - [Autoware Course Lecture 10: State Estimation for Localization](https://www.youtube.com/watch?v=g2YURb-d9vY)
   - [Autoware Course Lecture 11: LGSVL Simulator](https://www.youtube.com/watch?v=OcB6FUbjZXo)
   - [Autoware Course Lecture 12: Motion Control](https://www.youtube.com/watch?v=fQJpAVRQBrI)
+- [ROS2-Industrial training material](https://github.com/ros-industrial/ros2_i_training)
 
 ## Presentations
+
+### ROSCon 2022
+
+[Program announcement](https://roscon.ros.org/2022/#program)(slides + videos)
+- Panel: The ROS 2 Developer Experience [video](https://vimeo.com/showcase/9954564/video/767155188)
+- Wearable ROS: Development of wearable robot system using ROS 2 [video](https://vimeo.com/showcase/9954564/video/767140298) [slides](http://download.ros.org/downloads/roscon/2022/Wearable%20ROS%20Development%20of%20wearable%20robot%20system%20using%20ROS2.pdf)
+- Building ROS 2 enabled Android apps with C++ [video](https://vimeo.com/showcase/9954564/video/767161955) [slides](http://download.ros.org/downloads/roscon/2022/Building%20ROS%202%20enabled%20Android%20apps%20with%20C++.pdf)
+- Distributed Robotics Simulator with Unreal Engine [video](https://vimeo.com/showcase/9954564/video/767139975) [slides](http://download.ros.org/downloads/roscon/2022/Distributed%20Robotics%20Simulator%20with%20Unreal%20Engine.pdf)
+- Tools and processes for improving the certifiability of ROS 2 [video](https://vimeo.com/showcase/9954564/video/767150613) [slides](http://download.ros.org/downloads/roscon/2022/Tools%20and%20processes%20for%20improving%20the%20certifiability%20of%20ROS%202.pdf)
+- Failover ROS Framework : Consensus-based node redundancy [video](https://vimeo.com/showcase/9954564/video/767156308) [slides](http://download.ros.org/downloads/roscon/2022/Failover%20ROS%20Framework%20Consensus-based%20node%20redundancy.pdf)
+- ROS 2 and Gazebo Integration Best Practices [video](https://vimeo.com/showcase/9954564/video/767127300) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20and%20Gazebo%20Integration%20Best%20Practices.pdf)
+- Chain-Aware ROS Evaluation Tool (CARET) [video](https://vimeo.com/showcase/9954564/video/767150288) [slides](http://download.ros.org/downloads/roscon/2022/Chain-Aware%20ROS%20Evaluation%20Tool%20(CARET).pdf)
+- ROS 2 network monitoring [video](https://vimeo.com/showcase/9954564/video/767140681) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20network%20monitoring.pdf)
+- How custom tasks are defined, assigned, and executed in Open-RMF [video](https://vimeo.com/showcase/9954564/video/767157210) [slides](http://download.ros.org/downloads/roscon/2022/How%20custom%20tasks%20are%20defined,%20assigned,%20and%20executed%20in%20Open-RMF.pdf)
+- A practitioner's guide to ros2_control [video](https://vimeo.com/showcase/9954564/video/767139648) [slides](http://download.ros.org/downloads/roscon/2022/A%20practitioner_s%20guide%20to%20ros2_control.pdf)
+- Zenoh: How to Make ROS 2 Work at any Scale and Integrate with Anything [video](https://vimeo.com/769972405) [slides](http://download.ros.org/downloads/roscon/2022/Zenoh%20How%20to%20Make%20ROS2%20Work%20at%20any%20Scale%20and%20Integrate%20with%20Anything.pdf)
+- A case study in optics manufacturing with MoveIt2 and ros2_control [video](https://vimeo.com/showcase/9954564/video/767140351) [slides](http://download.ros.org/downloads/roscon/2022/A%20case%20study%20in%20optics%20manufacturing%20with%20MoveIt2%20and%20ros2_control.pdf)
+- 20/20 Robot Vision - How to setup cameras in ROS 1 & ROS 2 using camera_aravis [video](https://vimeo.com/showcase/9954564/video/767140329) [slides](http://download.ros.org/downloads/roscon/2022/20%20-%2020%20Robot%20Vision%20-%20How%20to%20setup%20cameras%20in%20ROS%201%20&%20ROS%202%20using%20camera_aravis.pdf)
+- Filter your ROS 2 content [video](https://vimeo.com/767166447) [slides](http://download.ros.org/downloads/roscon/2022/Filter%20your%20ROS%202%20content.pdf)
+- Evolving Message Types, and Other Interfaces, Over Time [video](https://vimeo.com/showcase/9954564/video/767140015) [slides](http://download.ros.org/downloads/roscon/2022/Evolving%20Message%20Types,%20and%20Other%20Interfaces,%20Over%20Time.pdf)
+- Migrating from ROS1 to ROS 2 - choosing the right bridge [video](https://vimeo.com/showcase/9954564/video/767140113) [slides](http://download.ros.org/downloads/roscon/2022/Migrating%20from%20ROS1%20to%20ROS2%20-%20choosing%20the%20right%20bridge.pdf)
+- On Use of Nav2 Smac Planners [video](https://vimeo.com/showcase/9954564/video/767157646) [slides](http://download.ros.org/downloads/roscon/2022/On%20Use%20of%20Nav2%20Smac%20Planners.pdf)
+- Bazel and ROS 2 – building large scale safety applications [video](https://vimeo.com/showcase/9954564/video/767139879) [slides](http://download.ros.org/downloads/roscon/2022/Bazel%20and%20ROS%202%20%E2%80%93%20building%20large%20scale%20safety%20applications.pdf)
+- Native Rust components for ROS 2 [video](https://vimeo.com/showcase/9954564/video/767140150) [slides](http://download.ros.org/downloads/roscon/2022/Native%20Rust%20components%20for%20ROS2.pdf)
+- The ROS build farm and you: How ROS packages you release become binary packages. [video](https://vimeo.com/showcase/9954564/video/767169376) [slides](http://download.ros.org/downloads/roscon/2022/The%20ROS%20build%20farm%20and%20you%20How%20ROS%20packages%20you%20release%20become%20binary%20packages.pdf)
+- mROS 2: yet another runtime environment onto embedded devices [video](https://vimeo.com/showcase/9954564/video/767150435) [slides](http://download.ros.org/downloads/roscon/2022/mROS%202%20yet%20another%20runtime%20environment%20onto%20embedded%20devices.pdf)
+- ROS 2 & Edge Impulse: Embedded AI in robotics applications [video](https://vimeo.com/showcase/9954564/video/767140724) [slides](http://download.ros.org/downloads/roscon/2022/ROS2%20_%20Edge%20Impulse%20Embedded%20AI%20in%20robotics%20applications.pdf)
+- micro-ROS goes Automotive: supporting AUTOSAR-based microcontrollers [video](https://vimeo.com/769963507) [slides](http://download.ros.org/downloads/roscon/2022/micro-ROS%20goes%20Automotive%20supporting%20AUTOSAR-based%20microcontrollers.pdf)
+- An open architecture for Hardware Acceleration in ROS 2 [video](https://vimeo.com/769967795) [slides](http://download.ros.org/downloads/roscon/2022/An%20open%20architecture%20for%20Hardware%20Acceleration%20in%20ROS%202.pdf)
+- ROS 2 and the Crazyflie: Aerial swarms and Autonomy with a tiny flying robot [video](https://vimeo.com/showcase/9954564/video/767140197) [slides](http://download.ros.org/downloads/roscon/2022/ROS%202%20and%20the%20Crazyflie%20Aerial%20swarms%20and%20Autonomy%20with%20a%20tiny%20flying%20robot.pdf)
+- A Raspberry Pi image with ROS 2 + RT and a customizable image builder [video](https://vimeo.com/showcase/9954564/video/767139709) [slides](http://download.ros.org/downloads/roscon/2022/A%20Raspberry%20Pi%20image%20with%20ROS%202%20%2B%20RT%20and%20a%20customizable%20image%20builder.pdf)
+
+### ROSCon 2021
+
+[Program announcement](https://roscon.ros.org/world/2021/#program)(slides + videos)
+
+### ROSCon Jp 2021
+
+[Program announcement](https://roscon.ros.org/jp/2021/#program)(slides + videos)
+
+### ROSCon 2020
+
+[Program announcement](https://roscon.ros.org/world/2020/#program)(slides + videos)
 
 ### ROSCon 2019
 
@@ -381,6 +451,10 @@ DDS Security.
 
 ## Services
 
+### Cloud robotics
+
+- [robolaunch](https://www.robolaunch.io/)
+
 ### Robotics Capture the Flag (RCTF)
 
 - [rctf-list](https://github.com/aliasrobotics/RCTF) - A list of Robotics CTF (RCTF) scenarios.
@@ -400,6 +474,7 @@ DDS Security.
 - [FARobot](https://www.farobottech.com/) - Swarm Robot System, a ROS 2/DDS based Fleet Management System.
 - [Fraunhofer Institute for Manufacturing Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en/expertise/robot-and-assistive-systems.html) - Robot and assistive systems.
 - [GESTALT ROBOTICS](https://www.gestalt-robotics.com/en/home) - Service provider for intelligent automation.
+- [Husarnet](https://husarnet.com) - Open Source, P2P, low-latency VPN dedicated for robots.
 - [iRobot](https://www.irobot.de/) - Manufacturer of vacuuming and mopping robots.
 - [Klepsydra Technologies](https://www.klepsydra.com/).
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) - ROS Toolbox.
@@ -421,6 +496,8 @@ DDS Security.
   - [Discourse threads tagged "wg-edgeai"](https://discourse.ros.org/tag/wg-edgeai)
 - Embedded Working Group
   - [Discourse threads tagged "wg-embedded"](https://discourse.ros.org/tags/wg-embedded)
+- Hardware Acceleration Working Group
+  - [Discourse threads tagged "wg-acceleration"](https://discourse.ros.org/tag/wg-acceleration)
 - Navigation Working Group
   - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
 - Safety Working Group

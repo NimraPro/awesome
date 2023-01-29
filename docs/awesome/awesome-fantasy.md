@@ -70,6 +70,21 @@ The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion
 >
 > The earliest versions of this story by J.R.R. Tolkien go back to the end of the First World War and the years that followed; but long afterwards, when The Lord of the Rings was finished, he wrote it anew and greatly enlarged it in complexities of motive and character: it became the dominant story in his later work on Middle-earth. But he could not bring it to a final and finished form. In this book Christopher Tolkien has constructed, after long study of the manuscripts, a coherent narrative without any editorial invention.
 
+#### [Codex Alera](https://www.goodreads.com/series/45545-codex-alera) (2005) _by [Jim Butcher](https://en.wikipedia.org/wiki/Jim_Butcher)_ [4.28] 🔥
+
+A great series that is a little different from your typical epic fantasy. In this world, everyone has powers, or elemental furies attached to them, except for Tavi, the main character. - [@cary-williams](https://github.com/cary-williams)
+
+Books:
+
+1. [Furies of Calderon](https://www.goodreads.com/book/show/29396.Furies_of_Calderon) [4.10] 🔥
+2. [Academ's Fury](https://www.goodreads.com/book/show/133664.Academ_s_Fury) [4.22]
+3. [Cursor's Fury](https://www.goodreads.com/book/show/29394.Cursor_s_Fury) [4.31]
+4. [Captain's Fury](https://www.goodreads.com/book/show/346087.Captain_s_Fury) [4.31]
+5. [Princeps' Fury](https://www.goodreads.com/book/show/2903736-princeps-fury) [4.37]
+6. [First Lord's Fury](https://www.goodreads.com/book/show/6316821-first-lord-s-fury) [4.39]
+
+> Welcome to the Realm of Alera, traveler. Written by the #1 New York Times bestselling author Jim Butcher, the Codex Alera follows the adventures—and misadventures!—of a young man, Tavi of Calderon. In a land where everyone has access to great powers called furies, being the only one without a fury to his name can be tricky, but Tavi proves time and time again that it is not all about your furies.
+
 #### [Deltora Quest Series](https://www.goodreads.com/series/41221-deltora-quest) (2000) _by [Emily Rodda](https://www.goodreads.com/author/show/3995.Emily_Rodda)_ [3.98]
 
 My favorite book series and one of the best series I've ever read. The books are exceptionally well written, easy and fast to read. Great for readers in the 12 to 15 age group, but it can also catch the eye of older readers, just like mine. I'm look forward to reading your sequels: Deltora Shadowlands and Dragons of Deltora. - [@AmandaPita] (https://github.com/AmandaPita)
@@ -110,6 +125,15 @@ Books:
 - [Tehanu: The Last Book of Earthsea](https://www.goodreads.com/book/show/13661.Tehanu) [3.8]
 - [Tales from Earthsea](https://www.goodreads.com/book/show/13659.Tales_from_Earthsea) [4.0]
 - [The Other Wind](https://www.goodreads.com/book/show/13658.The_Other_Wind) [4.0]
+
+#### [Elantris](https://www.goodreads.com/book/show/68427.Elantris) (2005) _by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)_ [4.17] 🔥
+
+This is a beautiful but somewhat slow paced book with really good world building that we have come to expect and love from Brandon Sanderson. If you are not sure to read it because it's his first book, have no fear!!! Go ahead and read it, I can assure you, you will not regret it. - [@Shadeslayer234](https://github.com/Shadeslayer234)
+
+> Elantris was the capital of Arelon: gigantic, beautiful, literally radiant, filled with benevolent beings who used their powerful magical abilities for the benefit of all. Yet each of these demigods was once an ordinary person until touched by the mysterious transforming power of the Shaod. Ten years ago, without warning, the magic failed. Elantrians became wizened, leper-like, powerless creatures, and Elantris itself dark, filthy, and crumbling.
+> Arelon's new capital, Kae, crouches in the shadow of Elantris. Princess Sarene of Teod arrives for a marriage of state with Crown Prince Raoden, hoping—based on their correspondence—to also find love. She finds instead that Raoden has died and she is considered his widow. Both Teod and Arelon are under threat as the last remaining holdouts against the imperial ambitions of the ruthless religious fanatics of Fjordell. So Sarene decides to use her new status to counter the machinations of Hrathen, a Fjordell high priest who has come to Kae to convert Arelon and claim it for his emperor and his god.
+> But neither Sarene nor Hrathen suspect the truth about Prince Raoden. Stricken by the same curse that ruined Elantris, Raoden was secretly exiled by his father to the dark city. His struggle to help the wretches trapped there begins a series of events that will bring hope to Arelon, and perhaps reveal the secret of Elantris itself.
+> A rare epic fantasy that doesn't recycle the classics and that is a complete and satisfying story in one volume, Elantris is fleet and fun, full of surprises and characters to care about. It's also the wonderful debut of a welcome new star in the constellation of fantasy.
 
 #### [Harry Potter](https://en.wikipedia.org/wiki/Harry_Potter) _by [J.K. Rowling](https://en.wikipedia.org/wiki/J._K._Rowling)_
 
@@ -212,6 +236,20 @@ Like most high fantasy, I didn't so much read these books as devour them. The se
 There is so much good writing, so many beautiful places, that it is almost impossible to remember it all. Reading this book wasn't so much reading as being transported to faery for a day. I remember feeling totally at a loss after reading one afternoon, as if I had been transported; the next day, on top of a mountain, I had the exact same feeling, that I was somewhere else. Reading these books gave me the greatest joy that a book can give - being lost in another world. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Roger Zelazny's chronicles of Amber have earned their place as all-time classics of imaginative literature. Now, here are all ten novels, together in one magnificent omnibus volume. Witness the titanic battle for supremacy waged on Earth, in the Courts of Chaos, and on a magical world of mystery, adventure and romance.
+
+#### [The Daevabad Trilogy](https://www.goodreads.com/series/211584-the-daevabad-trilogy) 2017 _by[S. A. Chakraborty](https://en.wikipedia.org/wiki/S._A._Chakraborty)_[4.3]
+
+This series is sumptuous. It follows Nahri as she leaves her hum-drum life in Egypt for a life of adventure, danger, and romance. It all starts when she plays with magic she doesn't understand and ends up summoning a djinn. This is truly an epic work as it spans three books, the final volume weighing in at nearly 800 pages. The world building is wonderful and reading a fantasy based on eastern magic and mythology was a welcome change for me among so many fantasies that seem more European-based. I looked forward to both sequels as they came out and finished reading the final installment without even realizing I had read over 700 pages because I read it on a Kindle! 
+
+One of my favorite parts of the books was the unique perspective brought by each of the characters. Although the story starts off with Nahri and I would call her THE main character, it is written with other views as well. Each character had a distinctive voice. I find this to be a sprawling story in the best sense. - [@novemberhaiku](https://github.com/novemberhaiku)
+
+Books:
+
+-[The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
+-[The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
+-[The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
+
+>In the Daevabad Trilogy, S. A. Chakraborty builds an astounding world full of magic and conflict. Nahri begins as a grifter in Egypt, but accidentally summons a djinn who unwillingly introduces her to a world of magic and the city he once called home. Its history is dark and its future uncertain as Nahri discovers who she really is and how she can change the world of the djinn.
 
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) _by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)_ [4.3]
 
@@ -519,6 +557,12 @@ This book inspired me at the age of 14 to get a tattoo I ended up getting 7 year
 
 > Princess Irene's great-grandmother has a testing task for Curdie. He will not go alone though, as she provides him with a companion -- the oddest and ugliest creature Curdie has ever seen, but one who turns out to be the most loyal friend he could have hoped for.
 
+#### [The Darkest Part of the Forest](https://www.goodreads.com/book/show/20958632-the-darkest-part-of-the-forest) (2015) _by [Holly Black](https://en.wikipedia.org/wiki/Holly_Black)_ [3.85]
+
+I read this book in high school and I loved how the book was able to merge the fantasy elements with relatable storylines aimed towards teenagers. - [@jilloestreicher](https://github.com/jilloestreicher)
+
+> Hazel lives with her brother, Ben, in the strange town of Fairfold where humans and fae exist side by side. The faeries’ seemingly harmless magic attracts tourists, but Hazel knows how dangerous they can be, and she knows how to stop them. Or she did, once. As the world turns upside down, Hazel tries to remember her years pretending to be a knight. But swept up in new love, shifting loyalties, and the fresh sting of betrayal, will it be enough?
+
 #### [The Gentleman Bastards Series](https://www.goodreads.com/series/43531-gentleman-bastard) (2006) _by [Scott Lynch](https://en.wikipedia.org/wiki/Scott_Lynch)_ [4.25]
 
 This series has an ingenious narrative, set in a world of intrigue, blades in the night, camaraderie between brothers, bloodthirsty monarchs, tight-fisted crime lords, and honor amongst thieves. The Gentleman Bastards will keep you guessing, and as soon as you think you understand what's happening, they'll steal the floor out from under you and leave you dangling off the side of an Elderglass tower. If you like rogues, heists, magic, or deception, this series will keep you guessing until the last page, and after. - [@dgpalmieri](https://github.com/dgpalmieri)
@@ -561,7 +605,7 @@ Books:
 
 > The Nevernight Chronicle is the New York Times bestselling fantasy series by award-winning author Jay Kristoff, which follows flawed heroine Mia Corvere as she trains as an assassin as part of her mission for personal revenge. Her tale takes place in the immersive world of Godsgrave and is full of fast-paced action, magic, betrayal, vengeance, and more.
 
-#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) *by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)* [4.0]
+#### [The Ocean at the End of the Lane](https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane) _by [Neil Gaiman](https://en.wikipedia.org/wiki/Neil_Gaiman)_ [4.0]
 
 This was a delightful book. Short and sweet, it exhibits both Gaiman's ability to run with magic, and his deep love for the English countryside and mythology. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -688,6 +732,27 @@ This is a book that doesn't take away from the classic movie rendition of it, bu
 
 > What happens when the most beautiful girl in the world marries the handsomest prince of all time and he turns out to be...well...a lot less than the man of her dreams? As a boy, William Goldman claims, he loved to hear his father read the S. Morgenstern classic, The Princess Bride. But as a grown-up he discovered that the boring parts were left out of good old Dad's recitation, and only the "good parts" reached his ears. Now Goldman does Dad one better. He's reconstructed the "Good Parts Version" to delight wise kids and wide-eyed grownups everywhere. What's it about? Fencing. Fighting. True Love. Strong Hate. Harsh Revenge. A Few Giants. Lots of Bad Men. Lots of Good Men. Five or Six Beautiful Women. Beasties Monstrous and Gentle. Some Swell Escapes and Captures. Death, Lies, Truth, Miracles, and a Little Sex. In short, it's about everything.
 
+### [A Series of Unfortunate Events](https://en.wikipedia.org/wiki/A_Series_of_Unfortunate_Events) _by [Lemony Snicket AKA Daniel Handler](https://en.wikipedia.org/wiki/Daniel_Handler) 🔥 [4.00]
+
+A Series of Unfortunate Events follows the story of the Baudelaire kids Violet, Klaus and Sunny as they navigate the aftermath of their parents' death and try to escape the evil clutches of their distant relative Count Olaf. - [@umadhatri](https://github.com/umadhatri)
+
+> These books were my childhood. I love the dry and satirical humor as the author puts these kids through incerdibly campy situations and they find increasingly clever ways to escape the evil Count. The kids are just the sweetest charecters and as a kid I enjoyed the adventures that they went on in each of the books. The narrator Lemony Snicket almost enjoys reliving the tales of the kids' adventures in a sort of devilish way. The Netflix adaptation was just as deliciously good as the books. People might not agree with me, but then, everybody has their own opinions.
+
+Books:
+- [The Bad Beginging](https://www.goodreads.com/book/show/78411.The_Bad_Beginning)
+- [The Reptile Room](https://www.goodreads.com/book/show/78418.The_Reptile_Room) 🔥
+- [The Wide Window](https://www.goodreads.com/book/show/438492.The_Wide_Window) 🔥
+- [The Miserable Mill](https://www.goodreads.com/book/show/65119.The_Miserable_Mill) 🔥
+- [The Austere Academy](https://www.goodreads.com/book/show/131123.The_Austere_Academy) 🔥
+- [The Ersatz Elevator](https://www.goodreads.com/book/show/172327.The_Ersatz_Elevator) 🔥
+- [The Vile Village](https://www.goodreads.com/book/show/150037.The_Vile_Village) 🔥
+- [The Hostile Hospital](https://www.goodreads.com/book/show/65118.The_Hostile_Hospital) 🔥
+- [The Carnivorous Carnival](https://www.goodreads.com/book/show/324277.The_Carnivorous_Carnival) 🔥
+- [The Slippery Slope](https://www.goodreads.com/book/show/297792.The_Slippery_Slope) 🔥
+- [The Grim Grotto](https://www.goodreads.com/book/show/65111.The_Grim_Grotto) 🔥
+- [The Penultimate Peril](https://www.goodreads.com/book/show/65110.The_Penultimate_Peril)
+- [The End](https://www.goodreads.com/book/show/65112.The_End)
+
 ### Horror
 
 #### [The Call of Cthulhu and Other Weird Stories](https://www.goodreads.com/book/show/160149.The_Call_of_Cthulhu_and_Other_Weird_Stories) _by [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)_ [4.3]
@@ -757,7 +822,23 @@ Gorgeous comic based on a classic Scottish fairy tale, with lots of diversity re
 
 > Sibylla always wanted adventure, but she didn't know it would come in the form of a giant, magical bull. Is he a man or a monster? And who knew a prophecy could be so literal?
 
+#### [The Miraculous Journey of Edward Tulane](https://www.goodreads.com/book/show/37186.The_Miraculous_Journey_of_Edward_Tulane) _by [Kate diCamillo](https://www.goodreads.com/author/show/13663.Kate_DiCamillo), [Bagram Ibatoulline](https://www.goodreads.com/author/show/1354902.Bagram_Ibatoulline)_ [4.36]
+
+A heartwarming book that will teach adults and children to love and to let yourself be loved. 
+
+Kate DiCamillo takes us on an extraordinary journey, from the depths of the ocean to the net of a fisherman, from the top of a garbage heap to the fireside of a hoboes' camp, from the bedside of an ailing child to the bustling streets of Memphis. And along the way, we are shown a true miracle — that even a heart of the most breakable kind can learn to love, to lose, and to love again. - [@e-costalmeida](https://github.com/e-costalmeida)
+
+> Once, in a house on Egypt Street, there lived a china rabbit named Edward Tulane. The rabbit was very pleased with himself, and for good reason: he was owned by a girl named Abilene, who treated him with the utmost care and adored him completely.
+>
+> And then, one day, he was lost.
+
 ## Movies
+
+#### [Interstellar](https://www.imdb.com/title/tt0816692/) [8.6]
+Best movie for SciFi lovers an Space enthusiast.
+All important science fiction concepts combied together feels like magic of astronomy and science.-[@yuvihere23](https://github.com/yuvihere23)
+
+>A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
 
 #### [Birth](https://www.imdb.com/title/tt0337876/) [6.1]
 
@@ -871,6 +952,12 @@ The idea of eternal love through human existence and connection made be cry. A h
 
 > Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?
 
+#### [The Shape of Water](https://www.imdb.com/title/tt5580390/) [7.3]
+
+It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is full of hope and desire as the lead characters explore love in a unique way that is different and unnatural. The movie will have you shed tears, in suspense, and thrilled by shocking twists and events. - [@SinaMoghaddas](https://github.com/SinaMoghaddas)
+
+> At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.
+
 ## TV Series
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
@@ -938,6 +1025,8 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
+ 
+
 
 ---
 

@@ -1,6 +1,5 @@
 <div class="github-widget" data-repo="pFarb/awesome-crypto-papers"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Crypto Papers  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of [cryptography](https://en.wikipedia.org/wiki/Cryptography) papers, articles, tutorials and howtos for non-cryptographers.
 
@@ -23,7 +22,7 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 * [Specific topics](#specific-topcs).
   * [Hashing](#hashing) - important bits on modern and classic hashes.
   * [Secret key cryptography](#secret-key-cryptography) - all things symmetric encryption.
-  * [Cryptoanalysis](#cryptoanalysis) - attacking cryptosystems.
+  * [Cryptanalysis](#cryptanalysis) - attacking cryptosystems.
   * [Public key cryptography: General and DLP](#public-key-cryptography-general-and-dlp) - RSA, DH and other classic techniques.
   * [Public key cryptography: Elliptic-curve crypto](#public-key-cryptography-elliptic-curve-crypto) - ECC, with focus on pratcial cryptosystems.
   * [Zero Knowledge Proofs](#zero-knowledge-proofs) - Proofs of knowledge and other non-revealing cryptosystems.
@@ -44,9 +43,9 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 
 #### Brief introductions
 
-* [An Overview of Cryptography](http://www.garykessler.net/library/crypto.html) - By Gary C. Kessler.
+* [An Overview of Cryptography](http://web.archive.org/web/20220918232416/https://www.garykessler.net/library/crypto.html) - By Gary C. Kessler.
 * [Using Encryption for Authentication in Large Networks](http://inst.eecs.berkeley.edu/~cs268/sp02/cached_papers/needham.pdf) - By Needham, Schroeder: this is were crypto-based auth starts.
-* [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) - Fundamental cryptography paper by Claude Shannon.
+* [Communication Theory of Secrecy Systems](http://web.archive.org/web/20201112040412/http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) - Fundamental cryptography paper by Claude Shannon.
 
 #### General cryptographic interest
 
@@ -77,23 +76,25 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 * [New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba](https://eprint.iacr.org/2007/472.pdf) - Analysis of Salsa20 family of ciphers, by Jean-Philippe Aumasson et al.
 * [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) - IETF Draft of ciphersuite family, by Adam Langley et al.
 * [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) - Original Rijndael proposal by Joan Daemen and Vincent Rijmen.
-* [Ongoing Research Areas in Symmetric Cryptography](http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - Overview of ongoing research in secret key crypto and hashes by ECRYPT Network of Excellence in Cryptology.
-* [The Galois/Counter Mode of Operation (GCM)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - Original paper introducing GCM, by by David A. McGrew and John Viega.
+* [Ongoing Research Areas in Symmetric Cryptography](https://web.archive.org/web/20220209130448/https://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) - Overview of ongoing research in secret key crypto and hashes by ECRYPT Network of Excellence in Cryptology.
+* [The Galois/Counter Mode of Operation (GCM)](https://web.archive.org/web/20221007191258/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&rep=rep1&type=pdf) - Original paper introducing GCM, by by David A. McGrew and John Viega.
 * [The Security and Performance of the Galois/Counter Mode (GCM) of Operation](https://eprint.iacr.org/2004/193.pdf) - Design, analysis and security of GCM, and, more specifically, AES GCM mode, by David A. McGrew and John Viega.
 * [GCM Security Bounds Reconsidered](https://www.iacr.org/archive/fse2015/85400168/85400168.pdf) - An analysis and algorithm for nonce generation for AES GCM with higher counter-collision probability, by Yuichi Niwa, Keisuke Ohashi, Kazuhiko Minematsu, Tetsu Iwata.
 * [Proxy-Mediated Searchable Encryption in SQL Databases Using Blind Indexes](https://eprint.iacr.org/2019/806.pdf) - An overview of existing searchable encryption schemes, and analysis of scheme built on AES-GCM, blind index and bloom filter by Eugene Pilyankevich, Dmytro Kornieiev, Artem Storozhuk.
 
-#### Cryptoanalysis
+#### Cryptanalysis
 
-* [Differential Cryptanalysis of Salsa20/8](http://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf) - A great example of stream cipher cryptoanalysis, by Yukiyasu Tsunoo et al.
-* [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - Applying slide attacks (typical cryptoanalysis technique for block ciphers) to hash functions, M. Gorski et al.
+* [Differential Cryptanalysis of Salsa20/8](https://web.archive.org/web/20220710225943/https://www.ecrypt.eu.org/stream/papersdir/2007/010.pdf) - A great example of stream cipher cryptanalysis, by Yukiyasu Tsunoo et al.
+* [Slide Attacks on a Class of Hash Functions](https://eprint.iacr.org/2008/263) - Applying slide attacks (typical cryptanalysis technique for block ciphers) to hash functions, M. Gorski et al.
 * [Self-Study Course in Block Cipher Cryptanalysis](https://www.schneier.com/academic/archives/2000/01/self-study_course_in.html) - Attempt to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break new algorithms, by Bruce Schneier.
 * [Statistical Cryptanalysis of Block Ciphers](http://crypto.junod.info/phdthesis.pdf) - By Pascal Junod.
-* [Cryptoanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
+* [Cryptanalysis of block ciphers and protocols](http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi/2006/PHD/PHD-2006-04) - By Elad Pinhas Barkan.
 * [Too much crypto](https://eprint.iacr.org/2019/1492.pdf) - Analysis of number of rounds for symmetric cryptography primitives, and suggestions to do fewer rounds, by Jean-Philippe Aumasson.
 * [How to Break MD5 and Other Hash Functions](https://iacr.org/archive/eurocrypt2005/34940019/34940019.pdf) - A 2005 paper about modular differential collision attack on MD5, MD4 and other hash functions, by Xiaoyun Wang and Hongbo Yu.
 * [New attacks on Keccak-224 and Keccak-256](https://www.iacr.org/archive/fse2012/75490447/75490447.pdf) - A 2012 paper about using the combination of differential and algebraic techniques for collision attacks on SHA-3, by Itai Dinur, Orr Dunkelman, Adi Shamir.
 * [A Single-Key Attack on the Full GOST Block Cipher](https://www.iacr.org/archive/fse2011/67330297/67330297.pdf) - An attack ("Reflection-Meet-inthe-Middle Attack") on GOST block cipher that allows to recover key with 2^225 computations and 2^32 known plaintexts, by Takanori Isobe.
+* [Intro to Linear & Differential Cryptanalysis](http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf) - A beginner-friendly paper explaining and demonstrating techniques for linear and differential cryptanalysis.
+* [MEGA: Malleable Encryption Goes Awry](https://mega-awry.io/pdf/mega-malleable-encryption-goes-awry.pdf) - Proof-of-concept versions of attacks on MEGA data storage. Showcasing their practicality and exploitability. [Official webpage](https://mega-awry.io/).
 
 #### Public key cryptography: General and DLP
 
@@ -103,10 +104,12 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 * [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - Rather education explanation of every bit behind RSA.
 * [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf) - Paper by R. Merkle,   predated "New directions in cryptography" though it was published after it. The Diffie-Hellman key exchange is an implementation of such a Merkle system.
 * [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) - Dolev-Yao model is a formal model, used to prove properties of interactive cryptographic protocols.
-* [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf) - A safe method for sharing secrets.
+* [How to Share a Secret](https://github.com/arupmondal-cs/Crypto-Research/blob/master/Secret%20Sharing/shamirturing.pdf) - A safe method for sharing secrets.
 * [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) - Great inquiry into attacking RSA and it's internals, by Dan Boneh. 
 * [Remote timing attacks are practical](http://crypto.stanford.edu/~dabo/papers/ssl-timing.pdf) - An example in attacking practical crypto implementationby D. Boneh, D. Brumley.
 * [The Equivalence Between the DHP and DLP for Elliptic Curves Used in Practical Applications, Revisited](https://eprint.iacr.org/2005/307.pdf) - by K. Bentahar.
+* [SoK: Password-Authenticated Key Exchange – Theory, Practice, Standardization and Real-World Lessons](https://eprint.iacr.org/2021/1492.pdf) - History and classification of the PAKE algorithms.
+* [RSA, DH and DSA in the Wild](https://eprint.iacr.org/2022/048.pdf) - Collection of implementation mistakes which lead to exploits of assymetric cryptography.
 
 #### Public key cryptography: Elliptic-curve crypto
 
@@ -122,18 +125,22 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 * [Curve25519: new Diffie-Hellman speed records](https://cr.yp.to/ecdh/curve25519-20060209.pdf) - Paper on Curve25519.
 * [Software implementation of the NIST elliptic curves over prime fields](http://delta.cs.cinvestav.mx/~francisco/arith/julio.pdf) - Pracitcal example of implementing elliptic curve crypto, by M. Brown et al.
 * [High-speed high-security signatures](https://ed25519.cr.yp.to/ed25519-20110926.pdf) - Seminal paper on EdDSA signatures on ed25519 curve by Daniel J. Bernstein et al.
+* [Recommendations for Discrete Logarithm-Based Cryptography: Elliptic Curve Domain Parameters (NIST SP 800-186)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-186-draft.pdf) - Official NIST guide how securely implement elliptic curves. It also includes math shortcuts, optimizations and possible security risk of wrong algorithm implementation. [(October 2019)](https://csrc.nist.gov/publications/detail/sp/800-186/draft)
+* [Biased Nonce Sense: Lattice Attacks against Weak ECDSA Signatures in Cryptocurrencies](https://eprint.iacr.org/2019/023.pdf) - Computing private keys by analyzing and exploiting biases in ECDSA nonces.
+* [Minerva: The curse of ECDSA nonces](https://eprint.iacr.org/2020/728.pdf) - Exploiting timing/bit-length leaks for recovering private keys from ECDSA signatures
+* [LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage](https://eprint.iacr.org/2020/615.pdf) - Breaking 160-bit curve ECDSA using less than one bit leakage.
 
 #### Zero Knowledge Proofs
 
-* [Proofs of knowledge](http://cseweb.ucsd.edu/~mihir/papers/pok.html) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
+* [Proofs of knowledge](https://cseweb.ucsd.edu/~mihir/papers/pok.pdf) - A pair of papers which investigate the notions of proof of knowledge and proof of computational ability, M. Bellare and O. Goldreich.
 * [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) - Classic paper by Goldreich,  Micali and Wigderson.
 * [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) - By Goldreich,  Micali and Wigderson, a relative to the above. 
 * [A Survey of Noninteractive Zero Knowledge Proof System and Its Applications](https://www.hindawi.com/journals/tswj/2014/560484/).
-* [How to Prove a Theorem So No One Else Can Claim It](http://www.mathunion.org/ICM/ICM1986.2/Main/icm1986.2.1444.1451.ocr.pdf) - By Manuel Blum.
-* [Information Theoretic Reductions among Disclosure Problems](http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf) - Brassau et al.
-* [Knowledge complexity of interactive proof systems](http://groups.csail.mit.edu/cis/pubs/shafi/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs. 
+* [How to Prove a Theorem So No One Else Can Claim It](https://web.archive.org/web/20211122040931/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.469.9048&rep=rep1&type=pdf) - By Manuel Blum.
+* [Information Theoretic Reductions among Disclosure Problems](https://web.archive.org/http://crypto.cs.mcgill.ca/~crepeau/BCR86.pdf) - Brassau et al.
+* [Knowledge complexity of interactive proof systems](https://github.com/manjunath5496/Shafi-Goldwasser-Publications/blob/master/1989-siamjc.pdf) - By GoldWasser, Micali and Rackoff. Defining computational complexity of "knowledge" within zero knowledge proofs. 
 * [A Survey of Zero-Knowledge Proofs with Applications to Cryptography](http://www.austinmohr.com/work/files/zkp.pdf) - Great intro on original ZKP protocols.
-* [Zero Knowledge Protocols and Small Systems](http://www.tml.tkk.fi/Opinnot/Tik-110.501/1995/zeroknowledge.html) - A good intro into Zero knowledge protocols.
+* [Zero Knowledge Protocols and Small Systems](https://web.archive.org/web/20220211100630/https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.26.585&rep=rep1&type=pdf) - A good intro into Zero knowledge protocols.
 * [Multi-Theorem Preprocessing NIZKs from Lattices](https://link.springer.com/chapter/10.1007%2F978-3-319-96881-0_25) - Construction of non-interactive zero-knowledge (NIZK) proofs using lattice-based preprocessing models, by Sam Kim and David J. Wu.
 
 #### Key Management
@@ -147,8 +154,9 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 #### Post-quantum cryptography
 
 * [Post-quantum cryptography - dealing with the fallout of physics success](https://eprint.iacr.org/2017/314.pdf) - Brief observation of mathematical tasks that can be used to build cryptosystems secure against attacks by post-quantum computers.
-* [Post-quantum cryptography](https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) - Introduction to post-quantum cryptography.
+* [Post-quantum cryptography](https://web.archive.org/web/20210510200628/https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) - Introduction to post-quantum cryptography.
 * [Post-quantum RSA](https://cr.yp.to/papers/pqrsa-20170419.pdf) - Daniel Bernshtein's insight how to save RSA in post-quantum period.
+* [MAYO: Practical Post-Quantum Signatures from Oil-and-Vinegar Maps](https://eprint.iacr.org/2021/1144.pdf) - The Oil and Vinegar signature scheme, proposed in 1997 by Patarin, is one of the oldest and best-understood multivariate quadratic signature schemes. It has excellent performance and signature sizes. This paper is about enhancing this algorithm in usage in the post-quantum era. [Official website](https://pqmayo.org/).
 
 <hr>
 
@@ -156,10 +164,10 @@ It will be extended gradually as I find something of "must-have" value. Pull req
 
 That seems somewhat out of scope, isn't it? But these are books only fully available online for free. Read them as a sequence of papers if you will.
 
-* [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptoanalysis and cryptography-related security.
-* [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Broad overview of design and cryptoanalysis of various ciphers and hash functions, by Bart Van Rompay.
+* [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.
+* [Analysis and design of cryptographic hash functions, MAC algorithms and block ciphers](https://web.archive.org/web/20220209130435/https://www.esat.kuleuven.be/cosic/publications/thesis-16.pdf) - Broad overview of design and cryptanalysis of various ciphers and hash functions, by Bart Van Rompay.
 * [CrypTool book](https://www.cryptool.org/en/ctp-documentation/ctbook) - Predominantly mathematically oriented information on learning, using and experimenting cryptographic procedures.
-* [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) - By Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone. Good classical introduction into cryptography and ciphers.
+* [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - By Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone. Good classical introduction into cryptography and ciphers.
 * [The joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/) - By Mike Rosulek. A lot of basic stuff covered really well. No ECC.
 * [A Computational Introduction to Number Theory and Algebra](http://www.shoup.net/ntb/) - By Victor Shoup, excellent starters book on math universally used in cryptography. 
 

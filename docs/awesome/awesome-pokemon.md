@@ -37,6 +37,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 - [PokeTypes](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
+- [TCGdex](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 - [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 - [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
@@ -47,6 +48,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 - [pokecry](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 - [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
+- [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
 
 #### Bots
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
@@ -90,6 +92,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [RazerGo](https://go.razerzone.com/) - Localized Pokémon GO chat.
 - [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokémon GO dating service.
 - [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
+- [Pokémon GO Raiders Discord](https://www.pogoraiders.gg/discord) - A Discord community for raid hosting and joining with discussions about Pokémon GO.
 
 #### Official
 
@@ -100,6 +103,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 | [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
+| [TikTok](https://www.tiktok.com/@pokemonofficial?lang=en) | [TikTok](https://www.tiktok.com/@pokemongo?lang=en) | [TikTok](https://www.tiktok.com/@niantic?lang=en) |
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
@@ -132,6 +136,9 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Calcy IV](https://play.google.com/store/apps/details?id=tesmath.calcy) - One-tap stats and level calculation on Pokémon GO (Android).
 - [InfoSpreadsheet](https://docs.google.com/spreadsheets/d/1iJcE12v14GA8V8EO4M1-dPxBFT2kFhR6bUXvj03a4kM/) - Datamined info about Pokémon GO species with IV calculations.
 - [InfoSpreadsheet#2](https://docs.google.com/spreadsheets/d/1hcFo7-UGWx1k1u1BHOvDhq8foPeRr7YbX2jLjjJK0Qw/) - Pokémon GO species data with their movesets.
+- [PVPoke](https://pvpoke.com/) - A PVP ranking and moveset for Pokémon GO.
+- [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
+- [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

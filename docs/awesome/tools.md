@@ -4,6 +4,15 @@
 
 >An awesome list of hosted tools for web development.
 
+## Sponsors
+
+<p>
+  <a href="https://sailboatui.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sailboatui/sailboatui/main/.github/logo-light.svg"  height="50" alt="Sailboat UI">
+  </a>
+</p>
+
+
 ### Response
 
 * [Responsinator](http://www.responsinator.com/)
@@ -21,6 +30,7 @@
 * [dummyimage](http://dummyimage.com/)
 * [placekitten](http://placekitten.com/)
 * [unsplash](https://source.unsplash.com/)
+* [smalldev.tools - placeholder](https://smalldev.tools/placeholder-image-generator-online)
 
 ### Favicon
 
@@ -87,6 +97,8 @@
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+* [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
+* [Flatlogic CRUD Apps Generator](https://flatlogic)
 
 ### Pagespeed
 
@@ -109,6 +121,8 @@
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
 * [krmp.cc](https://github.com/dadleyy/krmp.cc)
 * [Image Color Picker](https://image-color.com)
+* [Respresso](https://respresso.io/)
+* [Branding Colors](https://branition.com/colors)
 
 ### Font
 
@@ -124,6 +138,12 @@
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 * [Easy Fonts](https://pagecdn.com/lib/easyfonts)
+* [Respresso](https://respresso.io/)
+* [Brick](https://brick.im/)
+
+### Forms
+
+* [Form.taxi](https://form.taxi/)
 
 ### API Debugging
 
@@ -165,6 +185,13 @@
 * [StackBlitz](https://stackblitz.com/)
 * [FastSitePHP](https://www.fastsitephp.com/en/playground)
 * [DataFormsJS](https://www.dataformsjs.com/en/playground)
+* [AnyChart Playground](https://playground.anychart.com/)
 
 ### CheetSheet
 * [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+
+### UI Builders
+* [Windframe](https://www.devwares.com/windframe/)
+
+### Tools collection
+* [SmallDev.tools](https://smalldev.tools/)

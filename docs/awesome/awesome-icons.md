@@ -8,7 +8,6 @@
 
 
 
-
 ## General
 
 General purpose icons used everywhere.
@@ -31,17 +30,18 @@ General purpose icons used everywhere.
 - [Octicons](https://github.com/primer/octicons#readme) - A scalable set of icons handcrafted with <3 by GitHub. ([Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme) - Open Iconic is the open source sibling of Iconic. ([Website](https://useiconic.com/open))
 - [Picon](https://github.com/yne/picon#readme) - Small ligature-based icon font and SVG. ([Website](https://yne.fr/picon))
+- [Radix Icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the Modulz team. ([Website](https://icons.modulz.app/))
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon#readme) - Remix Icon is a set of open-source neutral-style system symbols for designers and developers. ([Website](https://remixicon.com))
 - Shape.so - Customizable, animated icons & illustrations exportable to code. ([Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
 - [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community.
+- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons, is a website full of free icons for landing pages and more.
 - [Unicons](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
-
 
 ## Logos
 
@@ -53,7 +53,7 @@ Logos of different brands or companies or technologies.
 - [Dev icons](https://github.com/vorillaz/devicons#readme) - An iconic font made for developers. ([Website](http://vorillaz.github.io/devicons))
 - [Devicon](https://github.com/devicons/devicon#readme) - Aims to gather all logos representing development languages and tools. ([Website](https://devicons.github.io/devicon))
 - [Simple icons](https://github.com/simple-icons/simple-icons#readme) - Free SVG icons for popular brands. ([Website](https://simpleicons.org))
-
+- [VectorLogoZone](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
 ## Special
 
@@ -61,7 +61,6 @@ Icons that are not general or logos, but something special.
 
 - [Flag Kit](https://github.com/madebybowtie/FlagKit#readme) - Beautiful flag icons for usage in apps and on the web.
 - [Mapsicon](https://github.com/djaiss/mapsicon#readme) - A free collection of maps for every country in the world.
-
 
 ## Other
 
@@ -79,7 +78,6 @@ Not open-source/free, but still awesome enough.
 - [Heroicons](https://www.heroicons.com) - Unique set of icons for your marketing website.
 - [Iconic](https://useiconic.com) - The definitive icon set designed for the modern web.
 - [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
-
 
 ## License
 

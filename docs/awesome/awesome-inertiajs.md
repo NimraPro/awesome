@@ -46,7 +46,8 @@
 - 💜 [Vue.js](https://github.com/inertiajs/inertia/tree/master/packages/inertia-vue)
 - 💜 [React](https://github.com/inertiajs/inertia/tree/master/packages/inertia-react)
 - 💜 [Svelte](https://github.com/inertiajs/inertia/tree/master/packages/inertia-svelte)
-- [Mithril](https://github.com/tbreuss/inertia-mithril)
+- [Mithril](https://github.com/maicol07/inertia-mithril)
+- [Preact](https://github.com/jrson83/inertia-preact)
 
 ### Server-side
 
@@ -66,14 +67,22 @@
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
 - [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
+- [CanJS](https://github.com/cherifGsoul/inertia-can)
+- [Clojure](https://github.com/prestancedesign/inertia-clojure)
+- [CodeIgniter](https://github.com/amiranagram/inertia-codeigniter-4)
+- [Go](https://github.com/petaki/inertia-go)
+- [PSR-15](https://github.com/cherifGsoul/inertia-psr15)
+- [Rust](https://github.com/stuarth/inertia-rs)
+- [Oak (Deno)](https://github.com/jcs224/oak_inertia)
+- [Echo](https://github.com/kohkimakimoto/inertia-echo)
 
 ## Resources
 
 ### Presets
 
-- ⭐ [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js.
-- ⭐ [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
-- [Laravel preset](https://github.com/use-preset/laravel-inertia) - One-command Laravel preset with Tailwind CSS, Inertia.js and Vue.js.
+- ⭐ [Laravel Inertia Preset](https://github.com/laravel-presets/inertia) - One-command Laravel preset with Tailwind CSS, Vite, Inertia.js and Vue.js.
+- 💜 [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#breeze-and-inertia) - Laravel's official authentication scaffolding, with Tailwind CSS and Inertia.js.
+- 💜 [Laravel Jetstream](https://jetstream.laravel.com/1.x/stacks/inertia.html) - Laravel's official application scaffolding, with Tailwind CSS, Inertia.js and Vue.js.
 - [Laravel front-end preset](https://github.com/laravel-frontend-presets/inertiajs) - Laravel front-end preset for Inertia.js.
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Titanium](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
@@ -81,8 +90,12 @@
 
 ### Packages
 
+- [Page loader](https://github.com/ycs77/inertia-plugin) - Unplugin for loading Inertia pages from configured namespaces.
+- [Flash](https://github.com/igerslike/inertia-flash) - Laravel package for sharing properties from anywhere.
+- [Dry requests](https://github.com/dive-be/laravel-dry-requests) - Generic Laravel package for real-time form validation.
 - [Kakunin](https://github.com/Juhlinus/kakunin) - Laravel package for real-time form validation.
 - [Resource Links](https://github.com/spatie/laravel-resource-links) - Laravel package for adding links to API resources.
+- [Navigation](https://github.com/spatie/laravel-navigation) - Laravel package for generating menus, breadcrumbs and other navigational elements.
 - [Tables for Laravel](https://github.com/protonemedia/inertiajs-tables-laravel-query-builder) - Provides a DataTable component with integration for [Laravel Query Builder](https://github.com/spatie/laravel-query-builder).
 
 ### Articles
@@ -102,10 +115,16 @@
 - [Ping CRM / CakePHP](https://github.com/ishanvyas22/cakephp-pingcrm) - Demonstration application made with CakePHP and Vue.js.
 - [Ping CRM / Masonite](https://github.com/girardinsamuel/pingcrm-masonite) - Demonstration application made with Masonite and Vue.js.
 - [Ping CRM / React](https://github.com/Landish/pingcrm-react) - Demonstration application made with Laravel React.
+- [Ping CRM / Clojure](https://github.com/prestancedesign/pingcrm-clojure) - Demonstration application made with Clojure and Reagent.
+- [Ping CRM / Flask](https://github.com/j0ack/pingcrm-flask) - Demonstration application made with Flask and Vue.js.
+- [Ping CRM / Echo](https://github.com/kohkimakimoto/pingcrm-echo) - Demonstration application made with Echo and Vue.js.
+- [Ping CRM / Preact](https://github.com/jrson83/pingcrm-preact) - Demonstration application made with Laravel Preact.
 
-### Other 
+### Other
 
 - [Built with Inertia](https://builtwithinertia.com/) - Showcase of products built with Inertia.js.
+- [Jetbrains plugin](https://plugins.jetbrains.com/plugin/17435-inertia-js-support) - PhpStorm/Intellij Ultimate plugin for Inertia.js.
+- [Code extension](https://marketplace.visualstudio.com/items?itemName=nhedger.inertia) - Visual Studio Code extension for Inertia.js.
 
 <p align="center">
   <br />

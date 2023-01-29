@@ -66,10 +66,11 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Lost in Samsara - Bags, Jewelry, and Accessories](https://www.lostinsamsara.co.uk) - Stylish products produced ethically from upcycled materials.  Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
 
 - [Love Linen](https://www.lovelinen.com.au/) - Linen clothing made with love in Australia
+- [MUD Jeans](https://mudjeans.eu/) - Zero impact jeans production obeying circular economy principles, paying fair wages and offering a repair service.
 - [Mezzoroni](https://mezzoroni.com/) - Oeko-tex certificated, cruelty free customizable linen clothing brand. All of the packaging are plastic free. 
 - [NN07](https://www.nn07.com/) - Using its [sustainable material matrix](https://www.nn07.com/made-to-last), No Nationality designs made-to-last clothing primarily with recycled and non-cotton natural materials including hemp, linen, wool, alpaca, and silk.
 - [Norm Shoes](https://norm.shoes/) - Our shoes are made from 90% recycled materials: recycled polyester (6 plastic bottles per pair), recycled rubber, and fairtrade rubber.  The impact for one pair of Norm shoes is only 6,5 kg of CO2 equivalent (80% lower than the industry average). We partner with a Belgian NGO, Graine de Vie, to plant two trees in Madagascar for each pair we sell and we offset our emissions as well.
-
+- [Patagonia](https://www.patagonia.com/) - Sports clothing produced in the most sustainable way ([footprint](https://www.patagonia.com/our-footprint/): working towards carbon neutral, recycled, fair trade, organic, ...)
 - [Pure Waste](https://www.purewaste.org/) - Helsinki based, making 100% recycled clothing out of waste materials.
 - [REI Used](https://www.rei.com/used) - CO-OP owned company that sells reused hiking and outdoor gear and clothing with the goal of preventing waste and getting more people into outdoor activities. They offer gift cards in exchange for your used gear too.
 - [Recover Brands](https://recoverbrands.com/) - Soft and strong T-shirts, each made from 8 plastic bottles. Closed Loop manufacturing from the start.
@@ -155,6 +156,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Food
 - [Able & Cole](https://www.abelandcole.co.uk/) - Get fruit, veg, pantry staples, and other organic food delivered in returnable, reusable, recyclable packaging. Seasonal boxes of veg so its not traveling around the world, sustainably sourced fish, they've even got beer.
 - [Agricool - Local, healthy, sustainable food](https://www.agricool.co/fr) - Des fruits et légumes, cultivés au coeur des villes, à moins de 15km de leur lieu de consommation. Frais, locaux, sans pesticides.
+- [CrowdFarming.com] -  Buying food directly from farmers is the most powerful everyday act available to anyone to create a positive social and environmental impact. 
 - [NotCo](https://notco.com) - The Not Company is a Foodtech, that reinvents animal-based foods using only plants. Unlike traditional food businesses, the company uses technology to recreate the same products we love to eat in a natural, sustainable and affordable way, keeping it functional, easy to use and mouthwateringly delicious. They use Artificial Intelligence to build a library of thousands of Plants and find how to use them, to recreate the same taste, smell, function, look and feel of the products we love. ALL PLANT-BASED.
 - [All Plants - Vegan Prepared Meals](https://allplants.com/) - Get super tasty and 100% plant-based meals cooked by chefs and delivered straight to your door. Two people getting six meals works out at £5 a meal, which is amazing. Use [this referral link](https://allplants.mention-me.com/me/referee/registerko/48827185/206943008/er/796b4fb5d581862f565aa73f01fe733b8576831c/fe/cw?epr=1) to get £10 off your first box. We'll get £10 off our next box, so we'll spend that saving on trees on [Offset Earth](https://offset.earth/philsturgeon). 🥳
 - [Bees Wrap](https://www.beeswrap.com/) - Stop using cling film and start using reusable recyclable wraps made from bees wax and organic jojoba oil.
@@ -167,7 +169,6 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Forkful](https://www.forkful.app/) - Sustainable, nutritious eating that is as good for you as it is for the planet. With our powerful recipe search, you can view the nutritional benefit and environmental impact of thousands of recipes at a glance, empowering you to make awesome decisions.
 - [Geev](https://corporate.geev.com/) - An online application to exchange stuffs and food between people. Easily discuss, meet and give a second life to objects and food.  The more you give the more people trust you when you want to get something.
 - [Giki](https://gikibadges.com/) - The Giki app provides accessible, independent, transparent information to help people change habits to live more sustainably. Our 14 badges cover sustainability, health and fairness.
-- [Green Ease](http://www.greenease.co/) - Greenease Business lets chefs update and track their farms, push out specials on the app and search for farm-fresh products. Farms/purveyors interested in bringing fresh, local food to all can can login to verify who’s buying from them and list their products for search by chefs and restaurants.
 - [Grocy](https://grocy.info/) - Grocy is a web-based self-hosted groceries and household management solution for your home.  Scan barcodes, track your purchases, automate and optimize your shopping list, waste less by keeping track of what's expiring next, plan meals, and more.
 - [GrowNYC Food Scrap Collection Schedule](https://www.grownyc.org/compost/locations) - Interactive map with over 150 residential Food Scrap Drop-Off sites in NYC.
 - [Happy Cow](https://www.happycow.net) - Reduce or avoid meat entirely by finding great vegetarian or vegan food all over the world.
@@ -215,7 +216,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.
 ## Home Improvements
 - [All Green](https://www.all-green.co.uk/) - A selection of environmentally friendly products for the home, garden, pets and other stuff.
-- [Barry](https://getbarry.co/) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
+- [Barry](https://barry.energy) - Få et smart strømforbrug. Udskift din gamle el-leverandør med en app til din strøm.
 
 - [Berkley Water Filters](https://www.berkeyfilters.com/) - 21,000,000 Americans drink water that violates U.S. health standards. Berkey water filter systems are actually water purifiers because they remove bacteria and viruses that conventional filters cannot.
 - [Domestic Renewable Heat Incentive (RHI)](https://www.gov.uk/domestic-renewable-heat-incentive) - You could get money towards renewable heating costs in your home. You can claim for biomass boilers, solar water heating, heat pumps. Payments are made for 7 years and are based on the amount of renewable heat made by your heating system.
@@ -228,7 +229,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 - [Lehman's Appliances](https://www.lehmans.com/category/appliances) - Off the grid and super efficient appliances, including gas refrigerators, freezers, composting toilets, wood stoves, water heaters and pumps.
 - [Mist Showers](https://www.lowtechmagazine.com/2019/10/mist-showers-sustainable-decadence.html) - The emissions of a typical shower equal 3.5 – 7 km of driving. The mist shower, a satisfying but forgotten technology which uses very little water and energy, could be a solution. You can DIY convert almost any shower into a mist shower. The five-nozzle mist shower offers significant water and energy savings compared to a “normal” shower and does so without sacrificing comfort.
-- [NY State Home Energy Assessment tool](https://stars.nyserdagreenny.org/) - Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
+- [NY State Home Energy Assessment tool](https://www.nyserda.ny.gov/All-Programs/Programs/Home-Energy-Efficiency-Upgrades) - Get a home energy audit and receive tools, resources, and aid to upgrade your home to be more energy efficient.
 - [Nebia Showers](https://nebia.com/) - Nebia is proud to offer products that transform your mundane shower routine into a ritual, and also contribute to preserving the planet.
 - [PlanetCare Microfibre Laundry Filters](https://www.planetcare.org) - 35% of microplastics are fibers that are released when we wash our clothes. With consumer and industrial laundry filters, tackle the problem close to the source – with a filter in your washing machine.  PlanteCare makes efficient, practical and affordable laundry filters that allow every household to stop sending microfibres into the environment.
 - [PowerX](https://www.powerx.co/) - A plug-and-play smart-controller for water and gas headers. It learns what water temperatures you like and heats only as much water as you need. It will also detect the ideal time to heat your water, as prices change every 15 minutes, so you can save money with no impact on hot water levels. Save hundreds of dollars, reduce carbon emissions equivalent to 10 fully grown trees – every year!
@@ -253,7 +254,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Smartliners](https://smartlinerpads.com/) - Reduce the impact on the environment caused by sanitary waste using Organic Cotton Period Pads.
 - [Smol](https://smolproducts.com/) - Zero plastic dishwasher and laundry tablet subscription. Contains child lock, they're FSC certified, half the price of traditional brands, and animal cruelty free.
 - [Sonny](https://www.indiegogo.com/projects/sonny-a-portable-bidet-for-eco-conscious-humans/x/17318484#/) - Never worry about running out of toilet paper again with Sonny, a sustainable alternative to wipes and paper for better hygiene and a greener planet.
-- [The Cheeky Panda](https://www.thecheekypanda.co.uk) - 100% bamboo tissues shipped with zero plastic, wipes in recyclable plastic, and carbon balanced through the World Land Trust.
+- [The Cheeky Panda](https://cheekypanda.com) - 100% bamboo tissues shipped with zero plastic, wipes in recyclable plastic, and carbon balanced through the World Land Trust.
 - [The Crappy Planet - Bamboo Toilet Paper](https://www.thecrappyplanet.com/) - According to the EPA, one hardwood tree produces approximately 45 kg of toilet paper and about 83 million toilet rolls are produced every day. Bamboo toilet paper production requires less energy, one-fifth of the water, produces considerably more fiber on less land area, generates 30-35% more oxygen than other plants and trees, and it reduces the amount of carbon dioxide by about the same amount.  In addition, the production process requires that water and other materials are collected, reused and recycled. Finally, we invest 25% of our profits to stop deforestation and global warming.
 - [The Good Roll](https://www.thegoodroll.nl) - Mail order 100% tree-friendly toilet paper made from post-consumer recycled paper.  50% of net profit from sales of The Good Roll is invested in the installation of safe toilets in East Africa.
 - [Who Gives a Crap](https://whogivesacrap.org/) - We make all of our products with environmentally friendly materials, and we donate 50% of our profits to help build toilets for those in need.
@@ -261,6 +262,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
 
 - [awesome-sustainability-jobs](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+
+- [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 
 - [Climate Careers](https://climate.careers/) - Site that helps people find high-impact, high-paying jobs at organizations advancing climate solutions, research, policy, education, and advocacy for climate action. Software engineers, photographers, sales, operations, researchers, all sorts of jobs here.
 
@@ -276,18 +279,21 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 - [Practical guide to finding a climate change job in tech](https://medium.com/@leventov/how-to-find-a-job-in-a-tech-company-helping-to-combat-climate-change-practical-guide-e212e262a32) - Nice guide on finding a job in tech tackling climate change.
 
-- [Reconsidered Jobs](https://jobs.reconsidered.co/) - Aggregate jobs in social impact, sustainability and corporate social responsibility.
+- [Reconsidered Jobs](https://www.reconsidered.co/jobs) - Aggregate jobs in social impact, sustainability and corporate social responsibility.
 
 - [TBD Community](https://www.tbd.community/) - More than 3,000 impact-driven companies and organisations use tbd* to look for new team members, in English and German but many of the jobs are in Germany.
 
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Find tech jobs at social impact companies, foundations, and innovative nonprofits in the United States. They cover all sorts of impact areas, with Environment being one you can select. Some jobs are remote, some are in-office.
+
+- [Terra.do](https://www.terra.do) - Climate learning and career transition platform, runs several fellowships on climate education (broad and sector-specific), hosts climate job fairs, connects to mentors and experts, etc.
+
 ## Land Management
 - [Creating a Land Trust](https://conservationtools.org/guides/150-what-is-a-land-trust) - A land trust is a charitable organization that acquires land or conservation easements, or that stewards land or easements, for conservation purposes. Land owners may consider designating portions of their land as a land trust, in order to preserve natural features in perpetuity, and be eligible for tax benefits as a result.
 - [Dronecoria](http://dronecoria.org/) - Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
-- [Droneseed](https://www.droneseed.co/) - They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with governments, nonprofits, and private land owners as a service provider.
+- [Droneseed](https://www.droneseed.com/) - They plant native trees & vegetation using drone swarms and spray to protect them. Provide valuable insights to customers by collecting data in the field. Work with governments, nonprofits, and private land owners as a service provider.
 - [Farm Bot](https://farm.bot/) - Farm Bot is a fully automated, open-source, crowd-funded project, which helps you grow food for yourself, your family, and your community. Install FarmBot on a raised bed, urban rooftop, or in a small greenhouse at home. Hyper-local food production has never been easier.
 - [Natural Resources Conservation Service (NRCS)](https://www.nrcs.usda.gov/) - NRCS will pay you to steward your land, in ways you define. It offers voluntary programs to eligible landowners and agricultural producers to provide financial and technical assistance to help manage natural resources in a sustainable manner. Programs include emergency watershed protection and flood prevention, watershed rehabilitation, surveys and planning, healthy forest reserve easements, agricultural conservation easements, conservation stewardship, and environmental quality incentives.
-- [Permaculture Earthworks Handbook](https://permacultureearthworks.com/) - A detailed guide to the proper design and construction of water harvesting earthworks. It covers the function, design, and construction methods for nine main types of water harvesting earthworks across a full range of climates. Free alternatives are an online course by [Permaculture Women](https://www.permaculturewomen.com/freepermaculturecourse.html), and a four-part documentary by [Geoff Lawton](https://www.geofflawtononline.com/).
+- [Permaculture Earthworks Handbook](https://newsociety.com/books/p/the-permaculture-earthworks-handbook) - A detailed guide to the proper design and construction of water harvesting earthworks. It covers the function, design, and construction methods for nine main types of water harvesting earthworks across a full range of climates. Free alternatives are an online course by [Permaculture Women](https://www.permaculturewomen.com/freepermaculturecourse.html), and a four-part documentary by [Geoff Lawton](https://www.geofflawtononline.com/).
 - [Woodland Trust](https://www.woodlandtrust.org.uk/) - The Woodland Trust is reforesting the United Kingdom, working with communities, local authorities, and land owners, to get trees in the ground.
 ## News
 - [Bloomberg Green](https://www.bloomberg.com/green) - Climate news and insights on the latest in science, environmental impacts, zero-emission tech and green finance.
@@ -338,7 +344,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 
 ## Reforestation
 - [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
-- [Bunq Greencard](https://www.bunq.com/link/upgrade-greencard) - Dutch online-only bank with a credit card which plants trees for the money you spend.
+- [Bunq Greencard](https://www.bunq.com/easygreen) - Dutch online-only bank with a credit card which plants trees for the money you spend.
 - [Coforest](https://coforest.co.uk/) - To create our first co-forest in the Bath & Bristol area, we’re inviting organisations and individuals to adopt up to an acre of land. You’ll be able to name your forest plot and even help to plant it. Together, we’ll create a whole new forest.
 - [DigitalHumani](https://digitalhumani.com) - DigitalHumani offers a Reforestation as a Service, to help enterprises plant trees! Run by a volunteer collective, they provide simple Application Programming Interfaces (APIs) to help connect websites and mobile applications to trusted reforestation organizations to have trees planted.
 - [Dronecoria](http://dronecoria.org/) - Open-source drone reforestation technology. Drones, coupled with native coated seeds, can transform the efficiency with which we restore ecosystems.
@@ -421,7 +427,7 @@ With dams causing wild salmon populations to go extinct, their only benefit is h
 - [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
 - [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
 - [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
-
+- [Extinction Rebellion](https://rebellion.global/) - Extinction Rebellion is a decentralised, international and politically non-partisan movement using non-violent direct action and civil disobedience to persuade governments to act justly on the Climate and Ecological Emergency.
 - [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.
 - [Greenpeace](https://engage.us.greenpeace.org/onlineactions/Hx3BaZLxxkyUUo2Jfzsk7w2) - Greenpeace has many ways for people to get involved. Start small by launching and participating in campaigns and petitions, or go further and discover or create events. Play an active role in achieving a green and peaceful future!
 - [Habitat for Humanity](http://www.habitat.org/getinv) - Habitat for Humanity is well known for building simple, affordable homes for people in need. But recently the organization has implemented new programs recognizing climate change as a major threat to the environment and which can destroy the homes they build.

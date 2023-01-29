@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="onurakpolat/awesome-bigdata"></div>
+<div class="github-widget" data-repo="0xnr/awesome-bigdata"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Big Data
 
@@ -258,8 +258,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Chronix](http://chronix.io/) - a time series storage built to store time series highly compressed and for fast access times.
 * [Cube](http://square.github.io/cube/) - uses MongoDB to store time series data.
 * [Heroic](https://spotify.github.io/heroic/#!/index) - is a scalable time series database based on Cassandra and Elasticsearch.
-* [InfluxDB](https://questdb.io/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
-* [QuestDB](https://www.influxdata.com/) - distributed time series database.
+* [InfluxDB](https://www.influxdata.com/) - a time series database with optimised IO and queries, supports pgsql and influx wire protocols.
+* [QuestDB](https://questdb.io/) - high-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 * [IronDB](https://www.circonus.com/irondb/) - scalable, general-purpose time series database.
 * [Kairosdb](https://github.com/kairosdb/kairosdb) - similar to OpenTSDB but allows for Cassandra.
 * [M3DB](http://m3db.github.io/m3/m3db/) - a distributed time series database that can be used for storing realtime metrics at long retention.
@@ -637,6 +637,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [IFTTT](https://ifttt.com/) - If this then that
 * [Evrything](https://evrythng.com/)- Making products smart
 * [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
+* [Ably](https://ably.com/) - Pub/sub messaging platform for IoT 
 
 ## Interesting Readings
 

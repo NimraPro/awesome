@@ -43,7 +43,7 @@
 - [Flask-Login](https://flask-login.readthedocs.io/) - Account management and authentication.
 - [Flask Principal](https://pythonhosted.org/Flask-Principal/) - Authorization.
 - [Flask-Security-Too](https://flask-security-too.readthedocs.io/en/stable/) - Account management, authentication, authorization.
-- [Flask-SimpleLogin](https://github.com/flask-extensions/flask_simplelogin) - Authentication.
+- [Flask-SimpleLogin](https://github.com/flask-extensions/Flask-SimpleLogin) - Authentication.
 - [Flask-User](https://flask-user.readthedocs.io) - Account management, authentication, authorization.
 
 > Curious about the differences differences between Flask-User and Flask-Security? Review the Flask-User [FAQ](https://flask-user.readthedocs.io/en/latest/faq.html).
@@ -68,7 +68,7 @@
 ### Data Validation and Serialization
 
 - [Flask-Marshmallow](https://flask-marshmallow.readthedocs.io) - Thin integration layer for Flask and marshmallow (an object serialization /deserialization library) that adds additional features to marshmallow.
-- [Flask-Pydantic](https://github.com/bauerji/flask_pydantic) - [Pydantic](https://github.com/samuelcolvin/pydantic) support.
+- [Flask-Pydantic](https://github.com/bauerji/flask-pydantic) - [Pydantic](https://github.com/pydantic/pydantic) support.
 
 ### Databases
 
@@ -111,11 +111,11 @@
 
 #### Logging
 
-- [Rollbar](https://rollbar.com/error-tracking/flask/) - Flask error logging with Rollbar.
+- [Rollbar](https://rollbar.com/platforms/flask-error-tracking/) - Flask error logging with Rollbar.
 
 #### Monitoring
 
-- [Airbrake](https://airbrake.io/docs/installing-airbrake/installing-airbrake-in-a-flask-app/) - Airbrake Flask integration.
+- [Airbrake](https://docs.airbrake.io/docs/platforms/framework/python/flask/) - Airbrake Flask integration.
 - [Elastic APM Agent](https://www.elastic.co/guide/en/apm/agent/python/current/flask-support.html) - Elastic APM Flask integration.
 - [Flask Monitoring Dashboard](https://flask-monitoringdashboard.readthedocs.io) - Dashboard for automatic monitoring of Flask web-services.
 - [Sentry Python SDK](https://sentry.io/for/flask/) - Sentry SDK Flask integration.
@@ -170,6 +170,7 @@
 - [Flask-Limiter](https://flask-limiter.readthedocs.io) - Rate limiting features to Flask routes.
 - [Flask-Moment](https://github.com/miguelgrinberg/Flask-Moment) - Moment.js date and time formatting helpers for Jinja2 templates.
 - [Flask-Paginate](https://pythonhosted.org/Flask-paginate/) - Pagination support.
+- [Flask-Reactize](https://github.com/Azure-Samples/flask-reactize) - Hides the Node.js development backend for React behind a Flask application.
 - [Flask-Shell2HTTP](https://github.com/Eshaan7/Flask-Shell2HTTP) - RESTful/HTTP wrapper for Python's subprocess API, so you can convert any command-line tool into a RESTful API service.
 - [Flask-Sitemap](https://flask-sitemap.readthedocs.io) - Sitemap generation.
 - [Flask-SocketIO](https://flask-socketio.readthedocs.io) - Socket.IO integration.
@@ -205,7 +206,7 @@
 
 ### Conferences
 
-- [FlaskCon](https://flaskcon.com/) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
+- [FlaskCon](https://twitter.com/flaskcon) - Community driven Flask event intended for speakers and attendees all over the world to participate in technical and evangelical sessions related to Flask.
 - [PyConWeb](https://twitter.com/pyconweb) - Covers Django, Tornado, Flask, API frameworks. AsyncIO, networking, Frontend, JavaScript, and web security.
 - [Flask Conf Brazil](https://2019.flask.python.org.br/) - Conference for the developers and users of Flask.
 - [PyCon US](https://us.pycon.org/) - The largest annual gathering for the community using and developing the open-source Python programming language.
@@ -265,7 +266,7 @@
 - [PythonAnywhere](https://www.pythonanywhere.com/details/flask_hosting)
 - [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 - [Google App Engine](https://cloud.google.com/appengine/)
-- [Microsoft Azure App Service](https://azure.microsoft.com/services/app-service/)
+- [Microsoft Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 - [Divio](https://www.divio.com)
 - [Render](https://render.com/)
 
@@ -298,7 +299,6 @@ Compute:
 
 - [cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - With Bootstrap 4, asset bundling annd minification with webpack, starter templates, and registration/authentication.
 - [Cookiecutter Flask Skeleton](https://github.com/testdrivenio/cookiecutter-flask-skeleton) - Flask starter project for [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
-- [gae-init](https://gae-init.appspot.com) - For starting new applications on Google App Engine.
 - [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application development framework that includes detailed security, auto CRUD generation for your models, Google charts, and much more.
 - [flask-base](http://hack4impact.github.io/flask-base/) - Includes SQLAlchemy, Redis, User Authentication, and more.
 - [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) - Integrated SQLAlchemy, authentication, and Bootstrap frontend.

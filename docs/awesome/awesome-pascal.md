@@ -1,8 +1,8 @@
 <div class="github-widget" data-repo="Fr0sT-Brutal/awesome-pascal"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Pascal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Pascal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Delphi, FreePascal and other *Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+A curated list of awesome Delphi, FreePascal and other *Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-xxx stuff.
 
 **Note that only open-source projects are considered. Dead projects (not updated for 3 years or more) must be really awesome or unique to be included.**
 Feel free to suggest other missing nice projects either by comments or pull requests.
@@ -12,52 +12,52 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 :exclamation: **Note on compiler compatibility**. There are compiler/language dialect compatibility badges for all projects based on a project's description. No real compatibility with compilers not officially supported is checked. Often a code could be used with non-supported compiler/language dialect with minor modifications but there could be exceptions.
 
 
-- [Awesome Delphi](#awesome-delphi)
-	- [General Libraries](#general-libraries)
-	- [Multimedia](#multimedia)
-		- [Audio](#audio)
-		- [Video](#video)
-		- [Graphic](#graphic)
-	- [Game dev](#game-dev)
-	- [Communications](#communications)
-		- [Network](#network)
-		- [Serial port](#serial-port)
-	- [GUI](#gui)
-		- [Control packs](#control-packs)
-		- [Single controls](#single-controls)
-		- [Editors](#editors)
-		- [Viewers](#viewers)
-		- [Other GUI](#other-gui)
-	- [Database](#database)
-	- [Scripting](#scripting)
-	- [Machine Learning](#machine-learning)
-	- [Non-visual Classes/Utils](#non-visual-classesutils)
-		- [Compression](#compression)
-		- [Encryption](#encryption)
-		- [XML/JSON/YAML](#xmljsonyaml)
-		- [Language](#language)
-		- [Memory managers](#memory-managers)
-		- [System](#system)
-		- [Template](#template)
-		- [Logging](#logging)
-		- [Math](#math)
-		- [Command-line](#command-line)
-		- [Other non-visual](#other-non-visual)
-	- [OS](#os)
-	- [Report generating](#report-generating)
-	- [Unit Testing](#unit-testing)
-	- [Debugging / error handling](#debugging--error-handling)
-	- [Utilities](#utilities)
-		- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
-		- [Plugins for other IDE's](#plugins-for-other-ides)
-		- [Documentation](#documentation)
-		- [Code check/review, debug](#code-checkreview-debug)
-		- [Setup](#setup)
-		- [Other](#other)
+- [General Libraries](#general-libraries)
+- [Multimedia](#multimedia)
+	- [Audio](#audio)
+	- [Video](#video)
+	- [Graphic](#graphic)
+- [Game dev](#game-dev)
+- [Communications](#communications)
+	- [Network](#network)
+	- [Serial port](#serial-port)
+- [GUI](#gui)
+	- [Control packs](#control-packs)
+	- [Single controls](#single-controls)
+	- [Editors](#editors)
+	- [Viewers](#viewers)
+	- [Other GUI](#other-gui)
+- [Database](#database)
+- [Scripting](#scripting)
+- [Machine Learning](#machine-learning)
+- [Non-visual Classes/Utils](#non-visual-classesutils)
+	- [Compression](#compression)
+	- [Encryption](#encryption)
+	- [XML/JSON/YAML/HTML](#xmljsonyamlhtml)
+	- [Language](#language)
+	- [Memory managers](#memory-managers)
+	- [System](#system)
+	- [Template](#template)
+	- [Logging](#logging)
+	- [Math](#math)
+	- [Command-line](#command-line)
+	- [Other non-visual](#other-non-visual)
+- [OS](#os)
+- [Report generating](#report-generating)
+- [Unit Testing](#unit-testing)
+- [Debugging / error handling](#debugging--error-handling)
+- [Utilities](#utilities)
+	- [RAD Studio IDE plugins/wizards](#rad-studio-ide-pluginswizards)
+	- [Plugins for other IDE's](#plugins-for-other-ides)
+	- [Documentation](#documentation)
+	- [Code check/review, debug](#code-checkreview-debug)
+	- [Setup](#setup)
+	- [Other](#other)
 
-----------------------------------------------------------------------------------------------------------------
+---
 
 ## General Libraries ##
+
 *Big general-purpose libraries*
 
 * [JCL](https://github.com/project-jedi/jcl). `[Delphi]` `[FPC]` Set of thoroughly tested and fully documented utility functions and non-visual classes which can be instantly reused in your Delphi and C++ Builder projects. The library is grouped into several categories such as Strings, Files and I/O, Security, Math and many, many more.
@@ -91,11 +91,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [unRxLib](http://www.micrel.cz/RxLib/dfiles.htm). `[Delphi]` Effort to keep RxLibrary (library of 60+ components) actual.
 
-* [QuickLib](https://github.com/exilon/QuickLib). `[Delphi]` `[FPC]` Quick development library (AutoMapper, LinQ, IOC Dependency Injection, MemoryCache, Scheduled tasks, Config, Serializers, Json Serialize, Chronometer, Threads, Lists, Config, Console services etc) with crossplatform support for Delphi/Firemonkey (Windows,Linux,OSX/IOS/Android) and freepascal (Windows/Linux).
+* [QuickLib](https://github.com/exilon/QuickLib). `[Delphi]` `[FPC]` Quick development library (AutoMapper, LinQ, IOC Dependency Injection, MemoryCache, Scheduled tasks, Config, Serializers, Json Serialize, Chronometer, Threads, Lists, Config, Console services etc) with crossplatform support for Delphi/Firemonkey (Windows,Linux,macOS/IOS/Android) and freepascal (Windows/Linux).
 
 * [KOL](https://sourceforge.net/projects/kolmck). `[Delphi]` `[FPC]` ([KOL-CE](https://sourceforge.net/p/kol-ce) port to FPC) KEY OBJECTS LIBRARY for Delphi (and FPC) - to make applications small and power. This library is freeware and open source. MCK is a kit of mirror classes for the VISUAL project development in Delphi environment using KOL library.
 
 * [cwRuntime](https://chapmanworld.com/cwRuntime/). `[Delphi]` `[FPC]` Compiler agnostic and cross platform collection of utility libraries for Delphi and FreePascal. It is heavily interface based, offering ARC based memory management features and flexible implementation abstraction, with the goal of forming a source bridge for developers familiar with the two supported compilers. Unit testing, collections/containers, multiplatform interface for loading dynamic libraries, Unicode utils, interfaces for working with streams and buffers, logging, threading, high-precision timers, sockets.
+
+* [minilib](https://github.com/parmaja/minilib). `[Delphi]` `[FPC]` cross platform library, Socket wrapper (include SSL and TLS), and Database connection (SQLite, PostgeeSQL, FirebirdSQL, MariaDB), XML reader and writer, ComPort (COM1, COM2 etc).
 
 
 ## Multimedia ##
@@ -114,6 +116,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Audorra](https://sourceforge.net/projects/audorra). `[Delphi]` `[FPC]` Digital audio library for Delphi and Freepascal. Using a flexible plugin architecture, it allows you to exchange the audio backend (e.g. WaveOut, OpenAL), add protocol classes (e.g. file, http) and decoders.
 
+* [Delphi-BASS](https://github.com/TDDung/Delphi-BASS). `[Delphi]` Delphi's FMX and VCL header/wrapper units for [BASS](https://www.un4seen.com) audio library plus add-ons.
+
 
 ## Video
 
@@ -130,6 +134,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 
 ## Graphic
+
 *Image files, free drawing, barcodes etc. There are also some drawing engines in [Game dev](#game-dev) section*
 
 * [Graphics32](https://github.com/graphics32/graphics32). `[Delphi]` `[FPC]` Designed for fast 32-bit graphics handling on Delphi, Kylix and Lazarus. Optimized for 32-bit pixel formats, it provides fast operations with pixels and graphic primitives, and in most cases Graphics32 outperforms the standard TCanvas classes. It is almost a hundred times faster in per-pixel access and about 2-5 times faster in drawing lines.
@@ -140,7 +145,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CCR-EXIF](https://code.google.com/p/ccr-exif) (seems abandoned, list of forks on GH [here](https://github.com/search?l=Pascal&o=desc&q=ccr-exif&s=updated&type=Repositories)). `[Delphi]` Library to read and write Exif, IPTC and XMP metadata from JPEG, TIFF and PSD images.
 
-* [KIcon](http://www.tkweb.eu/en/delphicomp/kicon.html). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
+* [KIcon](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` This component makes sense if a more complex manipulation with icons (or better icon files *.ico) than just viewing is needed. Full PNG icon image support, correct rendering, icons with alpha channel.
 
 * [Delphi Twain](http://www.kluug.net/delphitwain.php). `[Delphi]` `[FPC]` The library allows you to easily access scanning functions from Delphi and Lazarus.
 
@@ -162,7 +167,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [AsciiImage](https://github.com/Memnarch/AsciiImage). `[Delphi]` AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
 // *Creates scalable monochrome image from ASCII pixel map*
 
-* [PngComponents](https://bitbucket.org/uweraabe/pngcomponents). `[Delphi]` PngComponents is a set of components that allows you to include in your application real PNG files. PNG files on their own do not generate an enourmous advantage, but their support for an alpha-channel does indeed have quite a charm to it.
+* [PngComponents](https://github.com/UweRaabe/PngComponents). `[Delphi]` PngComponents is a set of components that allows you to include in your application real PNG files. PNG files on their own do not generate an enourmous advantage, but their support for an alpha-channel does indeed have quite a charm to it.
 
 * [AggPasMod](https://github.com/CWBudde/AggPasMod). `[Delphi]` Modernized Pascal Anti-Grain Geometry. Based on AggPas, which is itself based on the Anti-Grain Geometry, this project offers support for the latest Delphi Versions (XE and above) and contains some helper classes (VCL components and FireMonkey interface). 2D vector graphics library. Basically, you can think of AggPas as of a rendering engine that produces pixel images in memory from some vectorial data. But of course, AGG can do much more than that.
 // *Vector graphic library, renders SVG and much more*
@@ -177,7 +182,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Zint-Barcode-Generator-for-Delphi](https://github.com/landrix/Zint-Barcode-Generator-for-Delphi). `[Delphi]` Native Delphi port of Zint-Barcode-Generator.
 
-* [QuickImageFX](https://github.com/exilon/QuickImageFX). `[Delphi]` Delphi library for simplifying image load/save, conversion and transformation. Load/save png, jpg, gif and bmp. get image from different resources: file, stream, http, imagelist, associated windows icon, executable file icon, etc... Rotate, flip, grayscale and many other transformations.
+* [QuickImageFX](https://github.com/exilon/QuickImageFX). `[Delphi]` Delphi library for simplifying image load/save, conversion and transformation. Load/save png, jpg, gif and bmp. get image from different resources: file, stream, http, imagelist, associated windows icon, executable file icon, etc. Rotate, flip, grayscale and many other transformations.
 
 * [NativeJpg](https://code.google.com/p/simdesign). `[Delphi]` Fully object-oriented Pascal implementation that allows to read and write Jpeg files. You can use this software to read and write Jpeg images from files or streams. It supports baseline and progressive Jpeg, support for metadata, as well as all conceivable lossless operations.
 
@@ -195,15 +200,30 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Mundus](https://github.com/Memnarch/Mundus). `[Delphi]` Software renderer written in Delphi. Currently supports only Win32 as it makes use of some inline assembler.
 
+* [Image32](https://sourceforge.net/projects/image32). `[Delphi]` `[FPC]` ([Website](http://www.angusj.com/delphi/image32/Docs/_Body.htm)) 2D graphics library written in Delphi Pascal. It provides an extensive range of image manipulation functions and includes a line and polygon renderer supporting a wide range of brush filling options.
+
+* [SVGIconImageList](https://github.com/EtheaDev/SVGIconImageList). `[Delphi]` Four engines to render SVG (Delphi TSVG, Delphi Image32, Direct2D or Cairo) and four components to simplify use of SVG images (resize, fixedcolor, grayscale, etc).
+
+* [Skia4Delphi](https://github.com/viniciusfbb/skia4delphi). `[Delphi]` Cross-platform 2D graphics API for Delphi platforms based on Google's Skia Graphics Library. It provides a comprehensive 2D API that can be used across mobile, server and desktop models to render images.
+
+* [PdfiumLib](https://github.com/ahausladen/PdfiumLib). `[Delphi]` Example of a PDF VCL Control using PDFium
+
+* [llPDFLib](https://github.com/SybrexSys/llPDFLib). `[Delphi]` Pure Object Pascal library to create PDF documents. This library doesn’t use any DLL or external third-party software to generate PDF files. Library includes TPDFDocument component with properties and methods like Delphi’s TPrinter but is designed to generate a PDF file.
+
+* [ImageQuality](https://github.com/GodModeUser/ImageQuality). `[Delphi]` `[FPC]` A library for objectively measuring image/video quality. It implements many popular algorithms, such as MS-SSIM, MS-SSIM*, SIMM, MSE, and PSNR. It is designed to be fast, accurate, and reliable. It can be compiled directly and requires no additional libraries.
+
+* [DelphiX](http://www.micrel.cz/Dx/) `[Delphi]` `[FPC]` A good wrapper to DirectX. It can be used to create games or any kind of graphical interface.
+
+
 ## Game dev ##
+
 *There are also some drawing engines suitable for game dev in [Graphic](#graphic) section*
 
 * [RecastNavigation](https://github.com/Kromster80/RecastNavigationDelphi). `[Delphi]` Navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
 
 * [Kraft Physics Engine](https://github.com/BeRo1985/kraft). `[Delphi]` `[FPC]` Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS)
 
-* [ZenGL](https://github.com/andru-kun/zengl). `[Delphi]` `[FPC]` OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.
-// *Not updated lately, but is working ok*
+* [ZenGL](https://github.com/Seenkao/New-ZenGL). `[Delphi]` `[FPC]` OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc.
 
 * [Asphyre aka Platform eXtended Library (PXL)](https://sourceforge.net/projects/asphyre). `[Delphi]` `[FPC]` Cross-platform framework for developing 2D/3D video games, interactive and scientific applications. It aids the developer with mathematics, hardware control, resource management, displaying real-time graphics and text, handle user input and network communication capabilities.
 
@@ -211,7 +231,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub](https://github.com/niuniomartinez/allegro-pas)). `[Delphi]` `[FPC]` Wrapper to use the Allegro game library with Pascal/Delphi.
 
-* [Castle Game Engine](https://github.com/castle-engine/castle-engine). `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
+* [Castle Game Engine](https://github.com/castle-engine/castle-engine). `[Delphi]` `[FPC]` Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
 
 * [TileEngine](http://www.tilengine.org). ([GitHub](https://github.com/turric4n/PascalTileEngine)) `[Delphi]` `[FPC]` OOP Pascal Wrapper and bindings for Tilengine 2D retro graphics engine. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
 
@@ -227,11 +247,16 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Apus Game Engine](https://github.com/Cooler2/ApusGameEngine). `[Delphi]` `[FPC]` Cross-platform library for making mostly 2D games, GUI applications and web services. Supports UI, text rendering, on-fly localization, particles, basic scripting and many lower level subsystems. Uses OpenGL/GLES and DirectX.
 
+* [Delphi3D Engine](https://github.com/BrokenGamesUG/delphi3d-engine). `[Delphi]` A 3D-graphic and game engine for Delphi and Windows
+
+* [Ray4Laz](https://github.com/GuvaCode/Ray4Laz). `[FPC]` A complete header translation (binding) of [raylib](https://www.raylib.com/) to Pascal.
+
 
 ## Communications ##
 
 
 ## Network
+
 *Socket communication, network protocols, encodings, etc*
 
 * [Internet Component Suite](http://www.overbyte.be/frame_index.html). `[Delphi]` Asynchronous-based library composed of various Internet components and applications. Clients/servers for TCP, UDP, raw sockets, FTP, SMTP, POP3, NNTP, HTTP, Telnet and more. Supports SSL and TLS with the help of OpenSSL. Also includes Mime Decoder, SHA1/MD4/MD5 hashes, DES encryption.
@@ -239,7 +264,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Indy](https://github.com/IndySockets/Indy). `[Delphi]` `[FPC]` Network components for Delphi, C++Builder, Delphi.NET, and FreePascal
 // *All-in-one network library based on blocking sockets and threads. Included in default RAD studio installation since 2006.*
 
-* [Ararat Synapse](https://sourceforge.net/p/synalist). `[Delphi]` `[FPC]` Pascal TCP/IP Library for Delphi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems (no required multithread synchronisation, no need for windows message processing,...) Great for command line utilities, visual projects, NT services,...
+* [Ararat Synapse](https://sourceforge.net/p/synalist). `[Delphi]` `[FPC]` Pascal TCP/IP Library for Delphi, C++Builder, Kylix and FreePascal. Deals with network communication by means of blocking (synchronous) sockets or with limited non-blocking mode. This project not using asynchronous sockets! The Project contains simple low level non-visual objects for easiest programming without problems (no required multithread synchronisation, no need for windows message processing, etc) Great for command line utilities, visual projects, NT services, etc
 // *TCP, UDP, ICMP, RAW; ICMP, DNS, SMTP, HTTP, SNMP, NTP, FTP, LDAP, NNTP, Telnet;  IPv6; SOCKS proxy; SSL/TLS (via OpenSSL or Windows CryptoApi); PING; character code transcoding; MIME coding and decoding; CRC16, CRC32, MD5 and HMAC-MD5.*
 
 * [Internet Professional](http://sourceforge.net/projects/tpipro2010). `[Delphi]` Set of VCL components providing Internet connectivity for Borland Delphi & C++Builder. iPRO includes POP3, SMTP, NNTP, FTP, HTTP, Instant Messaging, & HTML viewer components, as well as components for low-level socket access.
@@ -248,7 +273,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [SynCrtSock](https://github.com/synopse/mORMot/blob/master/SynCrtSock.pas). `[Delphi]` `[FPC]` Features several sockets and HTTP client-server classes, including a high-performance http.sys based server under Windows, and a new thread-pool powered socket server.
 // *Also implements http.sys binding under Windows and cURL binding under nix*
 
-* [TML Messaging Suite](http://www.libtml.org/docs/libtml-pascal). `[Delphi]` `[FPC]` Network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081). libTML is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
+* [TML Messaging Suite](https://github.com/tml21/libtml-pascal). `[Delphi]` `[FPC]` Network messaging library for rapid development of extensible and scalable interfaces. Based on the peer to peer standard protocol [BEEP (Blocks Extensible Exchange Protocol)](http://www.beepcore.org), defined in [RFC3080](https://tools.ietf.org/html/rfc3080) and [RFC3081](https://tools.ietf.org/html/rfc3081). libTML is suitable for many use cases and communication patterns. Equipped with a type safe data API, TML can transport hierarchical data structures fast and reliable.
 // *The libTML Object Pascal Components are not only a language binding to the core library but a complete set of non visual components to simplify the usage of libTML with Embarcadero RAD Studio and Lazarus.*
 
 * [DMVCFramework](https://github.com/danieleteti/delphimvcframework). `[Delphi]` Popular and powerful framework for web solution in Delphi.
@@ -260,7 +285,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphi-slackbot](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
 
-* [Kitto](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, Javascript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
+* [Kitto](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, JavaScript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
 
 * [Daraja Framework](https://github.com/michaelJustin/daraja-framework). `[Delphi]` `[FPC]` Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
 
@@ -282,8 +307,6 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
-* [Rest-Dataware-Componentes](https://github.com/Rest-Dataware/RDW-Componente). `[Delphi]` `[FPC]` Was created to facilitate the creation of CRUDs in the same model that we created applications for Client / Server Database. With REST DW, you no longer have to worry about creating SQL Insertion, Deletion, Read and Execution methods via Webservice; Simply add a RESTDataBase connection component and add a RESTClientSQL component that will already have your SQL solution fully functional as it did back in the day and with all the power of modern REST / JSON technology with data compression and everything the language can offer.
-
 * [STOMP Client](https://github.com/danieleteti/delphistompclient). `[Delphi]` `[FPC]` STOMP client for Embarcadero Delphi and FreePascal. The project can use INDY (Delphi) or Synapse (Delphi or FreePascal).
 
 * [delphiXero](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
@@ -294,9 +317,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Fano Framework](https://fanoframework.github.io). `[FPC]` Web application framework for modern Pascal programming language. It is written in Free Pascal.
 
-* [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
+* [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/macOS/Android, an XSLT-inspired webscraping language, and an auto update class.
 
-* [Delphi Cross Socket](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(MacOSX, iOS...)), EPOLL (Linux(Linux, Android...)).
+* [Delphi Cross Socket](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)).
 
 * [ToroKernel](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
 
@@ -320,12 +343,48 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi Modbus](https://github.com/coassoftwaresystems/delphi-modbus). `[Delphi]` `[FPC]` Implementation of a ModbusTCP protocol master and slave over TCP/IP.
 
-* [RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi). `[Delphi]` RESTRequest4Delphi is a API to consume REST services written in any programming language.
-Designed to facilitate development, in a simple and minimalist way.
+* [RESTRequest4Delphi](https://github.com/viniciussanchez/RESTRequest4Delphi). `[Delphi]` RESTRequest4Delphi is a API to consume REST services written in any programming language. Designed to facilitate development, in a simple and minimalist way.
 
 * [LazWebsockets](https://github.com/Warfley/LazWebsockets). `[FPC]` This provides a small Websocket server and client implementation written for the FPC and Lazarus. It is fully based upon the fcl ssockets unit and therefore independent from any additional dependencies except from the FCL.
 
 * [NetCom7](https://github.com/DelphiBuilder/NetCom7). `[Delphi]` This set of components is the fastest possible implementation of socket communications, in any language; this is an extremely optimised code on TCP/IP sockets.
+
+* [VK API](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).
+
+* [AWS SDK for Dephi](https://github.com/landgraf-dev/aws-sdk-delphi). `[Delphi]` Unofficial AWS (Amazon Web Services) SDK for Delphi.
+**WARNING! Requires paid libs from TMS**
+
+* [Voice Communication](https://github.com/terrylao/voice_communication). `[Delphi]` Voice Communicator Components.
+// *Implement RTP, RTSP, SHOUT, SNTP, STUN protocols and multiple audio format endocing/deconding*
+
+* [libPasCURL](https://github.com/isemenkov/libpascurl). `[Delphi]` `[FPC]` Bindings and wrapper around cURL library. libcurl is the library is using for transferring data specified with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP.
+
+* [Delphi_SChannelTLS](https://github.com/Fr0sT-Brutal/Delphi_SChannelTLS). `[Delphi]` Helper functions and socket classes to perform TLS communication by means of WinAPI (SChannel). Includes Overbyte ICS TWSocket descendant class.
+
+* [Delphi-Kafka](https://github.com/HeZiHang/Delphi-Kafka). `[Delphi]` High performance Delphi client based on Librdkafka with full protocol support.
+
+* [DelphiKafkaClient](https://github.com/norgepaul/DelphiKafkaClient). `[Delphi]` Cross platform Delphi client/wrapper for Apache Kafka. Windows (i386/x64) and Linux (x64) are supported. Tested on Delphi 10.4, but should work with all modern Delphi releases. While it appears to work as expected, the project is a proof of concept and has never been tested in production.
+
+* [KafkaGate](https://github.com/dinmil/KafkaGate). `[FPC]` Apache Kafka Free Pascal bindings using librdkafka and ZeroMQ.
+
+* [delphi-mqtt](https://github.com/pjde/delphi-mqtt). `[Delphi]` MQTT server and client components for Delphi based on ICS network components.
+
+* [mqtt](https://github.com/bkeevil/mqtt). `[FPC]` Message Queue Telemetry Transport (MQTT) client and server component pack for Lazarus/FPC with demo applications. For the client and server demo applications the LNet components are used.
+
+* [LNet](https://github.com/almindor/lnet). `[FPC]` Lightweight Networking library written in Free Pascal. Asynchronous, TCP/UDP communications classes. LTCP, LUDP, LTELNET, LFTP and LSMTP are example programs.
+
+* [NamedPipeExchange](https://github.com/kami-soft/NamedPipeExchange). `[Delphi]` Server and client classes for communication via named pipes. Based on
+[FWIOCompletionPipes](http://rouse.drkb.ru/network.php#fwiocompletionpipe) unit.
+
+* [delphizmq](https://github.com/bvarga/delphizmq). `[Delphi]` `[FPC]` This is a binding for ZeroMQ. Should work with Delphi7+ versions and with FPC 2.6.0. The package contains a wrapper (zmq.pas), and a higher level api (zmqapi.pas). It should work with ZMQ 2.2.x, and with 3.2.x. For version 2.2.x undefine zmq3, in zmq.inc. The dll's are not part of this repo, you can download the appropriate from the official distro, and rename it to libzmq.dll.
+
+* [xxm](https://github.com/stijnsanders/xxm) `[Delphi]` xxm enables you to create dynamic websites in Delphi, combining both Delphi and HTML in the source files. The project is compiled into a module, ready for use by a pluggable protocol handler in Internet Explorer, an ISAPI Extension, an Apache module, with HTTPAPI, with CGI or SCGI, or a stand-alone HTTP server.
+
+* [WebSocket Component for Delphi](https://bitbucket.org/freeonterminate/websocket/src/master/) `[Delphi]` WebSocket Component for Delphi, platforms: Windows / macOS / Linux (Maybe iOS, Android)
+
+* [Bird Socket Server](https://github.com/mateusvicente100/bird-socket-server) `[Delphi]` This is a websocket server for Delphi.
+
+* [RealThinClient SDK](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` RealThinClient SDK is a flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
 
 
 ## Serial port
@@ -338,20 +397,24 @@ Designed to facilitate development, in a simple and minimalist way.
 * [TComPort](https://sourceforge.net/projects/comport). `[Delphi]` Delphi/C++ Builder serial communications components. It is generally easy to use for basic Serial Communications purposes.
 // *Seems abandoned since 2011*
 
+* [ComPortDriver] (https://github.com/MHumm/ComPortDriver). '[Delphi]' Delphi/C++ Builder serial communications component. Tested up to 921600 baud. Supports sending break as well. Works asynchronously by polling via timer (interval configurable). Demo included.
+
 
 ## GUI ##
+
 *Visual components*
 
 
 ## Control packs
+
 *Large sets of GUI controls*
 
-* [Cindy components](http://sourceforge.net/projects/tcycomponents). `[Delphi]` Packages with 71 components: VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc...
+* [Cindy components](http://sourceforge.net/projects/tcycomponents). `[Delphi]` Packages with 71 components: VCL controls (labels, buttons, panels, Edits, TabControls, StaticText) with features like background gradient, colored bevels, wallpaper, shadowText, caption orientation etc.
 
 * [Orpheus](http://sourceforge.net/projects/tporpheus) ([Newest](https://github.com/TurboPack/Orpheus) and maintained version for recent compiler version only). `[Delphi]` Award-winning UI toolkit for Borland Delphi & C++Builder. It contains over 120 components covering everything from data entry to calendars and clocks. Other noteworthy components include an Object Inspector, LookOut bar & report views.
 // *Advanced edits, comboboxes, grids + component (de)serializers. GUI components look rather old-style, theme support might be limited. Package contains many demos but no docs seem available. Second link points to an adapted version for newest compiler versions.*
 
-* [KControls](http://www.tkweb.eu/en/delphicomp/kcontrols.html). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
+* [KControls](https://github.com/ThomasJaeger/KControls). `[Delphi]` `[FPC]` Control components. All controls have been written with the aim to become both cross-IDE compatible (Delphi/C++Builder VCL and Lazarus LCL) and cross-platform compatible in Lazarus.
 // *Most useful are TKGrid with its DB-aware heritage TKDBGrid — a very full-featured grid implementation incl. inplace editors. There's also hex editor, print preview, editors, labels, buttons etc.*
 
 * [D.P.F Delphi Android](http://sourceforge.net/projects/dpfdelphiandroid) / [D.P.F Delphi iOS](http://sourceforge.net/projects/dpfdelphiios) native components. `[Delphi]` D.P.F Delphi Native Components, 100% iOS Performance and styles. Develop iPhone & iPad & iPod Touch applications with fast native performance and native styles. Use native Android controls and services. Fast native performance. Mixed with FM VCL controls. Can be quick updated with latest Android controls & features.
@@ -367,6 +430,12 @@ Designed to facilitate development, in a simple and minimalist way.
 * [DelphiUCL](https://github.com/VuioVuio/DelphiUCL). `[Delphi]` UWP controls for Delphi VCL.
 
 * [JPPack](https://github.com/jackdp/JPPack). `[Delphi]` `[FPC]` Collection of VCL components for Delphi and LCL components for Lazarus and CodeTyphon - buttons, panels, LinkLabel, ProgressBar, ColorComboBox, ColorListBox, Timer and other
+
+* [DDuce](https://github.com/beNative/dduce). `[Delphi]` Components, modules, extensions and primitives using Delphi new language features like operator overloading, attributes, generics, anonymous methods and extended RTTI providing some new powerful tools to extend the developer's creativity.
+// *Property editors, grids, XML Tree, etc*
+
+* [liblcl](https://github.com/ying32/liblcl). `[FPC]` A common cross-platform GUI library, the core uses Lazarus LCL.
+// *Pascal-based lib with GUI bindings for use in languages like C++, Go, Rust.*
 
 
 ## Single controls
@@ -393,11 +462,11 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [neTabControl](https://github.com/jkour/neTabControl). `[Delphi]` FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
-* [ATTabs](https://github.com/Alexey-T/ATTabs). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
+* [ATTabs](https://github.com/Alexey-T/ATFlatControls). `[Delphi]` `[FPC]` Delphi/Lazarus component for lite tabs. OS independent, fully custom drawn.
 
 * [zControls](https://github.com/MahdiSafsafi/zcontrols). `[Delphi]` Contains TzObjectInspector - a powerful object inspector with many features.
 
-* [RiverSoftAVG Charting Component Suite](http://www.riversoftavg.com/charting.htm). `[Delphi]` Free (for non-commercial use) with source charting Suite for adding charts and graphs to your programs. For Delphi 2010-Tokyo (Win32/Win64/OSX/iOS/Android) and Appmethod (Object Pascal).
+* [RiverSoftAVG Charting Component Suite](http://www.riversoftavg.com/charting.htm). `[Delphi]` Free (for non-commercial use) with source charting Suite for adding charts and graphs to your programs. For Delphi 2010-Tokyo (Win32/Win64/macOS/iOS/Android) and Appmethod (Object Pascal).
 
 * [DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText). `[Delphi]` `[FPC]` Visual component that allows you to specify a formatted text in a label, using almost the same syntax used in HTML code.
 
@@ -405,17 +474,22 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [decTreeView](https://github.com/DenisAnisimov/decTreeView). `[Delphi]` The decTreeView library is an alternative implementation of the TreeView (SysTreeView32) control
 
+* [TeeGrid](https://github.com/Steema/TeeGrid). `[Delphi]` `[FPC]` Lightweight full-featured Grid / Tabular control. For Embarcadero RAD Studio 2009 and up to Sydney 10.4, Delphi and C++, VCL and Firemonkey frameworks (all platforms: Windows 32 and 64 bit, Mac OSX, Android and iOS), and Lazarus FreePascal (Windows, Linux, etc)
+
+* [AXW Ribbon](https://www.axolot.com/axwribbon.htm). `[Delphi]` Ribbon component with the Office 2016 style. Works with Delphi 7 and up to the current Delphi version. Will probably compile with Delphi 6 and possibly Delphi 5.
+
 
 ## Editors
 
 * [SynEdit](https://sourceforge.net/projects/synedit) ([mirror at GitHub](https://github.com/TurboPack/SynEdit)). `[Delphi]` Syntax highlighting edit control, not based on the Windows common controls. SynEdit is compatible with both Delphi and Kylix
 
-* [BCEditor](https://github.com/bonecode/BCEditor). `[Delphi]` Syntax highlighting edit control with code folding, minimap, external JSON highlighter and color scheme files, etc.
-// *Seems abandoned. Developer recommends using SynEdit instead*
-
 * [LazEdit](https://svn.code.sf.net/p/lazarus-ccr/svn/applications/lazedit). `[FPC]` General text editor with syntax highlighting and tools to help edit HTML.
 
 * [ATSynEdit](https://github.com/Alexey-T/ATSynEdit). `[FPC]` Multi-line editor control for Lazarus including syntax highlighting.
+
+* [QDSEquations](https://github.com/karser/QDSEquations). `[Delphi]` Equation editor for Delphi and Lazarus that allows you to enter and display math formulas of any complexity, from simple Greek symbols to matrixes and complex integral expressions.
+
+* [TBCEditor](https://github.com/LaKraven/TBCEditor). `[Delphi]` A syntax highlighting edit control for RAD Studio (Delphi/C++ Builder) with code folding, completion proposal, matching pair, minimap, sync edit, word wrap, etc. External highlighter and color scheme files are in JSON format which can be also loaded from a stream.
 
 
 ## Viewers
@@ -436,10 +510,12 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [CEF4Delphi](https://github.com/salvadordf/CEF4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC
 
+* [WebView4Delphi](https://github.com/salvadordf/WebView4Delphi). `[Delphi]` `[FPC]` Project to embed Chromium-based browsers in applications made with Delphi or Lazarus/FPC for Windows.
+
 
 ## Other GUI
 
-* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary) and [here](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines,... All objects that you can put into a map.
+* [GMLib](https://code.google.com/p/gmlibrary) (Google Maps Library) (seems abandoned, active fork on GH [here](https://github.com/bero/GMLibrary) and [here](https://github.com/cadetill/gmlib_v1)). `[Delphi]` Components for Delphi/C++ Builder that encapsulate the GoogleMaps API to administrate a map, markers, polygons, rectangles, polylines, etc. All objects that you can put into a map.
 
 * [VCL Styles Utils](https://github.com/rruz/vcl-styles-utils). `[Delphi]` Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
 // *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno Setup and NSIS also available.*
@@ -465,9 +541,16 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [TLanguages](https://github.com/albertodev01/TLanguages). `[Delphi]` Localization tool for VCL and FMX.
 
-* [Dam](https://github.com/digao-dalpiaz/Dam). `[Delphi]` Delphi Message Dialogs with Formatted Text.
+* [BitMapEditor - Delphi](https://github.com/EverestSoftwareLLC/BitMapEdtior-Delphi). `[Delphi]` Single-form, simple bitmap editor for Delphi.
 
-* [BitMapEditor - Delphi] (https://github.com/EverestSoftwareLLC/BitMapEdtior-Delphi). `[Delphi]`  Single-form, simple bitmap editor for Delphi.
+* [BearLibTerminal](https://github.com/cfyzium/bearlibterminal). `[Delphi]` Provides a pseudoterminal window with a grid of character cells and a simple yet powerful API for flexible textual output and uncomplicated input processing.
+*// Multiplatform dynamic library that has Delphi bindings*
+
+* [Dam](https://github.com/digao-dalpiaz/Dam). `[Delphi]` `[FPC]` Delphi and Lazarus Message Dialogs with Formatted Text.
+
+* [Windows 7 Taskbar Components](https://delphi.fsprolabs.com/). `[Delphi]` One of the most notable feature in Windows 7 is a new Windows taskbar. It offers a new way of controlling your desktop, managing your windows, and launching applications.
+
+* [GUI AutoSave](https://github.com/GodModeUser/Dephi-LightSaber-GUI_AutoSave) Save the state of all GUI controls on application shutdown and then restore them loaded on application startup: It can load/save: form's position, checkboxes, radiobuttons, etc, etc
 
 
 ## Database ##
@@ -524,15 +607,18 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [d-ORModel](https://github.com/ultraware/d-ORModel). `[Delphi]` ORM for Delphi, based on models and object fields. LINQ support, fully typed and compile time checks.
 
+* [Trysil](https://github.com/davidlastrucci/Trysil) [Delphi] ORM (Object-Relational Mapping) for Delphi. Supports for SQLServer, FirebirdSQL and SQLite.
+
 
 ## Scripting ##
+
 *Using script engine in your applications*
 
 * [Pascal Script](https://github.com/remobjects/pascalscript). `[Delphi]` `[FPC]` Free scripting engine that allows you to use most of the Object Pascal language within your Delphi or Free Pascal projects at runtime. Written completely in Delphi, it is composed of a set of units that can be compiled into your executable, eliminating the need to distribute any external files. Pascal Script started out as a need for a good working script, when there were none available at the time.
 
 * [DWScript](https://bitbucket.org/egrange/dwscript). `[Delphi]` Object-oriented scripting engine for Delphi based on the Delphi language, with extensions borrowed from other Pascal languages (FreePascal, Prism, etc.). It introduces a few Pascal language extensions of its own as well.
 
-* [Delphi-Javascript](https://code.google.com/p/delphi-javascript). `[Delphi]` Javascript engine for delphi based on Mozilla's Spidermonkey.
+* [Delphi-JavaScript](https://code.google.com/p/delphi-javascript). `[Delphi]` JavaScript engine for delphi based on Mozilla's Spidermonkey.
 // *Spidermonkey DLL required*
 
 * [Blaise](http://sourceforge.net/projects/blaise). `[Delphi]` Open-source object-oriented scripting language. Language features: Object-oriented; Unicode support; Optional typing, ie dynamic or static typing; Richly typed; Higher-level mathematics support, for example Complex numbers, Rational numbers and Matrices; Virtual Machine architecture; Co-routines; Familiar language syntax, influenced by Object Pascal, Python and Ada.
@@ -555,12 +641,15 @@ Designed to facilitate development, in a simple and minimalist way.
 * [VerySimple.Lua](https://github.com/Dennis1000/verysimplelua). `[Delphi]` Lua Wrapper for Delphi XE5-D10.1 which automatically creates OOP callback functions for Delphi <-> Lua.
 // *LUA DLL required*
 
-* [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) Javascript Engine.
+* [QuickJS-Engine](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) JavaScript Engine.
+
 
 ## Machine Learning ##
+
 *Machine learning and neural networks*
 
 * [noe](https://github.com/ariaghora/noe). `[FPC]` Framework to build neural networks in pure object pascal.
+
 
 ## Non-visual Classes/Utils ##
 
@@ -582,14 +671,15 @@ Designed to facilitate development, in a simple and minimalist way.
 
 ## Encryption
 
-* [Delphi Encryption Compendium (DEC)](https://github.com/MHumm/DelphiEncryptionCompendium). `[Delphi]` Cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA256, SHA384, SHA512, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, Square, Snefru128, Snefru256, Sapphire.
+* [Delphi Encryption Compendium (DEC)](https://github.com/MHumm/DelphiEncryptionCompendium). `[Delphi]` `[FPC]` Cryptographic library for Delphi & C++ Builder. Symmetric cryptographic functions: Blowfish, Twofish, IDEA, Cast128, Cast256, Mars, RC2, RC4, RC5, RC6, Rijndael / AES, Square, SCOP, Sapphire, 1DES, 2DES, 3DES, 2DDES, 3DDES, 3TDES, 3Way, Gost, Misty, NewDES, Q128, SAFER, Shark, Skipjack, TEA, TEAN; Block cipher modes of operation: CTSx, CBCx, CFB8, CFBx, OFB8, OFBx, CFSx, ECBx, GCM; Hashes: MD2, MD4, MD5, RipeMD128, RipeMD160, RipeMD256, RipeMD320, SHA, SHA1, SHA224, SHA256, SHA384, SHA512, SHA3-224, SHA3-256, SHA3-384, SHA3-512, Shake128, Shake256, Haval128, Haval160, Haval192, Haval224, Haval256, Tiger, Panama, Whirlpool, Whirlpool1, WhirlpoolT, Square, Snefru128, Snefru256, Sapphire.
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest](https://github.com/TurboPack/LockBox3) and maintained version for recent compiler version only). `[Delphi]` Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
 // *Check out [this](https://github.com/jarto/lockbox2) page as well for alternative version.*
 
 * [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas). `[Delphi]` `[FPC]` Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
 
-* [TForge](https://bitbucket.org/sergworks/tforge). `[Delphi]` `[FPC]` Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
+* [TForge](https://github.com/sergworks/tforge). `[Delphi]` `[FPC]` Open-source crypto library written in Delphi, compatible with Free Pascal Compiler. MD5, SHA1, SHA256, CRC32, Jenkins-One-At-Time, HMAC, PBKDF1, PBKDF2, AES, DES, RC4, RC5, Salsa20.
+// *Code is in `porting` branch*
 
 * [Spring4D](#general-libraries). CRC, DES, MD5, SHA
 
@@ -597,9 +687,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Alcinoe](#general-libraries). AES, Blowfish, MD5, SHA, secure keyed MD5/SHA.
 
-* [DCPcrypt (fork #1)](https://sourceforge.net/projects/dcpcrypt), [DCPcrypt (fork #2)](https://bitbucket.org/wpostma/dcpcrypt2010). `[Delphi]` Suite of cryptographic components for Delphi.
-
-* [HashLib4Pascal](https://github.com/Xor-el/HashLib4Pascal). `[Delphi]` `[FPC]` Delphi/FreePascal compatible library that provides an easy to use interface for computing hashes and checksums of strings (with a specified encoding), files, streams, byte arrays and untyped data to mention but a few. It also supports Incremental Hashing.
+* [DCPcrypt (fork #1)](https://sourceforge.net/projects/dcpcrypt), [DCPcrypt (fork #2)](https://github.com/evpobr/DcpCrypt2). `[Delphi]` Suite of cryptographic components for Delphi.
 
 * [bcrypt](https://github.com/viniciussanchez/bcrypt). `[Delphi]` A library to help you hash passwords.
 
@@ -612,7 +700,7 @@ Designed to facilitate development, in a simple and minimalist way.
 * [CryptoLib4Pascal](https://github.com/Xor-el/CryptoLib4Pascal). `[Delphi]` `[FPC]` Object Pascal cryptographic library released under the permissive MIT License. Ciphers: AES (128, 192, and 256), Rijndael, Blowfish, Speck, ChaCha, (X)Salsa20, DSA, (DET)ECDSA (supported curves: NIST, X9.62, SEC2, Brainpool), ECNR, ECSchnorr, EdDSA (Ed25519, Ed25519Blake2B)
 
 
-## XML/JSON/YAML
+## XML/JSON/YAML/HTML
 
 * [dataset-serialize](https://github.com/viniciussanchez/dataset-serialize). `[Delphi]` `[FPC]` This component is a JSON serializer for the DataSet component. Allows you to convert JSON to DataSet, DataSet to JSON, and export and load the structure of DataSet fields in JSON format. Compatible with VCL projects, FMX and uniGUI (framework).
 
@@ -629,7 +717,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Open XML](http://www.philo.de/xml/downloads.shtml). `[Delphi]` Provides a wide range of methods, components and foundation classes. It can be used for Win32/Kylix as well as for .NET development.
 
-* [SuperObject](https://github.com/hgourvest/superobject). `[Delphi]` `[FPC]` Parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, MacOSX Intel). Supports reading/writing XML as well.
+* [SuperObject](https://github.com/hgourvest/superobject). `[Delphi]` `[FPC]` Parser/writer for JSON data format. This toolkit is designed to work with Delphi and FreePascal (win32, win64, linux32, linux64, macOS Intel). Supports reading/writing XML as well.
 
 * [Libxml2 for pascal](https://sourceforge.net/projects/libxml2-pas). `[Delphi]` `[FPC]` Pascal units accessing the popular XML API from Daniel Veillard. This should be usable at least from Kylix and Delphi, but hopefully also from other Pascal compilers (like freepascal).
 
@@ -656,7 +744,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Alcinoe](#general-libraries). XML/JSON Parser.
 
-* [delphi-yaml](https://bitbucket.org/OCTAGRAM/delphi-yaml). `[Delphi]` Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
+* [delphi-yaml](https://github.com/ashumkin/delphi-yaml). `[Delphi]` Delphi 7 compatible bindings for libyaml, YAML parser and emitter library implemented in C. Four layers of bindings are proposed.
 
 * [GrijjyFoundation](#general-libraries). JSON/BSON.
 
@@ -664,20 +752,27 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [XSuperObject](https://github.com/onryldz/x-superobject). `[Delphi]` Delphi Cross Platform Rapid JSON
 
-* [Internet Tools](https://github.com/benibela/internettools). `[Delphi]` `[FPC]` Package provides standard conformant XPath 2.0, XQuery 1.0 and XPath/XQuery 3.0 interpreters with extensions for - among others - JSONiq, pattern matching, CSS and HTML; as well as functions to perform HTTP/S requests on Windows/Linux/MacOSX/Android, an XSLT-inspired webscraping language, and an auto update class.
+* [Internet Tools](https://github.com/benibela/internettools). `[Delphi]` `[FPC]` Package provides standard conformant XPath 2.0, XQuery 1.0 and XPath/XQuery 3.0 interpreters with extensions for - among others - JSONiq, pattern matching, CSS and HTML; as well as functions to perform HTTP/S requests on Windows/Linux/macOS/Android, an XSLT-inspired webscraping language, and an auto update class.
 
 * [Delphi-JsonToDelphiClass](https://github.com/PKGeorgiev/Delphi-JsonToDelphiClass) ([Newer fork](https://github.com/JensBorrisholt/Delphi-JsonToDelphiClass). `[Delphi]` Generates Delphi Classes based on JSON string (Json To Delphi Class Generator / JSON Data Binding Tool). Also includes unit for interaction with GitHub.
 
 * [XML Parser](http://www.destructor.de/xmlparser). `[Delphi]` `[FPC]` Lightweight ObjectPascal XML parser for Delphi and FreePascal. By leaving out syntax checking, well-formedness checks and/or validation, and by choosing a progressive scanning technique, this parser is very fast.
 
-* [HTML parser](https://github.com/ying32/htmlparser). `[Delphi]` HTML parser. Supports Windows, MacOSX, iOS, Android platform. Comments in Chinese
+* [HTML parser](https://github.com/ying32/htmlparser). `[Delphi]` HTML parser. Supports Windows, macOS, iOS, Android platform. Comments in Chinese
 
 * [Neslib](https://github.com/neslib/Neslib.Xml). `[Delphi]` Ultra light-weight and cross-platform XML library for Delphi.
 
 * [DJSON](https://github.com/mauriziodm/DJSON). `[Delphi]` Delphi JSON object mapper
 
+* [fast-html-parser](https://github.com/z505/fast-html-parser). `[Delphi]` `[FPC]` Fast HTML Parser
+
+* [THTMLWriter](https://github.com/NickHodges/delphihtmlwriter). `[Delphi]` Class library that enables the developer to create HTML and HTML documents. It uses the fluent interface to make creating HTML text easy and natural.
+
+* [Neon](https://github.com/paolo-rossi/delphi-neon) `[Delphi]` Serialization library for Delphi that helps you to convert (back and forth) objects and other values to JSON. It supports simple Delphi types but also complex class and records. Neon has been designed with REST in mind, to exchange pure data between applications with no "metadata" or added fields
+
 
 ## Language
+
 *Tools for Pascal and other languages*
 
 * [Next Delphi Yacc & Lex](https://github.com/RomanYankovsky/ndyacclex). `[Delphi]` Parser generator toolset for Delphi.
@@ -689,10 +784,11 @@ Designed to facilitate development, in a simple and minimalist way.
 * [CrossPascal](https://github.com/BeRo1985/crosspascal). `[Delphi]` Aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
 // *Quite interesting project though seems abandoned*
 
-* [pas2js](https://svn.freepascal.org/svn/projects/pas2js/trunk), [docs](http://wiki.freepascal.org/pas2js). `[Delphi]` `[FPC]` An open source Pascal to JavaScript transpiler. It parses Object Pascal and emits JavaScript. The JavaScript is currently of level ECMAScript 5 and should run in any browser or in Node.js (target "nodejs"). Basically, Delphi 7 syntax is supported. Used in tools like TMS WebCore and Elevate Web Builder.
+* [pas2js](https://gitlab.com/freepascal.org/fpc/pas2js), [docs](http://wiki.freepascal.org/pas2js). `[Delphi]` `[FPC]` An open source Pascal to JavaScript transpiler. It parses Object Pascal and emits JavaScript. The JavaScript is currently of level ECMAScript 5 and should run in any browser or in Node.js (target "nodejs"). Basically, Delphi 7 syntax is supported. Used in tools like TMS WebCore and Elevate Web Builder.
 
 
 ## Memory managers
+
 *Libraries that implement dynamic memory allocation*
 
 * [FastMM](https://github.com/pleriche/FastMM4). `[Delphi]` Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
@@ -709,6 +805,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 
 ## System
+
 *Low-level helper stuff: memory, threading etc*
 
 * [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary). `[Delphi]` Simple to use threading library for Delphi.
@@ -725,8 +822,11 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [AsyncCalls](https://github.com/ahausladen/AsyncCalls). `[Delphi]` Asynchronous function call framework
 
+* [Storage Access Framework SAF](https://github.com/emozgun/delphi-android-SAF) `[Delphi]` Android Scoped Storage : Storage Access Framework SAF API
+
 
 ## Template
+
 *Engines to generate text output based on templates*
 
 * [SynMustache](https://github.com/synopse/dmustache). `[Delphi]` `[FPC]` Delphi implementation of the Mustache template language, supporting Delphi 6 up to Delphi 10 Seattle (and FPC/Lazarus compilation).
@@ -735,7 +835,12 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [MustaPAS](https://github.com/leledumbo/mustapas). `[Delphi]` `[FPC]` Mustache implementation in simple procedural Pascal.
 
-* [Sempare Template Engine](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]`  The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
+* [Sempare Template Engine](https://github.com/sempare/sempare-delphi-template-engine). `[Delphi]` The template engine allows for flexible text manipulation. It can be used for generating email, html, source code, xml, configuration, etc. It is very easy to use, flexible and extensible, where templates are readable and maintainable. It supports: conditions, looping, custom functions and referencing data via RTTI. XE4, XE8+
+
+* [DVD Chief Template Engine](https://github.com/Fr0sT-Brutal/TemplateEngine). `[Delphi]` `[FPC]` Fork of abandoned implementation of PHP Smarty template engine for Delphi by [DVD Chief](http://dvdchief.com/delphi).
+
+* [liquid-delphi](https://github.com/arimateia/liquid-delphi). `[Delphi]` Delphi port of the popular [Ruby Liquid templating language](https://shopify.github.io/liquid) and dotLiquid implementation. It is a separate project that aims to retain the same template syntax as the original, while using delphi coding conventions where possible.
+
 
 ## Logging
 
@@ -752,6 +857,10 @@ Designed to facilitate development, in a simple and minimalist way.
 * [GrijjyCloudLogger](https://github.com/grijjy/GrijjyCloudLogger). `[Delphi]` Remote logging tool that allows you to send log messages over the Intranet or Internet from Windows, Linux, iOS, Android and macOS devices to a viewer running on Windows. Besides sending messages along with any data, it has numerous features including custom live watches, remote live views of objects, tracking live memory usage, object allocations, growth leaks and more.
 
 * [QuickLogger](https://github.com/exilon/QuickLogger). `[Delphi]` `[FPC]` Delphi/freepascal/.NET (Windows/Linux) library for logging on files, console, memory, email, rest, telegram, slack, eventlog, redis, ide debug messages and throw events..
+
+* [jachLog](https://github.com/jachguate/jachLogMgr). `[Delphi]` pure pascal, flexible, extensible and lightweight library to add logging capabilities to your Delphi applications. Multiple log destinations supported. The library supports multithreaded applications and is itself multithreaded to minimize the impact writing the log may have on the performance on mission critical applications.
+
+* [LogLib](https://github.com/GodModeUser/Delphi-LightSaber-LogLib). `[Delphi]` A simple but effective visual log control/library. The programmer can send messages to a log window from anywhere in his code. The Log window can be set to automatically pop up when an error message is sent to it. Depending on the chosen verbosity level of the log (see the Verbosity property) low-level messages (like verbose/debug messages) are shown or not. Contains: Non-visual log (TRamLog) Visual log (TRichLog)
 
 
 ## Math
@@ -774,8 +883,11 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [CAI NEURAL API](https://github.com/joaopauloschuler/neural-api). `[FPC]` `[Delphi]` Cross-platform Neural Network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA.
 
+* [DFF Library](http://www.delphiforfun.org/programs/library/Default.htm). `[Delphi]` `[FPC]` Big Floating Point, Big Integers, Astronomical calcualtions
+
 
 ## Command-line
+
 *Libraries for parsing command-line arguments*
 
 * [TCommandLineReader](https://github.com/benibela/rcmdline). `[Delphi]` `[FPC]` This unit provides an advanced, platform-independent command line parser for Lazarus and Delphi. It checks for allowed options, automatically prints a help with a list of all of them, and - contrary to the parser in the rtl - behaves the same on Windows and Linux.
@@ -785,6 +897,8 @@ Designed to facilitate development, in a simple and minimalist way.
 * [GpCommandLineParser](https://github.com/gabr42/GpDelphiUnits/blob/master/src/GpCommandLineParser.pas). `[Delphi]` Attribute based command line parser.
 
 * [JPL.CmdLineParser](https://github.com/jackdp/JPLib/blob/master/Base/JPL.CmdLineParser.pas). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
+
+* [Nullpobug.ArgumentParser](https://github.com/tokibito/delphi-argparse). `[Delphi]` `[FPC]` Command-line parser for Delphi and Free Pascal
 
 
 ## Other non-visual
@@ -826,7 +940,7 @@ Designed to facilitate development, in a simple and minimalist way.
 * [PasMP](https://github.com/BeRo1985/pasmp). `[Delphi]` `[FPC]` Parallel-processing/multi-processing library for Object Pascal.
 
 * [ICU4PAS](http://www.crossgl.com/icu4pas/index.html). `[Delphi]` `[FPC]` Object Pascal, cross platform, Direct Class Wrapper over the mature and widely used set of C/C++ ICU libraries providing Unicode support, software internationalization (i18n) and globalization (g11n), giving applications the same results on all platforms. You can use it on Windows with Delphi and FreePascal and on Linux with Kylix and FreePascal.
-// *Hadn't been updated since 2007 but ICU interface probably remains the same...*
+// *Hadn't been updated since 2007 but ICU interface probably remains the same*
 
 * [GpDelphiUnits](https://github.com/gabr42/GpDelphiUnits). `[Delphi]` Collection of useful Delphi units. Various TList descendants, TList-compatible, and TList-similar classes. Dynamically allocated, O(1) enqueue and dequeue, threadsafe, microlocking queue. Interface to 64-bit file functions with some added functionality. String hash, table and dictionary. Collection of Win32/Win64 wrappers and helper functions. Time Zone Routines. Embedded file system.
 
@@ -844,12 +958,13 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Marvin.IA](https://github.com/marvinbraga/Marvin.IA). `[Delphi]` Machine learning collection of object-oriented Pascal primitives (only interfaces and classes).
 
-* [FreePascal Generics.Collections](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more...)
+* [FreePascal Generics.Collections](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more)
 
 * [FuzzyWuzzy.pas](https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas). `[FPC]` Port of the well-known Python fuzzy string matching package that uses the Levenshtein distance to compute differences between string sequences.
 
 * [GS.Core](https://github.com/VincentGsell/GS.Core). `[Delphi]` `[FPC]` Core functions shared by several projects.
-// Thread Pool, file operations, Key<>Value database, JSON lib, etc
+// *Thread Pool, file operations, Key<>Value database, JSON lib, etc*
+
 * [PascalTZ](https://github.com/dezlov/PascalTZ). `[FPC]` Pascal Time Zone allows you to convert between local times in various time zones and GMT/UTC, taking into account historical changes to time zone rules.
 
 * [Charset Enigma](https://github.com/ms301/charset-enigma). `[Delphi]` Delphi charset detector Community Edition
@@ -870,11 +985,26 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [libPasC-Algorithms](https://github.com/isemenkov/libpasc-algorithms). `[Delphi]` `[FPC]` Delphi and object pascal library of common data structures and algorithms. Library rewritten from c-algorithms repository and other sources.
 
+* [VSoft.Messaging](https://github.com/VSoftTechnologies/VSoft.Messaging). `[Delphi]` Libary that provides an internal synchronous/asynchronous publish/subscribe messaging system for Delphi applications.
+
+* [Delphi-Hunspell](https://github.com/darianmiller/Delphi-Hunspell). `[Delphi]` Simple [Hunspell](http://hunspell.github.io) spell checking engine wrapper for Delphi.
+
+* [CocinAsync](https://bitbucket.org/sivv/cocinasync). `[Delphi]` High performance library for Delphi to simplify coding and improve performance of asynchronous and multithreaded applications.
+
+* [Delphi LightSaber-CoreLib](https://github.com/GodModeUser/Delphi-LightSaber-CoreLib). `[Delphi]` Lightweight alternative to Jedi library. Simple, crystal clear, non-obfuscated, fully commented code. No external dependencies. Hundreds of super useful functions for file/folder/disk manipulation, fast (buffered) binary file access, string conversions, OS version detection, etc.
+
+* [LAMW](https://github.com/jmpessoa/lazandroidmodulewizard). `[FPC]` Lazarus Android Module Wizard to create JNI Android loadable module (.so) and Android Apk using Lazarus/Free Pascal.
+
+* [DCContainers](https://github.com/dsapolska/dccontainers). `[Delphi]` Containers library with maps and sets based on red-black tree
+
+* [DOSCommand](https://github.com/TurboPack/DOSCommand). `[Delphi]` Component lets you execute a dos program (exe, com or batch file) and catch the ouput in order to put it in a memo or in a listbox, ... You can also send inputs.
+
 
 ## OS ##
+
 *Tools that help dealing with OS-specific internals*
 
-* [GLibWMI](http://sourceforge.net/projects/glibwmi). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo,... Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
+* [GLibWMI](http://sourceforge.net/projects/glibwmi). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32_Bios, WIN32_Printers, WIN32_DiskDrive.
 
 * [MemoryMap](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). `[Delphi]` Set of classes to get all the info about a memory of a running process.
 
@@ -896,6 +1026,8 @@ Designed to facilitate development, in a simple and minimalist way.
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
 * [WindowsAutorun](https://github.com/ms301/WindowsAutorun). `[Delphi]` Helps you manage autoload in Windows OS.
+
+* [ActiveDirectory4Delphi](https://github.com/EdZava/VCL-ActiveDirectory4Delphi). `[Delphi]` Delphi basic library for validation and authentication of LDAP users in Active Directory.
 
 
 ## Report generating ##
@@ -931,6 +1063,8 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [DelphiUIAutomation](https://github.com/jhc-systems/DelphiUIAutomation). `[Delphi]` Delphi classes that wrap the MS UIAutomation library. DelphiUIAutomation is a framework for automating rich client applications based on Win32 (and specifically tested with Delphi XE5). It is written in Delphi XE5 and it requires no use of scripting languages. It provides a consistent object-oriented API, hiding the complexity of Microsoft's UIAutomation library and windows messages.
 
+* [DelphiCodeCoverageWizardPlus](https://github.com/MHumm/delphi-code-coverage-wizard-plus). `[Delphi]` GUI wizard for creating a batch file to call the commandline code coverage tool. Includes a project format for easier change of settings later on. Includes binaries of the code coverage tool itssel.
+
 
 ## Debugging / error handling ##
 
@@ -940,10 +1074,13 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [JclDebug (part of Project JEDI)](https://github.com/project-jedi/jcl/blob/master/jcl/source/windows/JclDebug.pas). `[Delphi]` `[FPC]` Tracing, MAP file parser, exception report generation, exception stack traces.
 
-* [DebugEngine](https://github.com/MahdiSafsafi/DebugEngine). `[Delphi]` Collection of utilities related to debug stuff (stack trace, CPU registers snapshot, debug info, ...). Accessing Delphi debug info, Getting address of symbol from its name, Delphi map parsing and map converter to binary format, Smart stack trace, Delphi exception stack trace hook...
+* [DebugEngine](https://github.com/MahdiSafsafi/DebugEngine). `[Delphi]` Collection of utilities related to debug stuff (stack trace, CPU registers snapshot, debug info, etc). Accessing Delphi debug info, Getting address of symbol from its name, Delphi map parsing and map converter to binary format, Smart stack trace, Delphi exception stack trace hook, etc.
+
+* [ObjectDebugger](https://github.com/marcocantu/ObjectDebugger). `[Delphi]` Run-time Object Inspector for Delphi VCL applications.
 
 
 ## Utilities ##
+
 *Free non-opensource products allowed here.*
 
 
@@ -951,16 +1088,16 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [Delphi IDE theme editor / Delphi IDE Colorizer](https://github.com/rruz/delphi-ide-theme-editor). Tool to change the IDE color highlighting of several Object Pascal IDE's like Delphi (RAD Studio), Appmethod, Lazarus  and Smart Mobile Studio. DITE supports Delphi 5-7, 2005-2010, XE-XE8, Appmethod 1.13-1.14, Lazarus v1.0.1.3 and Smart Mobile Studio IDE v1.1.2.17. The Delphi IDE Colorizer (DIC) is a plugin which allows to customize the look and feel of the workspace of the RAD Studio IDE and Appmethod.
 
-* [DDevExtensions](http://andy.jgknet.de/blog/ide-tools/ddevextensions). Extends the Delphi/C++Builder IDE by adding some new productivity features
+* [DDevExtensions](https://github.com/ahausladen/DDevExtensions). Extends the Delphi/C++Builder IDE by adding some new productivity features.
 // *Many useful IDE tweaks, must have.*
 
-* [VCL Fix Pack](http://andy.jgknet.de/blog/bugfix-units/vclfixpack-10). Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
+* [VCL Fix Pack](https://www.idefixpack.de/blog/bugfix-units/vclfixpack-10/). Delphi unit that fixes VCL and RTL bugs at runtime by patching the original functions. If you want all IDE Fix Pack fixes in your application this unit is what you are looking for. Adding the unit to your project (Delphi and C++Builder) automatically installs the patches that are available for your Delphi/C++Builder version.
 // *Actual for Delphi/C++ 6..2009*
 
-* [IDE Fix Pack](http://andy.jgknet.de/blog/ide-tools/ide-fix-pack). Collection of unofficial bug fixes and performance optimizations for the RAD Studio IDE, Win32/Win64 compiler and Win32 debugger. IDE Fix Pack is an IDE plugin for RAD Studio 2009-XE6 that fixes IDE bugs at runtime. All changes are done in memory. No files on disk are modified. None of your projects are modified or benefit from the IDE Fix Pack other than being compiled faster. Only the IDE gets the fixes and optimizations.
+* [IDE Fix Pack](https://www.idefixpack.de/blog/ide-tools/ide-fix-pack/). Collection of unofficial bug fixes and performance optimizations for the RAD Studio IDE, Win32/Win64 compiler and Win32 debugger. IDE Fix Pack is an IDE plugin for RAD Studio 2009-XE6 that fixes IDE bugs at runtime. All changes are done in memory. No files on disk are modified. None of your projects are modified or benefit from the IDE Fix Pack other than being compiled faster. Only the IDE gets the fixes and optimizations.
 // *Supports all RAD Studio versions since 2007. Removes lots of annoying bugs that EMBT haven't fixed for years. Yay!*
 
-* [GExperts](https://sourceforge.net/projects/gexperts). Free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and we encourage user contributions to the project. Grep search and replace supporting unicode files, DFMs, etc; Automatically rename components, insert text macros, open recent files; Easily backup your projects, with custom additional file lists; Keep nested lists of favorite files for quick access; Track dependencies between units in your project; Quickly jump to any procedure in the current unit; And much, much more...
+* [GExperts](https://sourceforge.net/projects/gexperts). Free set of tools built to increase the productivity of Delphi and C++Builder programmers by adding several features to the IDE. GExperts is developed as Open Source software and we encourage user contributions to the project. Grep search and replace supporting unicode files, DFMs, etc; Automatically rename components, insert text macros, open recent files; Easily backup your projects, with custom additional file lists; Keep nested lists of favorite files for quick access; Track dependencies between units in your project; Quickly jump to any procedure in the current unit; And much, much more.
 
 * [CnWizards](https://github.com/cnpack). Free Plug-in Tool Set for Delphi/C++ Builder/CodeGear RAD Studio to Improve Development Efficiency.
 
@@ -972,24 +1109,22 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [DelphiSettingManager](https://github.com/Arvur/DelphiSettingManager). Multiple IDE profiles for Delphi (up to XE6). Allows to install multiple versions of the same component or different component sets for different projects.
 
-* [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses Github as a Backend to Provide the packages.
-
-* [Parnassus Bookmarks](https://parnassus.co/delphi-tools/bookmarks). IDE plugin that extends bookmark functionality.
+* [Delphinus](https://github.com/Memnarch/Delphinus). New Packagemanager which runs on Delphi XE and newer and uses GitHub as a Backend to Provide the packages.
 
 * [TestInsight](https://bitbucket.org/sglienke/testinsight/wiki/Home). Unit testing IDE Plugin for Delphi. It supports all versions from XE to 10 Seattle. Supports DUnit, DUnit2, DUnitX frameworks.
 
 * [Delphi IDE Explorer](https://github.com/DGH2112/Delphi-IDE-Explorer). Wizard / expert / plugin that allows you to browser the internal fields, methods, properties and events of the IDE.
 // *Mainly useful for developers of IDE experts*
 
-* [Multi-RAD Studio IDE Expert Manager](http://www.davidghoyle.co.uk/WordPress/?page_id=1361). Application is for editing the installed experts in all versions of RAD Studio (and older Delphi and C++ Builder) on a machine.
+* [Multi-RAD Studio IDE Expert Manager](https://github.com/DGH2112/Expert-Manager). Application allows you to manage the experts and packages loadsed into multiple versions of RAD Studio
 
 * [OTA Interface Search](https://github.com/DGH2112/OTA-Interface-Search). Application helps to find Open Tools API (OTA) interfaces, methods and properties and understand how to get to those interfaces or methods / properties of the interfaces.
 
 * [AutoSave](https://github.com/DGH2112/Auto-Save). Expert that periodically auto saves all the open modified IDE files.
 
-* [Browse and Doc It](http://www.davidghoyle.co.uk/WordPress/?page_id=872). Plug-in allows you to document and browse your code from within the IDE.
+* [Browse and Doc It](https://github.com/DGH2112/Browse-and-Doc-It). RAD Studio IDE plug-in to allow you to browse your code and provide support for documentation, coding checks and metrics.
 
-* [Integrated Testing Helper](http://www.davidghoyle.co.uk/WordPress/?page_id=874). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
+* [Integrated Testing Helper](https://github.com/DGH2112/Integrated-Testing-Helper). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
 
 * [Project Magician](https://www.uweraabe.de/Blog/2018/05/17/keep-your-project-files-clean-with-project-magician). Wizard for advanced project options manipulation.
 
@@ -1009,12 +1144,16 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [DzNoteEditor](https://github.com/digao-dalpiaz/DzNoteEditor). Delphi Property Editor for TStrings supporting formatted languages with syntax highlight.
 
+* [IDE-Notifiers](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
+
 
 ## Plugins for other IDE's
 
 * [Delphi IDE theme editor / Delphi IDE Colorizer](#rad-studio-ide-pluginswizards). Supports Appmethod, Lazarus and Smart Mobile Studio.
 
 * [Pascal](https://github.com/alefragnani/vscode-language-pascal) and [Pascal Formatter](https://github.com/alefragnani/vscode-pascal-formatter). Open source extensions created for Visual Studio Code that add Pascal support.
+
+* [Intellij IDEA Object Pascal plugin](https://github.com/casteng/i-pascal) `[Delphi]` `[FPC]` A free Object Pascal language plugin for IntelliJ IDEA
 
 
 ## Documentation
@@ -1030,12 +1169,12 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [SamplingProfiler](https://www.delphitools.info/samplingprofiler). `[Delphi]` Performance profiling tool for Delphi 5 to 32bits Delphi XE4. Its purpose is to help locate bottlenecks, even in final, optimized code running at full-speed.
 
-* [Delphi Code Coverage](https://sourceforge.net/projects/delphicodecoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
+* [Delphi Code Coverage](https://github.com/DelphiCodeCoverage/DelphiCodeCoverage). `[Delphi]` Simple Code Coverage tool for Delphi that creates code coverage reports based on detailed MAP files.
 
 * [Pascal Analyzer](http://www.peganza.com/products_pal.html) (free Lite version available). `[Delphi]` Pascal Analyzer, or PAL for short, parses Delphi or Borland Pascal source code. It builds large internal tables of identifiers, and collects other information such as calls between subprograms. When the parsing is completed, extensive reports are produced. These reports contain a great deal of important information about the source code. This information will help you understand your source code better, and assist you in producing code of higher quality and reliability.
 
 * [madExcept](http://madshi.net/madExceptShop.htm). `[Delphi]` madExcept was built to help you locate bugs in your software. Whenever there's a crash/exception in your program, madExcept will automatically catch it, analyze it, collect lots of useful information, and give the end user the possibility to send you a full bug report. madExcept is also able to find memory leaks, resource leaks and buffer overruns for you.
-// **Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
+// *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
 * [delphiunitsizes](https://github.com/VilleKrumlinde/delphiunitsizes). `[Delphi]` Tool to display the sizes of each unit in a Delphi executable. Shows the size of each unit that is included in a Delphi exe-file. It also shows an approximate size of each symbol (classes, methods, procedures etc) in a unit.
 
@@ -1044,6 +1183,11 @@ Designed to facilitate development, in a simple and minimalist way.
 * [Spider](https://github.com/yavfast/dbg-spider). `[Delphi]` Real time profiler for Delphi applications
 
 * [AsmProfiler](https://github.com/andremussche/asmprofiler). `[Delphi]` Full tracing 32bit profiler (instrumenting and sampling), written in Delphi and some assembly
+
+* [map2pdb](https://bitbucket.org/anders_melander/map2pdb). `[Delphi]` Tool used to convert the MAP files produced by the Delphi and C++ Builder compilers to Microsoft PDB files for use in tools that support that format.
+
+* [ProfileViewer](https://github.com/DGH2112/ProfileViewer). `[Delphi]` Application to view profiler information generated by the Profiler.pas code.
+
 
 ## Setup
 
@@ -1055,6 +1199,8 @@ Designed to facilitate development, in a simple and minimalist way.
 * [WinSparkle](https://winsparkle.org) and its [Delphi wrapper](https://github.com/jkour/neSparkleComponent). WinSparkle is an easy-to-use software update library for Windows developers. WinSparkle is a heavily (to the point of being its almost-port) inspired by the Sparkle framework originally by Andy Matuschak that became the de facto standard for software updates on macOS.
 
 * [Silverpoint MultiInstaller](http://www.silverpointdevelopment.com/multiinstaller/index.htm). Multi component package installer for Embarcadero Delphi and C++Builder, it was created to ease the components installation on the IDE.
+
+* [Grijjy Deployment Manager](https://github.com/grijjy/GrijjyDeployMan). Tool to simplify the deployment of files and folders for iOS and Android apps written in Delphi. It is especially useful if you need to deploy a lot of files, such as 3rd party SDKs.
 
 
 ## Other
@@ -1068,7 +1214,7 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [OmniPascal](http://omnipascal.com). Project that enables Delphi and Free Pascal developers to write and maintain code using the modern editor [Visual Studio Code](https://code.visualstudio.com).
 
-* [Delphi Unit Tests](https://bitbucket.org/NickHodges/delphi-unit-tests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
+* [Delphi Unit Tests](https://github.com/NickHodges/DelphiUnitTests). Set of unit tests for Delphi's libraries. Delphi community members are encouraged to fork the repository, add tests, and create a pull request. Embarcadero employees are particularly encouraged to add tests from the internal tests that are run with official Delphi builds.
 
 // *Free **without source** for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer (you'll need to install `madExcept` item). Pretty well documented.*
 
@@ -1082,6 +1228,4 @@ Designed to facilitate development, in a simple and minimalist way.
 
 * [dzBdsLauncher](https://osdn.net/projects/dzbdslauncher/). `[Delphi]` Launcher for the Delphi IDE that decides which of multiple IDEs to launch based on the suffix of the dproj file passed to it.
 
-## License ##
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
+* [DFMJSON](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.

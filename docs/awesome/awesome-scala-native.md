@@ -14,10 +14,10 @@
 * [Example project with external dependencies](https://github.com/lihaoyi/scala-native-example-app) - Example project that uses external dependencies to generate HTML and run a test suite.
 * [Starter for Gtk+ Projects](https://github.com/jokade/scalanative-gtk-seed.g8) - [Giter8](http://www.foundweekends.org/giter8/) template for Scala Native GUI projects using [Gtk+](https://developer.gnome.org/gtk3/stable/index.html).
 * [Modern systems programming with scala native](https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/) book.
-
+* [Write a simple CLI application in Scala Native](https://github.com/ItoYo16u/prettytable-native)
 ## Build Tools
 * [sbt](https://www.scala-sbt.org/) - Scala's standard build tool.
-* [Mill](https://github.com/lihaoyi/mill) - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
+* [Mill](https://github.com/com-lihaoyi/mill) - Build tool striving for simplicity, inspired by [Bazel](https://www.bazel.build/).
 * [Bloop](https://github.com/scalacenter/bloop) - Scala build server and command-line tool for fast developer workflows.
 * [Seed](https://github.com/tindzk/seed) - Build tool based on Bloop. Focuses on user experience and cross-platform builds, inspired by [Cargo](https://github.com/rust-lang/cargo).
 
@@ -31,6 +31,7 @@
 * [reactify](https://github.com/outr/reactify) - Functional Reactive Programming framework for Scala.
 * [chimney](https://github.com/scalalandio/chimney) - Boilerplate-free data transformations.
 * [Quicklens](https://github.com/softwaremill/quicklens) - Modify deeply nested case class fields.
+* [Cats](https://github.com/typelevel/cats) - Abstractions for functional programming in Scala.
 
 ## Unit Tests
 * [µTest](https://github.com/lihaoyi/utest) - Library for unit tests.
@@ -56,23 +57,33 @@
 * [libui](https://github.com/lolgab/scalaui) - GUI framework based on [libui](https://github.com/andlabs/libui).
 * [GStreamer](https://github.com/jokade/scalanative-gstreamer) - Bindings for the [GStreamer](https://gstreamer.freedesktop.org) multimedia framework.
 * [Qt](https://github.com/jokade/scalanative-qt5) - Bindings for [Qt](https://www.qt.io).
+* [ncurses](https://github.com/edadma/ncurses) - Bindings for the [GNU Ncurses Library](https://www.gnu.org/software/ncurses/).
+* [readline](https://github.com/edadma/readline) - Bindings for the [GNU Readline Library](https://www.gnu.org/software/readline/).
+* [libsndfile](https://github.com/edadma/libsndfile) - Bindings for the [Libsndfile](https://tiswww.cwru.edu/php/chet/libsndfile/rltop.html) C library for sampled sound manipulation.
+* [libpng](https://github.com/edadma/libpng) - Bindings for the [libpng](http://www.libpng.org/) C reference library for reading and writing PNGs.
+* [libcairo](https://github.com/edadma/libcairo) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics C library.
+* [cairo-xlib](https://github.com/edadma/cairo-xlib) - Bindings for the [Cairo](https://www.cairographics.org/) 2D graphics [XLib Surfaces](https://www.cairographics.org/manual/cairo-XLib-Surfaces.html) with bindings for [XLib](https://www.x.org/releases/current/doc/libX11/libX11/libX11.html) as well.
+* [libyaml](https://github.com/edadma/libyaml) - Bindings for the [LibYAML](https://pyyaml.org/wiki/LibYAML) C library for parsing [YAML](https://yaml.org/).
+* [iup](https://github.com/edadma/iup) - Bindings for the [IUP](https://www.tecgraf.puc-rio.br/iup/) multi-platform toolkit for building graphical user interfaces.
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - Implementation of [MessagePack](https://msgpack.org/), a binary serialisation format.
-* [FastParse](https://github.com/lihaoyi/fastparse) - Library for defining and running parsers.
-* [scalatags](https://github.com/lihaoyi/scalatags) - HTML/XML construction and rendering.
+* [FastParse](https://github.com/com-lihaoyi/fastparse) - Library for defining and running parsers.
+* [scalatags](https://github.com/com-lihaoyi/scalatags) - HTML/XML construction and rendering.
 * [Pine](https://github.com/sparsetech/pine) - HTML/XML parsing, manipulation and rendering.
 * [scala-json](https://github.com/MediaMath/scala-json) - JSON parser.
-* [uJson](http://www.lihaoyi.com/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
+* [uJson](https://com-lihaoyi.github.io/upickle/#uJson) - fast, flexible and intuitive JSON for Scala
 * [toml-scala](https://github.com/sparsetech/toml-scala) - [TOML](https://github.com/toml-lang/toml) parser with codec derivation.
 * [argonaut](https://github.com/argonaut-io/argonaut) - Purely functional JSON parser and library.
 * [ScalaPB](https://github.com/scalapb/ScalaPB) - [Protocol Buffer](https://developers.google.com/protocol-buffers/) compiler for Scala.
   * [scalapb-argonaut](https://github.com/scalapb-json/scalapb-argonaut) - JSON and Protocol Buffer converters for ScalaPB based on [Argonaut](http://argonaut.io).
 * [sconfig](https://github.com/ekrich/sconfig) - [HOCON](https://github.com/ekrich/sconfig/blob/master/docs/original/HOCON.md) parser.
+* [squiggly](https://github.com/edadma/squiggly) - Cross-platform template language for Scala, inspired by Liquid and Hugo templates.
 
 ## Databases
 * [JDBC](https://github.com/jokade/scalanative-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
 * [SQLite4S](https://github.com/david-bouyssie/sqlite4s) - Port of the Java library [Sqlite4java](https://bitbucket.org/almworks/sqlite4java). Includes bindings for the SQLite native library.
+* [libpq4s](https://github.com/david-bouyssie/libpq4s) - Scala wrapper around the async PostgreSQL C library libpq.
 
 ## Web Development
 * [Trail](https://github.com/sparsetech/trail) - Routing library.
@@ -81,17 +92,19 @@
 
 ## Concurrency
 * [scala-native-loop](https://github.com/scala-native/scala-native-loop) - Event loop and async-oriented IO for Scala Native
-* [castor](https://github.com/lihaoyi/castor) - Lightweight, typed Actor library for Scala.
+* [castor](https://github.com/com-lihaoyi/castor) - Lightweight, typed Actor library for Scala.
 
 ## Logging
 * [scribe](https://github.com/outr/scribe) - Fast and simple logging library.
 * [slogging](https://github.com/jokade/slogging) - [Typesafe-logging](https://github.com/lightbend/scala-logging) and [SLF4J](https://www.slf4j.org/)-compatible logging library based on macros.
 
 ## Console
-* [fansi](https://github.com/lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
+* [fansi](https://github.com/com-lihaoyi/fansi) - Library for creating [ANSI-coloured strings](https://en.wikipedia.org/wiki/ANSI_escape_code).
 * [scopt](https://github.com/scopt/scopt) - Command-line argument parser.
 * [scala-optparse-applicative](https://github.com/xuwei-k/optparse-applicative) - Port of Haskell's CLI argument parsing library [optparse-applicative](https://hackage.haskell.org/package/optparse-applicative).
 * [scallop](https://github.com/scallop/scallop) - A simple Scala CLI parsing library.
+* [mainargs](https://github.com/com-lihaoyi/mainargs) - Small, dependency-free library for command line argument parsing in Scala.
+* [decline](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 
 ## Robotics
 * [Potassium](https://github.com/Team846/potassium) - Framework for writing robot software.

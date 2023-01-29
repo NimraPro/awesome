@@ -9,14 +9,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 *Please read the [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
----
-
-⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
-
-🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
-
----
-
 
 
 ## Books
@@ -62,7 +54,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
 - [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
-- [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
+- [WebGL Academy](http://www.webglacademy.com) - Learn WebGL and 3D algorithmic in a progressive and interactive way. (Archived)
 
 ## Courses
 
@@ -83,6 +75,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
+- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
 
 ## Tools
 
@@ -116,7 +109,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Vuo](http://vuo.org/) [Mac] - Live interactive-media programming environment.
 - [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
-- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
+- [ossia score](https://ossia.io) [Cross-platform] - Interactive, intermedia audio-visual sequencer.
 - [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
 - [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 - [Isadora](https://troikatronix.com) [Cross-platform] - Scene based media control software with integrated projection mapper.
@@ -135,7 +128,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
-- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser. 
+- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
+- [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
 
 ### Web Programming • Libraries
 
@@ -164,6 +158,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
+- [Theatre.js](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+- [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
 
 ### Projection Mapping • VJing
 
@@ -180,6 +176,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Online
 
 - [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
+- [Shader Park](https://shaderpark.com/) - A JavaScript library for creating interactive procedural 2D and 3D shaders.
 - [GLSLbin](http://glslb.in/) - Fragment shader sandbox with support for glslify.
 - [GLSL Sandbox](http://glslsandbox.com/) - Online shader editor and gallery.
 - [Shdr Editor](http://shdr.bkcore.com/) - Online shader editor.
@@ -439,7 +436,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Machine learning • Computer Vision • Ai
 
-- [ml4a](http://ml4a.github.io/) - Machine learning for artists.
+- [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
 - [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
@@ -502,6 +499,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Schools • Workshops
 
+- [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - Graduate program in London which develops your arts practice through the expressive world of creative computation
 - [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - school in London working at the intersection of creativity and computational technologies
 - [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
 - [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
@@ -539,10 +537,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
-
-## Special Thanks
-
-[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
+- [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ## License
 

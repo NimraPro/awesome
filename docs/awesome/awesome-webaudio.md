@@ -22,6 +22,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Bap](https://github.com/adamrenklint/bap) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 - [Omnitone](https://github.com/GoogleChrome/omnitone) - Ambisonic spatial audio on the web.
 - [Mach1Spatial](https://github.com/Mach1Studios/m1-sdk) - Vector based panning spatial audio on the web.
+- [Elementary](https://www.elementary.audio/) – Declarative, functional framework for writing audio software on the web or for native apps
 
 ### Libraries
 
@@ -51,6 +52,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [midimessage](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 - [JZZ](https://github.com/jazz-soft/JZZ) - MIDI library for Node.js and all major browsers.
 - [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - Retrieve your MIDI device model and manufacturer.
+- [WEBMIDI.js](https://webmidijs.org/) - The Web MIDI API made easy.
 
 ### Apps
 
@@ -71,6 +73,11 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [jamhub](https://github.com/fletcherist/jamhub) - low-latency remote music collaboration & jam.
 - [Web Audio Metronome](https://github.com/cwilso/metronome) - metronome app that uses the Web Audio scheduler and setTimeout scheduler
 - [EarSketch](https://earsketch.gatech.edu/landing/#/) - free educational programming environment to teach Python and Javascript through music composing and remixing
+- [webaudio-tinysynth](https://github.com/g200kg/webaudio-tinysynth) - a small synthesizer written in JavaScript with GM like timbre map.
+- [web-audio-beat-detector](https://github.com/meerasndr/sample-golang-app) - a beat detection utility which is using the Web Audio API
+- [web-audio-mixer](https://github.com/jamesfiltness/web-audio-mixer) - An audio mixer built using Web Audio.
+
+
 
 ## Resources
 
@@ -96,6 +103,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Community
 
 - [Slack](https://web-audio-slackin.herokuapp.com/) - A Slack for discussing Web Audio.
+- [Web Audio Conference](https://webaudioconf.com/) - International conference dedicated to web audio technologies and applications.
 
 ## Obsolete
 

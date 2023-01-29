@@ -15,6 +15,8 @@ A curated list of fonts and typography resources.
 ## Free fonts
 
 #### Collections
+* [Crella](https://crella.net/free-fonts/) - Fonts offered for free for commercial use.
+* [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
 * [Google Fonts](https://fonts.google.com/)
@@ -45,6 +47,7 @@ A curated list of fonts and typography resources.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans](https://github.com/RoelN/SansBullshitSans)
+* [Urbanist](https://github.com/coreyhu/Urbanist) - Geometric sans-serif variable font
 * [WorkSans](https://github.com/weiweihuanghuang/Work-Sans)
 
 
@@ -106,6 +109,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
 * [Picon](https://yne.fr/picon) ~666 Pico-sized and ligature based icons + online font generator.
+* [Simple Icons](https://simpleicons.org/) - 2287+ free SVG icons for popular brands
 * [stackicons](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - An ultimate SVG icons collection done right
 * [typicons.font](http://s-ings.com/typicons/) - 336 pixel perfect, all-purpose vector icons in a web-font kit

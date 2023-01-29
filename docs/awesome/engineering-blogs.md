@@ -1,25 +1,6 @@
 <div class="github-widget" data-repo="kilimchoi/engineering-blogs"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-<div align="center">
-	<br>
-	<br>
-	<hr>
-	<p>
-		<sup>Special thanks to:</sup>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=engblogs&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
-	</p>
-</div>
 
 |     |     |     |     |     |     |     |     |     |
 |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |:-:  |
@@ -42,19 +23,13 @@
 ### Companies
 
 #### \# companies
-* 500px https://developers.500px.com/
 * 8th Light https://8thlight.com/blog/
 * 99designs https://99designs.com/tech-blog/
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
-* Addepar https://medium.com/build-addepar
-* Affinity https://build.affinity.co/
-* Airbrake https://airbrake.io/blog/
-* AirPair https://www.airpair.com/software-experts
 * Advanced Web Machinery https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
-* Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
 * Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
@@ -81,7 +56,6 @@
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
-* Bitly http://word.bitly.com/
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
@@ -90,7 +64,6 @@
 * Booking.com https://blog.booking.com/
 * Boxever http://www.boxever.com/blog/
 * Brandwatch http://engineering.brandwatch.com/
-* Buzzfeed https://www.buzzfeed.com/techblog
 
 #### C companies
 * Canva https://engineering.canva.com
@@ -101,24 +74,22 @@
 * Chartbeat http://engineering.chartbeat.com/
 * Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
-* CleverTap https://clevertap.com/blog/tag/engineering/
 * CloudBees https://www.previous.cloudbees.com/blog
 * Cloudera https://blog.cloudera.com/
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
-* Code Better http://codebetter.com/
 * Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
 * Coinbase https://engineering.coinbase.com/
-* Collective Idea https://collectiveidea.com/blog
 * Commercetools https://techblog.commercetools.com/
 * Condé Nast https://technology.condenast.com/
 * Confluent https://www.confluent.io/blog
 * Convox https://convox.com/blog
 * Coolblue http://devblog.coolblue.nl/
+* Credit Karma https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
 * CSC - IT Center For Science - Cloud Team https://cloud.blog.csc.fi/
@@ -129,7 +100,6 @@
 * Databricks https://databricks.com/blog
 * DataFox http://eng.datafox.co/
 * Deezer https://deezer.io/
-* DeferPanic https://deferpanic.com/blog/
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://blog.digitalocean.com/tag/engineering/
 * Discord https://blog.discordapp.com/
@@ -165,10 +135,8 @@
 * Finn.no http://tech.finn.no/
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
-* Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
 * Freeletics https://freeletics.engineering/
-* Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 * Fynd http://gofynd.io/blog
 
@@ -181,7 +149,7 @@
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * GoCardless https://gocardless.com/blog/tagged/engineering/
-* Good Eggs https://team.goodeggs.com
+* GoDaddy https://godaddy.github.io/engineering/
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
@@ -227,11 +195,8 @@
 * Instacart https://tech.instacart.com/
 * Instagram https://engineering.instagram.com/
 * Intel https://software.intel.com/en-us/blogs/
-* Intent HQ http://engineering.intenthq.com/
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
-* Intuit https://quickbooks-engineering.intuit.com/
-* InVision http://engineering.invisionapp.com/
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
@@ -271,14 +236,10 @@
 * Microsoft Python Engineering https://blogs.msdn.microsoft.com/pythonengineering/
 * Mixmax https://engineering.mixmax.com/
 * Mixpanel https://code.mixpanel.com/
-* MongoDB https://engineering.mongodb.com/
-* Monsanto http://engineering.monsanto.com/
 * Moove-it https://blog.moove-it.com/
 * Mozilla Automation Team https://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla Release Engineering https://planet.mozilla.org/releng/
-* Myntra https://medium.com/myntra-engineering
-* Myntra Data Science https://medium.com/myntra-engineering/tagged/data-science
 
 #### N companies
 * Netflix https://medium.com/netflix-techblog
@@ -295,17 +256,13 @@
 * OLX https://tech.olx.com/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
-* OpenTable http://tech.opentable.com/
-* OpenTable UK http://tech.opentable.co.uk/
 * Oursky https://code.oursky.com/
-* Oyster http://tech.oyster.com/
 * Opensooq http://engineering.opensooq.com/
 
 #### P companies
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
-* Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
@@ -317,7 +274,6 @@
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PubNub: https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
-* Pusher https://making.pusher.com/
 
 #### Q companies
 * Quora https://engineering.quora.com/
@@ -329,6 +285,7 @@
 * Realm.io https://realm.io/news/
 * Redbubble http://artplustech.com/
 * Redino http://redino.net/blog/
+* Reddit https://www.reddit.com/r/RedditEng/
 * Red Hat https://developers.redhat.com/blog/
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
@@ -352,10 +309,9 @@
 * Sensible http://blog.sensible.io/
 * Serverless https://serverless.com/blog/
 * Settled https://engineroom.settled.co.uk/
-* Shape Security http://engineering.shapesecurity.com/
 * Sharethis https://www.sharethis.com/category/engineering/
 * Shazam https://blog.shazam.com/
-* Shopify https://engineering.shopify.com
+* Shopify https://shopify.engineering/
 * ShowMax https://tech.showmax.com
 * Shyp https://medium.com/shyp-engineering
 * Sift Science https://blog.siftscience.com/?category=Engineering
@@ -366,9 +322,7 @@
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
-* SmartRecruiters https://up.smartrecruiters.com
 * Snyk https://snyk.io/blog
-* Songkick https://devblog.songkick.com/
 * Soshace https://blog.soshace.com/en/
 * Soundcloud https://developers.soundcloud.com/blog/
 * SourceClear https://blog.sourceclear.com/
@@ -380,7 +334,6 @@
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stackshare https://stackshare.io/feed
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
-* Stormpath https://stormpath.com/blog/
 * Strava https://medium.com/strava-engineering/
 * Stride https://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
@@ -397,13 +350,11 @@
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks https://www.thoughtworks.com/insights
 * Thumbtack https://www.thumbtack.com/engineering/
-* Ticketmaster https://tech.ticketmaster.com/
 * Timescale https://blog.timescale.com/
 * Tinder https://tech.gotinder.com/
 * Toptal https://www.toptal.com/blog/
 * TrackMaven http://engineroom.trackmaven.com/
 * Transferwise http://tech.transferwise.com/
-* Trello https://tech.trello.com/
 * TripAdvisor http://engineering.tripadvisor.com/
 * Trivago http://tech.trivago.com/
 * TrueCar https://www.drivenbycode.com/
@@ -440,14 +391,12 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
-* Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
 * WyeWorks https://wyeworks.com/blog/
 
 #### X companies
 * XING https://tech.xing.com/
-* Xmartlabs https://blog.xmartlabs.com/
 
 #### Y companies
 * Yahoo https://yahooeng.tumblr.com/
@@ -476,22 +425,14 @@
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
-* Abhinaba Basu https://blogs.msdn.com/b/abhinaba/
 * Abu Ashraf Masnun http://masnun.com/
-* Adam Bard https://adambard.com/blog/
-* Adam Leventhal http://dtrace.org/blogs/ahl/
-* Adam Tuliper http://www.adamtuliper.com/
 * Addy Osmani https://addyosmani.com/blog/
-* Adrian Colyer https://blog.acolyer.org/
 * Alan Storm http://alanstorm.com/
-* Alex Rogozhnikov https://arogozhnikov.github.io/
 * Alex Russell https://infrequently.org/
-* Allison Kaptur http://akaptur.com/
 * Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
 * Andreas Schuster https://computer.forensikblog.de/en/
 * Andrew Bancroft http://www.andrewcbancroft.com/
-* Andrew Brampton https://blog.bramp.net/
 * Andrew Ray https://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/blog/
 * Antirez http://antirez.com/latest/0
@@ -523,7 +464,6 @@
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
-* Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code with style! https://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
 
@@ -786,7 +726,6 @@
 
 #### A technologies
 * Android https://android-developers.blogspot.com/
-* Atom.io http://blog.atom.io/
 
 #### B technologies
 * Bootstrap.com https://blog.getbootstrap.com/

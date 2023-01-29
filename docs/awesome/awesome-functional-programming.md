@@ -25,6 +25,8 @@ Despite the name, this post actually clarifies some baisc concepts on Functional
 - [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [Monads Made Difficult](http://www.stephendiehl.com/posts/monads.html)
 - [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
+- [Async Streams in C#](https://freecontent.manning.com/async-streams-in-c/)
+- [How to leverage functional programming in Kotlin to write better, cleaner code](https://doordash.engineering/2022/03/22/how-to-leverage-functional-programming-in-kotlin-to-write-better-cleaner-code/)
 
 ### Papers
 - [Tradeoffs between Unique Types and Monads](http://lambda-the-ultimate.org/node/1180) 
@@ -51,6 +53,18 @@ a theorem prover called JBob for writing proofs in LISP.
 - [Introduction to Functional Programming](http://www.amazon.com/Introduction-Functional-Programming-International-Computing/dp/0134841891)
 - [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) - the perfect second book on Haskell which dives into examples and application scenarios designed to teach how Haskell works and how to apply it correctly. 
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Teaches functional programming from first principles using real-world scenarios.
+- [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition) - International bestseller revised with new exercises, annotations, and full coverage of Scala 3.
+- [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C#.
+- [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Introduction to functional programming.
+- [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin) - Master techniques and concepts of functional programming to deliver safer, simpler, and more effective Kotlin code.
+- [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture) - Design patterns and architectures for building production quality applications using functional programming, with examples in Haskell and other FP languages.
+- [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp) - In this book, you’ll get practical experience writing Haskell code and applying functional programming to actual development challenges.
+- [Mastering Functional Programming](https://www.perlego.com/book/800653/mastering-functional-programming-functional-techniques-for-sequential-and-parallel-programming-with-scala-pdf) - If you are from an imperative and OOP background, this book will guide you through the world of functional programming, irrespective of which programming language you use.
+- [Jax in Action](https://www.manning.com/books/jax-in-action) - A book about The JAX numerical computing library.
+- [Learn PowerShell Scritping in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches-second-edition) - Automate complex tasks and processes with PowerShell scripts.
+- [F# in Action](https://www.manning.com/books/f-sharp-in-action) - Book about practical F# development skills needed to create professional applications.
+
+
 ### Communities
 - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Community focused on discussing researches, papers
 and hot topic on academia. Very high tech discussion level.
@@ -72,6 +86,7 @@ just too humble about his creation.
 - [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 - [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://www.youtube.com/watch?v=9SBR_SnrEiI)
 - [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - LiveVideo course about Kotlin: functional programming, object orientation and building an Android app in Kotlin.
+- [Do we really need OOD and FDD?](https://www.youtube.com/watch?v=KW9U6HMKEgk) - Functional Declarative Design (FDD) opposed to Object-Oriented Design (OOD
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - Series of Lectures from one of the creators of Haskell

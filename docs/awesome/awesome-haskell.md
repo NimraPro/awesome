@@ -14,6 +14,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Cabal](https://www.haskell.org/cabal/) - a system for building and packaging Haskell libraries and programs.
 * [GHC](https://www.haskell.org/ghc/) - the state-of-the-art optimizing native code compiler for Haskell.
 * [GHCi](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/ghci.html) - a bytecode interpreter and interactive REPL environment for Haskell.
+* [GHCup](https://www.haskell.org/ghcup) - GHCup is the main installer for the general purpose language Haskell.
 * [Hackage](http://hackage.haskell.org/) - the Haskell community's central package archive.
 * [Haddock](https://www.haskell.org/haddock/) - a tool for automatically generating documentation from annotated Haskell source code.
 * [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
@@ -143,6 +144,10 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Text Recognition](http://hackage.haskell.org/packages/#cat:Text%20Recognition) - a collaborative Hackage list.
 * [Robotics](http://hackage.haskell.org/packages/#cat:Robotics) - a collaborative Hackage list.
 
+    ---
+*Additional libraries*
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) - A CLI tool to transpile trained classic ML models into a native Haskell code with zero dependencies.
+
 ## Data Structures
 * [Data Structures & IO Libraries](https://wiki.haskell.org/Applications_and_libraries/Data_structures) - Official Website Resources.
 
@@ -257,6 +262,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 ## Messaging
 
+* [SimpleX Chat](https://github.com/simplex-chat/simplex-chat) - the first chat platform that is 100% private by design - it has no access to your connection graph!
 * [Stomp](http://stomp.github.io/) - is the Simple (or Streaming) Text Orientated Messaging Protocol. [Resources](http://hackage.haskell.org/packages/#cat:Stomp).
 * [amqp](https://github.com/hreinhardt/amqp) - client library for AMQP servers (currently only RabbitMQ).
 * [IRC](http://hackage.haskell.org/packages/#cat:IRC) - a collaborative Hackage list for Internet Relay Chat (IRC).
@@ -281,6 +287,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Fay](http://fay-lang.org/) - a proper subset of Haskell that compiles to JavaScript.
 * [Idris](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 * [Copilot](http://leepike.github.io/Copilot/) - a (Haskell DSL) stream language for generating hard real-time C code.
+* [Wasp](https://wasp-lang.dev/) - a simple language for developing full-stack Javascript web apps with less code (built with Haskell)
 
 ## Operating Systems
 
@@ -392,6 +399,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Fall 2014 MOOC on edX by DelftX featuring Haskell as the primary language of focus.
 * [Functional Programming in Haskell](https://www.futurelearn.com/courses/functional-programming-haskell/) - Introductory MOOC to functional programming in Haskell by the University of Glasgow. 
+* [Haskell MOOC](https://haskell.mooc.fi/) - MOOC on functional programming that uses Haskell by University of Helsinki.
 
 ## Conferences
 

@@ -22,7 +22,7 @@ To add something to this list, please see the [contribution guidelines](https://
 
 ## Documentation
 
-* [Mastering CHIP-8](http://mattmik.com/files/chip8/mastering/chip8.html) - In-depth overview of the CHIP-8 instruction set.
+* [Mastering CHIP-8](https://github.com/mattmikolay/chip-8/wiki/Mastering-CHIP%E2%80%908) - In-depth overview of the CHIP-8 instruction set.
 * [CHIP-8 Instruction Set](http://johnearnest.github.io/Octo/docs/chip8ref.pdf) - Quick cheat sheet for CHIP-8 instructions.
 * [CHIP-8 Instruction Set](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Instruction-Set) - A comprehensive instruction/opcode table.
 * [CHIP-8 Technical Reference](https://github.com/mattmikolay/chip-8/wiki/CHIP%E2%80%908-Technical-Reference) - Overview of how the CHIP-8 interpreter works.
@@ -41,6 +41,7 @@ To add something to this list, please see the [contribution guidelines](https://
 ### Testing
 
 * [chip8-test-rom](https://github.com/corax89/chip8-test-rom) - corax89's CHIP-8 test program, which tests most instructions for correct (Super-CHIP compliant) behavior.
+* [CHIP-8 test suite](https://github.com/Timendus/chip8-test-suite) - Timendus' collection of tests, including an improved version of corax89's test rom, a test for the behaviour of the flags and a CHIP-8 / Super-CHIP / XO-CHIP quirks test.
 * [Delay timer test](https://github.com/mattmikolay/chip-8/tree/master/delaytimer) - Test program that checks the delay timer's behavior.
 * [Random number test](https://github.com/mattmikolay/chip-8/tree/master/randomnumber) - Test program that checks the spread and mask for random number generation.
 

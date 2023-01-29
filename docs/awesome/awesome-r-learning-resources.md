@@ -24,29 +24,15 @@
 </div>
 <br>
 
-<div align="center">
-
-Black Lives Matter.
-<br>
-Please consider donating to [Black Girls Code](https://www.blackgirlscode.com/donations.html) today.
-<br>
-<br>
-The racism and hate crimes toward Asian Americans must end.
-<br>
-Please consider making a [donation in support of Asian communites](https://nymag.com/strategist/article/where-to-donate-to-help-asian-communities-2021.html) today.
-<br>
-</div>
-
-<br>
-
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fiamericfletcher)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fiamericfletcher%2FR-Learning-Resources)
-
 
 ## Topic Areas 
 
 ### Comprehensive R Tutorials
 
 - [Data Flair](https://data-flair.training/blogs/r-tutorials-home/) - The tutorials are grouped by skill level (beginner, intermediate, expert). 
+- [Intro to R course by Fabio Votta - part 1](https://colab.research.google.com/drive/1dLsdGbkvgn1JbWgsy9Z-pFmPd_2MG4Xu?usp=sharing#scrollTo=vGnW7giO9AeD) - A fun introduction to R programming grouped into categories (operators, objects, functions, exercises, and data frames).
+- [Intro to R course by Fabio Votta - part 2](https://colab.research.google.com/drive/14CRElnKewnp5MnlxhqVu6OOcIXd-Bkaj?usp=sharing) - A fun introduction to R programming grouped into categories (data manipulation and cleaning featuring the janitor, tidyr, and dplyr packages).
+- [Introduction to Data Analysis with R](https://jmbuhr.de/dataIntro20/) - This is a lecture series with videos, scripts and exercises introducing R and the tidyverse as well as statistical concepts.
 - [R CODER](https://r-coder.com) - The tutorials are grouped into categories (introduction, data structures, data wrangling, programming, import & export, graphics) that cover in-depth all the basic needs for someone starting learning the R programming language. 
 - [Tutorials Point](https://www.tutorialspoint.com/r/index.htm) - The tutorials are grouped into categories (R tutorial, R Data Interfaces, R Charts & Graphs, R Statistics Examples, R Useful Resources) that cover in-depth all the basic needs for someone starting learning the R programming language.
 
@@ -93,6 +79,7 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [Chart Suggestions — A thought-starter on choosing the way to show your data](https://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf) - Author: Andrew Abela, Ph.D.
 - [Color Hex Color Codes](https://www.color-hex.com/) - Author: Color-Hex.
 - [Combine Multiple GGPlots into a Figure](https://www.datanovia.com/en/lessons/combine-multiple-ggplots-into-a-figure/) - Author: Alboukadel Kassambara.
+- [Coolors](https://coolors.co/) - The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes. Features include color picker, pick palette from photo, create a collage, make your own gradient palette, create a gradient, contrast checker, etc.
 - [From Data to Viz](https://www.data-to-viz.com/) - From Data to Viz leads you to the most appropriate graph for your data. Author: Yan Holtz.
 - [ggplot2 extensions - gallery](https://exts.ggplot2.tidyverse.org/gallery/) - Maintained by Daniel Emaasit.
 - [ggplot2 - Modify components of a theme](https://ggplot2.tidyverse.org/reference/theme.html) - How to modify components of a theme in ggplot2. Author: the developers of Tidyverse.
@@ -136,7 +123,7 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [Alex Cookson](https://www.alexcookson.com/) - Alex Cookson loves making beautiful visualizations and easy-to-read walkthroughs of R concepts. He's particularly interested in data about media, like books, movies, and musicals.
 - [Avery Robbins](https://www.avery-robbins.com) - Avery Robbins loves to learn and to share useful or awesome things that have benefited him personally. This website is a tool for him to actively do just that: share knowledge, ideas, and tips that are helpful.
 - [Tony ElHabr](https://tonyelhabr.rbind.io/) - Tony ElHabr is passionate mostly about energy markets and sports analytics. His blog provides detailed tutorials, project explanations, and presentations.
-- [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Scherer is a computational ecologist by training and a data visualization designer by heart with more than 9 years of hypothesis-driven research experience and strong skills in data wrangling, statistical analysis, model development and data visualization.
+- [Cédric Scherer](https://cedricscherer.netlify.app/) - Cédric Scherer is a graduated computational ecologist and freelance data visualization expert who has created visualizations across all disciplines, purposes, and styles and regularly teaches data visualization principles, R, and ggplot2. 
 - [Data Imaginist](https://www.data-imaginist.com/) - Thomas Lin Pedersen is a data scientist turned software engineer who focuses on improving researchers’ interactions with the data they produce.
 - [Data meets Narrative](http://www.rebeccabarter.com/blog/) - Rebecca Barter enjoys making sense of complex, messy and sometimes nonsensical datasets, such as electronic health records, and insurance claims. Her dual passions are explaining “seemingly complicated” concepts to others in plain English, and exploring and uncovering the stories that underlie complex datasets.
 - [HighlandR](https://johnmackintosh.net/) - John Mackintosh's blog is a place for him to showcase demonstrations or workshops, notes he's learned at work, chart makeovers, and techniques and technology that he doesn't currently use in his role.
@@ -154,21 +141,25 @@ Please consider making a [donation in support of Asian communites](https://nymag
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) - This book provides an introduction to statistical learning methods. Authors: Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 - [Advanced R](https://adv-r.hadley.nz/introduction.html) - This book is designed for R programmers who want to deepen their understanding of the language, and programmers experienced in other languages who want to understand what makes R different and special. [Exercise Solutions](https://advanced-r-solutions.rbind.io/) Author: Hadley Wickham.
 - [An Introduction to R](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) - This introduction to R is derived from an original set of notes describing the S and S-Plus environments written in 1990–2 by Bill Venables and David M. Smith when at the University of Adelaide.
+- [An Introduction to R](https://intro2r.com/) - The aim of this book is to introduce you to using R, a powerful and flexible interactive environment for statistical computing and research. Authors: Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto & David Lusseau
 - [Answering Questions with Data](https://crumplab.github.io/statistics/) - This is a free textbook teaching introductory statistics for undergraduates in Psychology. The textbook was written with math-phobia in mind and attempts to reduce the phobia associated with arithmetic computations. Author: Matthew J. C. Crump.
 - [Data Science in a Box](https://datasciencebox.org/index.html) - The core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results.
 - [Data Science in Education Using R](https://datascienceineducation.com/) - This book is primarily about learning to use R as a tool for data science in education. Authors: Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez.
 - [Efficient R programming](https://csgillespie.github.io/efficientR/) - Efficient R Programming is about increasing the amount of work you can do with R in a given amount of time. It’s about both computational and programmer efficiency. Authors: Colin Gillespie, Robin Lovelace.
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) - This book covers the process of building a Shiny application that will later be sent to production. Authors: Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard.
 - [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata/) - This book covers the essential exploratory techniques for summarizing data with R. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Author: Roger D. Peng.
+- [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly. Authors: Rob J Hyndman and George Athanasopoulos.
 - [Geocomputation with R](https://geocompr.robinlovelace.net/) - This book is about using the power of computers to do things with geographic data. It teaches a range of spatial skills, including reading, writing and manipulating geographic data; making static and interactive maps; applying geocomputation to solve real-world problems; and modeling geographic phenomena. Authors: Robin Lovelace, Jakub Nowosad, Jannes Muenchow.
 - [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html) - This book provides a hands-on introduction to ggplot2 with lots of example code and graphics. It also explains the grammar on which ggplot2 is based. Author: Hadley Wickham.
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Happy Git provides opinionated instructions on how to install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE, develop a few key workflows that cover your most common tasks, and integrate Git and GitHub into your daily work with R and R Markdown. Authors: Jenny Bryan, the STAT 545 TAs, Jim Hester.
 - [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/) - This book started out as the class notes used in the HarvardX Data Science Series. It introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown.  Author: Professor Rafael A. Irizarry.
+- [Introduction to Probability and Statistics Using R](http://www.atmos.albany.edu/facstaff/timm/ATM315spring14/R/IPSUR.pdf) - The book can be subdivided into three basic parts. The first part includes the introductions and elementary descriptive statistics; I want the students to be knee-deep in data right out of the gate. The second part is the study of probability, which begins at the basics of sets and the equally likely model, journeys past discrete/continuous random variables, and continues through to multivariate distributions. The chapter on sampling distributions paves the way to the third part, which isinferential statistics. This last part includes point and interval estimation, hypothesis testing, and finishes with introductions to selected topics in applied statistics. Author: G. Jay Kerns.
 - [Introduction to R & Spatial Data with Raster and Terra](https://rspatial.org/intr/index.html) - This document provides a concise introduction to R. It emphasizes what you need to know to be able to use the language in any context. Author: Professor Robert Hijmans.
 - [JavaScript for R](https://book.javascript-for-r.com/) - The ultimate aim of this work is to demonstrate to the reader the many great benefits one can reap by inviting JavaScript into their data science workflow. Author: John Coene.
 - [Learning Statistics with R](https://learningstatisticswithr.com/) - Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. Author: Danielle Navarro.
 - [Mastering Shiny](https://mastering-shiny.org/) - This is the online version of Mastering Shiny, a book currently under early development and intended for a late 2020 release. This book complements the [Shiny online documentation](https://shiny.rstudio.com/) and is intended to help app authors develop a deeper understanding of Shiny. Author: Hadley Wickham. [Mastering Shiny Exercise solutions](https://mastering-shiny-solutions.org/index.html)
 - [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R/) - The idea of Chapters 1 to 7 is to make you efficient with R as quickly as possible, especially if you already have prior programming knowledge. Starting with Chapter 8 you will learn more advanced topics, especially programming with R. Author: Bruno Rodrigues.
+- [Modern Statistics with R](http://www.modernstatisticswithr.com/) - From wrangling and exploring data to inference and predictive modelling. The book includes plenty of examples and more than 200 exercises with worked solutions. Author: Måns Thulin.
 - [Practical Data Science with R](https://www.manning.com/books/practical-data-science-with-r-second-edition#toc) - The intent of this book is to present data science from a pragmatic, practice-oriented viewpoint. The book concentrates on the process of data science, from the planning stages of a project, through the data collection and exploration, to the modeling, and finally to deployment and the sharing of results. Authors: Nina Zumel and John Mount.
 - [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - The emphasis of this text is on the practice of regression and analysis of variance. The objective is to learn what methods are available and more importantly, when they should be applied. Author: Julian Faraway.
 - [Practicals and Exercises](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) - This series of exercises reviews some of the content discussed during the author's lectures, and introduces some other basic concepts about working with data in R. Author: Charles DiMaggio, PhD.
@@ -204,6 +195,7 @@ collection, study and presentation of different types of political data. Authors
 
 - [Andrew Couch](https://www.youtube.com/channel/UCnwYO3Sz_emBTC1sTZ6TlsQ) - Topics include modeling, creating functions, dashboards, and forecasting.
 - [Ben Stenhaug](https://www.youtube.com/user/benastenhaug/videos) - Topics include saving and reading data, map functions in purrr, t-tests, item response theory, and the basics of R and the tidyverse.
+- [Cédric Scherer](https://www.youtube.com/playlist?list=PLd6eTXMmV3X-4-pHkZSJwHRACzSSyeT9T) - A collection of talks and seminars about R-related topics such as ggplot2 or Shiny, and data visualization in general.
 - [Colin Quirk](https://www.youtube.com/channel/UC-vtwz7ueU2dtnHk5e-WblA) - Topics include regular expressions, data types, Shiny, and gganimate.
 - [Data Analysis and Visualization Using R](https://www.youtube.com/channel/UClLf9MZuUy89IwGtRHC0RzQ) - Topics for the online course Data Analysis and Visualization Using R.
 - [Data Science with Tom](https://www.youtube.com/channel/UCb5aI-GwJm3ZxlwtCsLu78Q) - Topics include time series, analyzing word relationships with ggraph and tidytext, and tidymodels.
@@ -216,6 +208,7 @@ collection, study and presentation of different types of political data. Authors
 - [Lander Analytics](https://www.youtube.com/channel/UC2-hKemnrmVCH_29duyJ26A/videos) - In-depth talks by different experts on a wide variety of topics.
 - [MarinStatsLectures](https://www.youtube.com/c/marinstatlectures/featured) - Topics include descriptive statistics, ANOVA, bootstrapping, linear regression, bivariate analysis, and probability distributions.
 - [Numyard](https://www.youtube.com/c/TheLearnR/videos) - Topics include working with dataframes, for loops, basic math, vectors, lists, creating functions, data types, and random sampling.
+- [R Programming 101](https://www.youtube.com/c/RProgramming101/featured) - This channel provides teaching videos on data analysis and statistical analysis using R programming. The teaching videos include subjects like data cleaning, data manipulation, data visualization, statistical analysis, and machine learning and AI (artificial intelligence).
 - [Richard Webster](https://www.youtube.com/channel/UC5ktyacv_aPSBmKB7uX5Piw/videos) - Topics include the paste function, the apply family of functions, while and for loops, conditional statements, visualization, removing NAs, and combining data.
 - [RichardOnData](https://www.youtube.com/playlist?list=PLOKCg4WX8ZG4nboHnOgA8PJxGWnO4csiZ) - The R playlist includes videos on manipulating data with dplyr, visualizing data with ggplot2 and ggThemeAssist, data types and structures, important base r functions, handling datetimes with lubridate, conquering factors with forcats, manipulating text with stringr. 
 - [Shiny Developer Series](https://www.youtube.com/c/ShinyDeveloperSeries/videos) - The goals of the Shiny Developer Series are to showcase the innovative applications and packages in the ever-growing Shiny ecosystem, as well as the brilliant developers behind them! 

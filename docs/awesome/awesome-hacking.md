@@ -18,8 +18,10 @@ For a list of free hacking books available for download, go [here](https://githu
 ## System
 
 ## Tutorials
+ * [Roppers Computing Fundamentals](https://hoppersroppers.org/course.html)
+    * Free, self-paced curriculum that builds a base of knowledge in computers and networking. Intended to build up a student with no prior technical knowledge to be confident in their ability to learn anything and continue their security education. Full text available as a [gitbook](https://www.hoppersroppers.org/fundamentals/).
  * [Corelan Team's Exploit writing tutorial](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
- * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
+ * [Exploit Writing Tutorials for Pentesters](http://web.archive.org/web/20140916085343/http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
  * [Understanding the basics of Linux Binary Exploitation](https://github.com/r0hi7/BinExp)
  * [Shells](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
  * [Missing Semester](https://missing.csail.mit.edu/2020/course-shell/)
@@ -41,7 +43,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * `docker pull hmlio/vaas-cve-2014-6271` - [Vulnerability as a service: Shellshock](https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
  * `docker pull hmlio/vaas-cve-2014-0160` - [Vulnerability as a service: Heartbleed](https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
  * `docker pull opendns/security-ninjas` - [Security Ninjas](https://hub.docker.com/r/opendns/security-ninjas/)
- * `docker pull usertaken/archlinux-pentest-lxde` - [Arch Linux Penetration Tester](https://hub.docker.com/r/usertaken/archlinux-pentest-lxde/)
+ * `docker pull noncetonic/archlinux-pentest-lxde` - [Arch Linux Penetration Tester](https://hub.docker.com/r/noncetonic/archlinux-pentest-lxde)
  * `docker pull diogomonica/docker-bench-security` - [Docker Bench for Security](https://hub.docker.com/r/diogomonica/docker-bench-security/)
  * `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
  * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
@@ -60,6 +62,7 @@ For a list of free hacking books available for download, go [here](https://githu
 * [Begin RE: A Reverse Engineering Tutorial Workshop](https://www.begin.re/the-workshop)
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 * [Malware Unicorn Reverse Engineering Tutorial](https://malwareunicorn.org/workshops/re101.html#0)
+* [Lena151: Reversing With Lena](https://archive.org/details/lena151)
 
 ## Tools
 ### Disassemblers and debuggers
@@ -155,6 +158,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [PhpSploit](https://github.com/nil0x42/phpsploit) - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
  * [Git-Scanner](https://github.com/HightechSec/git-scanner) - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
  * [CSP Scanner](https://cspscanner.com/) - Analyze a site's Content-Security-Policy (CSP) to find bypasses and missing directives.
+ * [Decompiler.com](https://www.decompiler.com/) - Java, Android, Python, C# online decompiler.
 
 ## General
  * [Strong node.js](https://github.com/jesusprubio/strong-node) - An exhaustive checklist to assist in the source code security analysis of a node.js web service.
@@ -181,8 +185,8 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Scapy](https://github.com/secdev/awesome-scapy) - A Python tool and library for low level packet creation and manipulation
  * [Amass](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
  * [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer
- * [RustScan][https://github.com/rustscan/rustscan] - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
-
+ * [Netz](https://github.com/spectralops/netz) - Discover internet-wide misconfigurations, using zgrab2 and others.
+ * [RustScan](https://github.com/rustscan/rustscan) - Extremely fast port scanner built with Rust, designed to scan all ports in a couple of seconds and utilizes nmap to perform port enumeration in a fraction of the time.
 
 ## Forensic
 
@@ -227,6 +231,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [fuzzy.land](https://fuzzy.land/) - Website by an Austrian group. Lots of challenges taken from CTFs they participated in.
  * [Gruyere](https://google-gruyere.appspot.com/)
  * [Others](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps)
+ * [TryHackMe](https://tryhackme.com/) - Hands-on cyber security training through real-world scenarios.
 
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
@@ -259,6 +264,7 @@ For a list of free hacking books available for download, go [here](https://githu
  * [HackTheBox](https://www.hackthebox.eu/)
 
 ## General
+
  * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
@@ -266,14 +272,17 @@ For a list of free hacking books available for download, go [here](https://githu
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
  * [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
  * [Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
- * [Hopper's Roppers Intro. to CTF Course](https://www.hoppersroppers.org/courseCTF.html) - A free course that teaches the fundamentals of forensics, cryptography, and web-exploitation required to be successful in Capture the Flag competitions.
+ * [Roppers CTF Fundamentals Course](https://www.hoppersroppers.org/courseCTF.html) - Free course designed to get a student crushing CTFs as quickly as possible. Teaches the mentality and skills required for crypto, forensics, and more. Full text available as a [gitbook](https://www.hoppersroppers.org/ctf/).
 
 ## OS
 
 ## Online resources
- * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+
+ * [Security related Operating Systems @ Rawsec](https://inventory.raw.pm/operating_systems.html) - Complete list of security related operating systems
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - Description of main penetration testing distributions
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - Website dedicated to talking about, reviewing and keeping up to date with open source operating systems
+
+
 ## Post exploitation
 
 ## tools
@@ -283,5 +292,7 @@ For a list of free hacking books available for download, go [here](https://githu
 * [ebowla](https://github.com/Genetic-Malware/Ebowla) - Framework for Making Environmental Keyed Payloads
 
 ## ETC
+
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
- * [Hopper's Roppers Security Training](https://www.hoppersroppers.org/training.html) - Four free courses designed to teach beginners the fundamentals of computing, security, and CTFs. 
+ * [Roppers Security Fundamentals](https://www.hoppersroppers.org/courseSecurity.html) - Free course that teaches a beginner how security works in the real world. Learn security theory and execute defensive measures so that you are better prepared against threats online and in the physical world. Full text available as a [gitbook](https://www.hoppersroppers.org/security/).
+ * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - An open-source inventory of tools, resources, CTF platforms and Operating Systems about CyberSecurity. ([Source](https://gitlab.com/rawsec/rawsec-cybersecurity-list))

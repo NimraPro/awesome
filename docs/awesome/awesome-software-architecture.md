@@ -11,6 +11,10 @@
 [Software architecture](https://en.wikipedia.org/wiki/Software_architecture) aims to describe the high level 
 structures of software as well as the discipline of creating them. As this topic is pretty broad, it might 
 contain some resources that are also present in more niche lists. 
+
+<i>
+  If you like this list, consider showing your support by following <a href="https://twitter.com/0x12b/">@0x12b</a> on Twitter. 
+</i>
   
 </div>
 
@@ -18,6 +22,7 @@ contain some resources that are also present in more niche lists.
 
 ## Principles
 - [Flexibility](https://medium.com/faun/flexibility-a-software-architecture-principle-6eafe045a1d4) - Able to adapt to changes in both environment and usability requirements without encompassing structural changes.
+- [SOLID](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - Lend to developing software with considerations for maintaining and extending as the project grows
 
 ## Design Patterns
 - [Ports and adapters pattern](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html) - Decouple the application core logic from the services it uses.
@@ -32,8 +37,9 @@ contain some resources that are also present in more niche lists.
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) - Layers are a way to separate responsibilities and manage dependencies.
 
 ### Scalability and Resilience
-- [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures
-- [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead) - Partition resources to isolate failures
+- [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html) - Protecting failing resources to prevent cascading failures.
+- [Bulkhead](https://docs.microsoft.com/en-us/azure/architecture/patterns/bulkhead) - Partition resources to isolate failures.
+- [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election) - Coordinate distributed workloads by electing a leader.
 
 ## Methodology
 
@@ -73,6 +79,7 @@ contain some resources that are also present in more niche lists.
 - [Structurizr](https://structurizr.com) - Modelling tool based on the C4 Model (see above).
 - [PlantUML](http://plantuml.com/) - Like markdown for diagrams, PlantUML renders an english-like grammer into diagrams.
 - [PlantUML for Atlassian](https://marketplace.atlassian.com/apps/1215115/plantuml-for-confluence-cloud?hosting=cloud&tab=overview) - Adds support for PlantUML-based diagrams in the atlassian suite.
+- [Sketchboard.io](https://sketchboard.io/) - Collaborative sketchboarding.
 
 ## Frameworks
 

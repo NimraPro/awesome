@@ -17,7 +17,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 
 
-
 ## Articles
 
 > Go to [ARTICLES.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/ARTICLES.md).
@@ -48,6 +47,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [You Don't Know JS: Async & Performance](https://www.oreilly.com/library/view/you-dont-know/9781491905197/) - Kyle Simpson
 - [Linux, Apache, MySQL, PHP Performance end-to-end](https://play.google.com/store/books/details/Colin_McKinnon_Linux_Apache_MySQL_PHP_Performance?id=Z3ciBgAAQBAJ) - Colin McKinnon
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - Ben Farrell
+- [Image Optimization](https://www.smashingmagazine.com/printed-books/image-optimization/) - Addy Osmani
 
 ## Case studies
 
@@ -61,16 +61,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
   Deprecated. This is deprecated and will be shut down in May 2019. Version 5 is the latest and provides both real-world data from the Chrome User Experience Report and lab data from Lighthouse.
 - [Best Practices for Speeding Up Your site](https://developer.yahoo.com/performance/rules.html) - The list includes 35 best practices divided into 7 categories, created by Yahoo! Exceptional Performance team.
 
-## People
-
-> Go to [https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md](https://github.com/davidsonfellipe/awesome-wpo/blob/master/content/PEOPLE.md).
-
 ## Events
 
 > Because community matters!
 
 ### Conferences
 
+- [PWA Summit](https://pwasummit.org/) – A free, online, single-track conference focused on helping everyone succeed with Progressive Web Apps.
 - [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available sites and apps.
 - [performance.now()](https://perfnow.nl/) – The performance.now() conference will return to Amsterdam! We're a single track conference with fourteen world-class speakers, covering today’s most important web performance insights.
 - [#PerfMatters](https://perfmattersconf.com/) – #PerfMatters Conference is the ONLINE web performance conference by internationally renowned performance developers.
@@ -111,6 +108,14 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [Node-yslowjs](https://github.com/jmervine/node-yslowjs) - YSlow.js on Node.js is a simple Node.js wrapper for programmatically running phantomjs yslow.js.
 - [PSI](https://github.com/addyosmani/psi) - PageSpeed Insights for Node.js - with reporting.
+
+## Application Performance Monitoring
+
+- [Datadog APM](https://www.datadoghq.com/product/apm/) - End-to-end distributed tracing and APM at scale, correlated to all telemetry. 
+- [BetterUptime](https://betteruptime.com) - A good website monitoring tool (bundling status page, incident notification)
+- [Pingdom](https://pingdom.com) - A tool to get the uptime of your website (with probes from different locations)
+- [UptimeRobot](https://uptimerobot.com) - Another uptime monitoring tool (with a generous free plan)
+- [RoboMiri](https://robomiri.com) - RoboMiri is a stable Uptime Monitor that offer a wide range of monitors: cronjob, keyword, website, port, ping. 25 uptime checks with a 3 minutes interval checks for free. Alerts via Phone Call, SMS, Email and Web Hook.
 
 ## Bundle Analyzer
 
@@ -163,6 +168,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [jsDelivr](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
 - [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 - [CDNjs](https://cdnjs.com/) - An open source CDN for JavaScript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
+- [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network by Amazon that integrates nicely with other Amazon services or can be used standalone.
 - [jQuery](http://code.jquery.com/) - jQuery CDN – Latest Stable Versions, powered by MaxCDN.
 - :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 - :cn: [Bootstrap 中文网开放 CDN 服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
@@ -176,7 +182,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## CDN - Utilities
 
-- [Cdnex](https://github.com/jsonmaur/cdnex) - Prepends asset URLs with custom CDN URLs.
 - [Gulp-google-cdn](https://github.com/sindresorhus/gulp-google-cdn) - Replaces script references with Google CDN ones.
 
 ## Extensions
@@ -254,6 +259,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 - [WebPageTest API Wrapper for Node.js](https://github.com/marcelduran/webpagetest-api) - WebPageTest API Wrapper is an npm package that wraps WebPageTest API for Node.js as a module and a command-line tool.
 
+## Metrics Monitor - EMAIL
+
+- [WebPerformance Report](https://webperformancereport.com/) - Web performance report every week in your inbox. Get a Personalized Report on the Status of the Ecommerce or Website that you want to monitor in terms of Web performance and Web optimization, Core Web Vitals are included.
+
 ## Minifiers - HTML
 
 - [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
@@ -314,7 +323,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 - [SvgToCSS](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 - [Assetgraph-sprite](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.
 - [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable CSS.
-- [Spriteme](http://spriteme.org/) - Create, integrate, and maintain CSS sprites with ease.
 - [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 - [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 - [Sprity](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...

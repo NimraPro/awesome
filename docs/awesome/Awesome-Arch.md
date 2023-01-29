@@ -43,7 +43,6 @@
 - [ArchLabs Linux](https://archlabslinux.com/) - A distribution based on Arch Linux and featuring the Openbox window manager as the primary desktop interface.
 - [Namib GNU/Linux](https://www.namiblinux.org/) - A desktop operating system based on (and compatible with) the Arch Linux distribution.
 - [ArchEX](http://archex.exton.net/) - A new (190612) Linux live DVD based on Arch Linux. Arch motto is KISS (Keep It Simple Stupid.
-- [Arch XFerience](https://www.xferience.org/) - A modern OS based on Arch Linux, built for day-to-day operations with tons of packages & features.
 - [Ctlos Linux](https://ctlos.github.io/) - Arch Linux based distro.
 - [MagpieOS](https://github.com/magpie-linux) - Get a fresh experience of Arch.
 - [Netrunner Rolling](https://www.netrunner.com/netrunner-rolling-release/) - Manjaro/Arch Linux based distro.
@@ -62,7 +61,6 @@
 - [LinHES](http://www.linhes.org/) - _(MythTV)_ - An attempt to make the installation of GNU/Linux and MythTV as trivial as possible.
 - [UBOS](https://ubos.net/) - _(Server)_ - A Linux distribution designed to greatly reduce the amount of time required to set up and maintain common network services.
 - [TalkingArch](https://talkingarch.tk/) - _(Assistive)_ - A re-spin of the Arch Linux live ISO image, modified to include speech and Braille output for blind and visually-impaired users.
-- [Archphile](https://archphile.org/) - _(Raspberry Pi/ARM/Audio)_ - Yet another linux audio distribution for embedded boards.
 - [BBQLinux](http://bbqlinux.org/) - _(Android Developers)_ - A user-friendly Linux distribution made for Android developers.
 It has everything on board to build AOSP or AOSP-based distributions like LineageOS or OmniROM.
 - [RaspArch](https://sourceforge.net/projects/rasparch/) - _(Raspberry Pi/ARM)_ - A “remaster” of Arch Linux ARM.
@@ -71,7 +69,6 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
  > Linux distributions that use `pacman` as a package manager.
 
-- [Chakra GNU/Linux](https://www.chakralinux.org/) - A user-friendly and powerful distribution and live CD originally forked from Arch Linux.
 - [KaOS](https://kaosx.us/) - KaOS is an independent distribution focused on Qt and KDE.
 
 ## SystemD-free Arch-based distros
@@ -150,9 +147,19 @@ It has everything on board to build AOSP or AOSP-based distributions like Lineag
 
 > Projects linked to or inspired by Arch Linux that do not belong to any previous category.
 
+- [Dotfiles Generator](https://github.com/ulises-jeremias/dotfiles) - Dotfiles generator that allows quick configuration of different Window Managers and tools in multiple operating systems, including any Arch Linux-based distribution.
 - [Termux Arch](https://termuxarch.github.io/TermuxArch/) - Run Arch Linux ARM on your mobile phone with Termux.
 - [archlinux/base](https://hub.docker.com/r/archlinux/base/) - A docker image based on Arch Linux.
 - [Arch Linux on EC2](https://www.uplinklabs.net/projects/arch-linux-on-ec2/) - Amazon EC2 AMIs based on Arch Linux
+- [JuNest](https://github.com/fsquillace/junest) - A lightweight Arch Linux-based distro that runs, without root privileges, upon any Linux distro.
+
+## Inactive projects
+
+> Projects that were part of the listing but were discontinued or did not receive updates for a long time.
+
+- **Arch XFerience** - A modern OS based on Arch Linux, built for day-to-day operations with tons of packages & features. (inactive)
+- **Chakra GNU/Linux** - A user-friendly and powerful distribution and live CD originally forked from Arch Linux. ([discontinued](https://twitter.com/chakralinux/status/1475111596640727045))
+- **Archphile** - _(Raspberry Pi/ARM/Audio)_ - Yet another linux audio distribution for embedded boards. (inactive)
 
 ## Contribute
 
@@ -160,7 +167,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Pan
 
 You can also contribute to the maintenance of the list by making a small donation (psst, buy me a coffee... ☕️ ):
 
-<noscript><a href="https://liberapay.com/PandaFoss/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K179HAS)
 
 I need your support! ❤️
 
@@ -178,6 +185,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://pandafoss.github.io/"><img src="https://avatars.githubusercontent.com/u/6508835?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Max Ferrer</b></sub></a><br /><a href="https://raw.githubusercontent.com/PandaFoss/Awesome-Arch/commits?author=PandaFoss" title="Code">💻</a> <a href="#ideas-PandaFoss" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-PandaFoss" title="Maintenance">🚧</a> <a href="#design-PandaFoss" title="Design">🎨</a> <a href="#content-PandaFoss" title="Content">🖋</a></td>
     <td align="center"><a href="https://raw.githubusercontent.com/JackNapier151"><img src="https://avatars.githubusercontent.com/u/23581810?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack Napier</b></sub></a><br /><a href="#ideas-JackNapier151" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="http://sheepdev.xyz"><img src="https://avatars.githubusercontent.com/u/68562536?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sheepdev</b></sub></a><br /><a href="#content-sheeepdev" title="Content">🖋</a></td>
+    <td align="center"><a href="https://ar.linkedin.com/in/ulisesjcf"><img src="https://avatars.githubusercontent.com/u/17727170?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ulises Jeremias Cornejo Fandos</b></sub></a><br /><a href="#content-ulises-jeremias" title="Content">🖋</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/andryandrew"><img src="https://avatars.githubusercontent.com/u/29781022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Andrea</b></sub></a><br /><a href="#content-andryandrew" title="Content">🖋</a></td>
   </tr>
 </table>
 

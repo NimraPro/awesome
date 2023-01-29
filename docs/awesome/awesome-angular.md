@@ -77,6 +77,7 @@ Table of contents:
 * [@waterplea](https://twitter.com/waterplea)
 * [@marsibarsi](https://twitter.com/marsibarsi)
 * [@maciejtreder](https://twitter.com/maciejtreder)
+* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -109,10 +110,12 @@ Table of contents:
 * [Nir kaufman](https://twitter.com/nirkaufman)
 * [Dmitriy Shekhovtsov](https://twitter.com/valorkin)
 * [Jeff Delaney](https://twitter.com/jeffdelaney23)
-* [Nishu Goel](https://twitter.com/DcoustaWilson)
+* [Nishu Goel](https://twitter.com/TheNishuGoel)
 * [Alex Inkin](https://twitter.com/waterplea)
 * [Santosh Yadav](https://twitter.com/SantoshYadavDev)
 * [Ankit](https://twitter.com/ankitsharma_007)
+* [Siddharth Ajmera](https://twitter.com/SiddAjmera)
+* [Muhammad Ahsan Ayaz](https://twitter.com/codewith_ahsan) 
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
@@ -128,7 +131,7 @@ Table of contents:
 * [md2](https://www.npmjs.com/package/md2) Angular2 based Material Design components, directives and services are Accordion, Autocomplete, Collapse, Colorpicker, Datepicker, Dialog(Modal), Menu, Multiselect, Select, Switch, Tabs, Tags(Chips), Toast and Tooltip.
 * [ng2-material](https://www.npmjs.com/package/ng2-material) set of material2 examples and extra components (data table, dialog, ...) built on top of @angular2-material/core
 * [angular2-mdl](https://www.npmjs.com/package/angular2-mdl) Angular 2 components, directives and styles based on Material Design Lite
-* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carusel, grid, lightbox, selectfield, sticky header, ...)
+* [mdl-ext](https://www.npmjs.com/package/mdl-ext) Material Design Lite Ext (carousel, grid, lightbox, selectfield, sticky header, ...)
 * [ng2-materialize](https://github.com/sherweb/ng2-materialize) An Angular 2 wrap around Materialize library
 * [Material Light](https://github.com/YagoLopez/material-light) Light, fast and easy to use Material Design components for Angular 2+ (Especially for mobile UI). There are several alternatives but this one has added value and advantages in my opinion (Take a loot at the Readme.md for details). There is also an online demo to see it in action. (API documentation is still lacking but in process).
 * [Blox Material](https://github.com/src-zone/material) A lightweight Material Design library for Angular, based upon Google's Material Components for the Web.
@@ -297,6 +300,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Angular-Buch (German)](https://angular-buch.com/) `dpunkt.verlag`
 * [Angular Institute](https://angular.institute/) `angular.institute`
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) `Ankit Sharma`
+* [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) `Packt Publishing`
 
 #### On-Site Training
 
@@ -419,6 +423,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [Augury](https://augury.rangle.io/) - Browser extension for debugging and profiling Angular applications.
 * [CodeSandbox](https://codesandbox.io/s/angular-angular) - An online IDE and prototyping tool for rapid Angular development.
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
+* [Angular Dev Tools](https://angular.io/guide/devtools/) - Angular DevTools is a Chrome extension that provides debugging and profiling capabilities for Angular applications.
 
 #### TodoMVC
 
@@ -529,6 +534,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular-clickable-click](https://github.com/DanielKucal/angular-clickable-click) - Sets pointer cursor on elements using  standard `(click)` output and allows to disable such events
 * [angular-esc](https://github.com/DanielKucal/angular-esc) - Adds `(esc)` output fired by the Escape key
 * [ngx-konami](https://github.com/lauthieb/ngx-konami) - Simple directive to add easter eggs in Angular 2+ applications
+* [ngx-focus-control](https://github.com/Raiper34/ngx-focus-control) - Library to provide tools to work with focus and focusable elements to improve user interfaces and accessibility
 
 #### Layout Components
 
@@ -587,6 +593,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-cache](https://github.com/fulls1z3/ngx-cache) - Cache utility for Angular (incl. browser & server platform implementations) by @fulls1z3
 * [universal-model-angular](https://github.com/universal-model/universal-model-angular) - Store and state management for Angular
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
+* [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only Services and RxJS.
 
 #### Tables
 
@@ -675,7 +682,10 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [ngx-linkifyjs](https://github.com/AnthonyNahas/ngx-linkifyjs) - Angular V6 wrapper for linkifyjs - library for finding links in plain text and converting them to HTML <a> tags via linkifyjs
 * [ngx-meta](https://github.com/fulls1z3/ngx-meta) - Dynamic page title & meta tags utility for Angular (w/server-side rendering) by @fulls1z3
 * [ngx-wheel](https://github.com/Sayegh7/ngx-wheel) - Angular prize winning wheel component!
+* [@tolgee/ngx](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
+* [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 
 ### JAM Stack
 
@@ -732,7 +742,6 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
 * [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
-* [Angular 2 quickstart seed](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
   and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
@@ -750,6 +759,7 @@ The HttpClient offers a simplified client HTTP API for Angular applications that
 * [NG-MATERO](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
 * [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
 * [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
+* [Eoapi](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
 * [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 ---

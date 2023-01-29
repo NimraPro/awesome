@@ -14,7 +14,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React General Resources
 
 - [React Official Website](https://reactjs.org/)
-- [React Documentation](https://reactjs.org/docs)
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [React GitHub](https://github.com/facebook/react)
 
 #### React Community
@@ -109,6 +109,8 @@ A collection of awesome things regarding the React ecosystem.
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 - [Divjoy](https://divjoy.com) - React codebase and UI generator to speed up development (paid)
 - [Plasmic](https://www.plasmic.app/) - Powerful design tool for building your React components visually.
+- [jsx-ast-utils](https://github.com/jsx-eslint/jsx-ast-utils) - AST utility module for statically analyzing JSX
+- [react-scanner](https://github.com/moroshko/react-scanner) - Extract React components and props usage from code
 
 ##### React Starter Kits and Toolchains
 
@@ -127,6 +129,7 @@ A collection of awesome things regarding the React ecosystem.
 - [remix](https://remix.run/) - Finally, a killer React framework from the creators of React Router
 - [Blitz](https://blitzjs.com) - The Fullstack React Framework
 - [aleph.js](https://github.com/alephjs/aleph.js) - The React Framework in Deno
+- [refine](https://refine.dev) - A React-based framework for building data-intensive applications in no time.
 
 ##### React Styling
 
@@ -135,9 +138,13 @@ A collection of awesome things regarding the React ecosystem.
 - [radium](https://github.com/FormidableLabs/radium) - A toolchain for React component styling
 - [jss](https://github.com/cssinjs/jss) - Authoring tool for CSS
 - [aphrodite](https://github.com/Khan/aphrodite) - Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation
+- [linaria](https://github.com/callstack/linaria) - Zero-Runtime CSS in JS
+- [stitches](https://github.com/modulz/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience
+- [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
 ##### React Routing
 
+- [react-location](https://github.com/TanStack/react-location) - Enterprise Client-Side Routing for React
 - [react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
 - [navi](https://github.com/frontarm/navi) - Declarative, asynchronous routing for React
 - [curi](https://github.com/pshrmn/curi) - JavaScript router for single-page applications
@@ -170,6 +177,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-bulma](https://github.com/kulakowka/react-bulma) - React.js components for Modern CSS framework based on Flexbox
 - [trunx](https://github.com/fibo/trunx) - Super Saiyan React components, son of awesome Bulma, implemented in TypeScript
 - [bumbag-ui](https://github.com/bumbag/bumbag-ui) - Build accessible & themeable React applications with your Bumbag
+- [Mantine](https://github.com/mantinedev/mantine) – A fully featured React library with 100+ hooks and components with native dark theme support
+- [radix](https://github.com/radix-ui/primitives) - An open-source UI component library for building high-quality, accessible design systems and web apps
 
 ##### React Awesome Components
 
@@ -199,6 +208,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
+- [data-source](https://github.com/facebook/flipper/tree/main/desktop/flipper-plugin/src/data-source) - Library to power streaming data visualisations as used in Facebook's Flipper
 - [react-text-mask](https://github.com/text-mask/text-mask) - Input mask for React
 - [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 - [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - A collection of loading indicators animated with CSS for React
@@ -221,6 +231,8 @@ A collection of awesome things regarding the React ecosystem.
 - [react-modal](https://github.com/reactjs/react-modal) - Accessible modal dialog component for React
 - [cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - Font Awesome 5 React component
+- [react-advanced-cropper](https://github.com/Norserium/react-advanced-cropper) - An advanced React component for image cropping
+- [swiper](https://github.com/nolimits4web/swiper) - modern mobile touch slider
 
 ##### React Testing
 
@@ -321,15 +333,17 @@ A collection of awesome things regarding the React ecosystem.
 
 - [redux](#redux) - Predictable State Container for JavaScript Apps
 - [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management
-- [react-query](https://github.com/tannerlinsley/react-query)
+- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React
 - [flux](http://facebook.github.io/flux/) - Application architecture for building user interfaces
 - [recoil](https://github.com/facebookexperimental/Recoil) - Experimental state management library for React apps
+- [jotai](https://github.com/pmndrs/jotai) - Bottom-up approach to React state management with an atomic model
 - [xstate-react](https://github.com/davidkpiano/xstate/tree/master/packages/xstate-react) - State machines and statecharts for the modern web
 - [zustand](https://github.com/pmndrs/zustand) - Bear necessities for state management in React
 - [easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 - [hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [effector](https://github.com/zerobias/effector) - Fast and powerful reactive state manager
 - [reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management
+- [react-facet](https://github.com/Mojang/ore-ui/tree/main/packages/%40react-facet/) - Observable-based state management for performant game UIs built in React
 
 ##### React AR and VR
 
@@ -357,6 +371,7 @@ A collection of awesome things regarding the React ecosystem.
 - [uniforms](https://github.com/vazco/uniforms) - A React library for building forms from any schema
 - [formsy-react](https://github.com/formsy/formsy-react/) - A form input builder and validator for React
 - [react-formal](https://github.com/jquense/react-formal) - Sophisticated HTML form management for React
+- [vest](https://github.com/ealush/vest) - Declarative form validation framework inspired by unit testing syntax.
 
 ##### Autocomplete
 
@@ -512,6 +527,7 @@ A collection of awesome things regarding the React ecosystem.
 - [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for Redux
 - [redux-undo](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to redux state containers
 - [redux-persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a redux store
+- [Rematch](https://github.com/rematch/rematch) - Redux made easy
 
 #### Redux Tutorials
 
@@ -591,8 +607,6 @@ for Node.js and TypeScript
 
 ### Videos
 
-#### [reactjsvideos.com](https://www.reactjsvideos.com)
-
 #### Important Talks
 
 - [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
@@ -663,7 +677,6 @@ for Node.js and TypeScript
 - [mattermost](https://github.com/mattermost/mattermost-webapp) - Open source Slack alternative
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [winamp2-js](https://github.com/captbaritone/winamp2-js) - Winamp 2 reimplemented for the browser
-- [dnote](https://github.com/dnote/dnote) - A command line notebook with multi-device sync and web interface
 
 ---
 

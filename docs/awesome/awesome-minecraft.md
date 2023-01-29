@@ -24,6 +24,11 @@
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
 - [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
 
+### Mod Libraries
+
+- [Modrinth](https://modrinth.com/) - Open source Minecraft mod library with powerful filtering.
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods) - The largest repository for Minecraft mods.
+
 ### Archives
 
 - [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
@@ -50,6 +55,8 @@
 - [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 - [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+- [Iris (for Fabric)](https://irisshaders.net/) - A Fabric mod which is based upon Sodium to add Shader support.
+- [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
 ### Skins And Capes
 
@@ -80,7 +87,7 @@
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - A large ender themed mod, that just adds lots of new fun things.
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft) - A mod that adds rockets and new planets to explore. Expandable with addons.
 - [OpenComputers](https://ocdoc.cil.li) - OpenComputers is a mod that adds computers and robots into the game, which can be programmed in Lua 5.3.
-- [ComputerCraft](https://www.computercraft.info) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
+- [ComputerCraft](https://computercraft.cc) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 - [WarpDrive](https://www.curseforge.com/minecraft/mc-mods/warpdrive) - Adds Star Trek and other franchise like ships, weapons, transporters and so on into the game. Also adds new planets (dimensions).
 
 ### Farming And Food
@@ -142,6 +149,7 @@
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 - [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
+- [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
 
 ## Resource Packs
 
@@ -151,6 +159,7 @@
 - [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
 - [Soartex](https://soartex.net/) - Smooth resource pack with mod support.
 - [Faithful](https://faithful.team/) - Smooth textures for a furbished default look.
+- [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) - Adds loads of new blocks with connected textures in optifine.
 
 ## Shader Packs
 
@@ -171,17 +180,19 @@
 
 ### Servers
 
-- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
+- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
+- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
+- [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) - A self-hosted Minecraft server using Docker containers.
 - [Glowstone](https://glowstone.net/) - Formerly known as Spout and BukkitContrib. Spigot Server alternative written from scratch with performance similar to Paper.
+- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
+- [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
+- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
+- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
+- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
-- [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
-- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
-- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
-- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
-- [Nukkit/NukkitX](https://cloudburstmc.org/articles/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
-- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
+- [Gate](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
 
 ### Libraries
 
